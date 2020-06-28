@@ -1,4 +1,4 @@
-# Open Source Developer Masha Novedad
+# Open Source Developer Masha Novedad, the author of The Fastest Mouse Clicker for Windows
 
 ## My Projects
 
