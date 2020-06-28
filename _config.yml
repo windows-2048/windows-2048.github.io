@@ -1,2 +1,3 @@
 theme: jekyll-theme-minimal
 title: The Fastest Mouse Clicker for Windows
+description: Open Source Developer Masha Novedad, the author of The Fastest Mouse Clicker for Windows, a compact, standalone and ultimately the fastest mouse clicker written in vanilla C++ and uses arrayed SendInput() Win32 API
