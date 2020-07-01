@@ -11,3 +11,7 @@ Welcome to download!
 
 * [The Fastest Mouse Clicker for Windows](https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows){:target="_blank"}
 * [2048 Game Professional for Windows](https://github.com/windows-2048/2048-Game-Professional-for-Windows){:target="_blank"}
+
+## Facebook fan group
+
+* [mashanovedad](https://www.facebook.com/groups/mashanovedad){:target="_blank"}
