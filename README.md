@@ -15,3 +15,7 @@ Welcome to download!
 ## Facebook fan group
 
 * [mashanovedad](https://www.facebook.com/groups/mashanovedad){:target="_blank"}
+
+## Email
+
+* [mashanovedad@gmail.com](mailto:mashanovedad@gmail.com)
