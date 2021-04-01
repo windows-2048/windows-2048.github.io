@@ -19,3 +19,7 @@ Welcome to download!
 ## Email
 
 * [mashanovedad@gmail.com](mailto:mashanovedad@gmail.com)
+
+## Copyright
+
+Copyright (c) 2016-2021 by Open Source Developer Masha Novedad.
