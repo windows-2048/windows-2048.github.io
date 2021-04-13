@@ -1,6 +1,6 @@
 ## Open Source Developer Masha Novedad, the author of The Fastest Mouse Clicker for Windows
 
-> Updated Apr 09 2021.
+> Updated Apr 13 2021.
 
 ### Open Source Developer Masha Novedad, the author of The Fastest Mouse Clicker for Windows, a compact, standalone and ultimately the fast mouse clicker written in vanilla C++ and uses arrayed SendInput() Win32 API
 
