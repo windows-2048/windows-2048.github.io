@@ -1,14 +1,15 @@
-# __Jose Ramon Aleman__
-*__Software Engineer__*
+# __Open Source Developer Masha Novedad__
+*__Experienced software engineer to build scalable high-load fault-tolerant systems in the fintech, health, and military industries.__*
 
 ## __Contact Info__
 
 ```
-Address  : 6600 Dumbarton Cir, Fremont, CA 94555
-Phone    : 863-738-9740
-Email    : jraleman@bendiburg.com
-Linkedin : linkedin.com/in/jraleman/
-Github   : github.com/jraleman/
+Address  : Frutiger AG Weissweg 3 3006 Bern
+Phone    : 000-000-00-00
+Email    : mashanovedad@gmail.com
+Facebook : facebook.com/groups/mashanovedad
+Twitter  : twitter.com/Fastest_Clicker
+Github   : github.com/windows-2048
 ```
 
 ----
@@ -17,14 +18,14 @@ Github   : github.com/jraleman/
 
 ### Languages and Tools
 
-- C / C++
-- Python
-- Node, Express
-- JavaScript, TypeScript
+- C/C++, Qt, Win32 API
+- Python, ML
+- Haskell
+- Node.js, JavaScript, TypeScript
 - HTML, CSS
-- Git,
-- SQL/PostGreSQL, MongoDB
-- Docker
+- Java, C#
+- SQL, PostgreSQL, MySQL, MariaDB
+- FFMPEG
 
 ### Programming Practices
 
