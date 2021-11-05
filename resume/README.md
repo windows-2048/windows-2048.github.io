@@ -8,7 +8,7 @@ __Experienced software engineer to build scalable high-load fault-tolerant syste
 
 ```
 Address  : Frutiger AG Weissweg 3 3006 Bern
-Phone    : iPhone 13 Pro Max
+Phone    : iPhone 13 Pro Max 1Tb
 Email    : mashanovedad@gmail.com
 Facebook : facebook.com/groups/mashanovedad
 Twitter  : twitter.com/Fastest_Clicker
@@ -29,11 +29,27 @@ Github   : github.com/windows-2048
 
 ### __Apple/Senior Full Stack Engineer - service backend team__
 
-> April 2012 - September 2018, Cupertino, California
+> April 2014 - September 2018, Cupertino, California
 
 * Built new iCloud fault-tolerant replication cluster infrastructure
 * Designed an architecture of Neural Engine for M1 family processors
 * Developed the best practice philosophy, syntax and formal standard of Swift programing language
+
+### __Netflix/Software Engineer - film production team__
+
+> January 2011 - March 2014, Los Gatos, California
+
+* Adopted FFMPEG to transcode millions of source raw videos to various codecs and containers in real time broadcasting
+* Developed a cloudflare-like decentralized movie storage; contributed thousands of code lines to open source project IPFS
+* Resolved 358 performance bugs in motion capture and real time render software thus established robust 24/7 movie making workflow
+
+### __Microsoft/Software Engineer - virtualization team__
+
+> May 2008 - December 2011, Redmond, Washington
+
+* Developed Hyper-V virtualization technology for high-end Windows servers joined to clusters over VPN
+* Implemented the undetectable bluepill with proven guaranty for use in military-grade applications
+* Wrote DirectX specifications for hardware manufactures to use Windows workstations in healthcare applications
 
 ---
 
@@ -56,11 +72,13 @@ Github   : github.com/windows-2048
 
 ## __Education__
 
-### __University of California Berkeley / B.S. in Data Science__
+### __Massachusetts Institute of Technology / B.S. in Data Science__
 
-> August 2008 - May 2013, Berkeley, California
+> July 2003 - August 2008,  Cambridge, Massachusetts
 
-* PhD in mathematics and biology
+* PhD in mathematics and bioinformatics
+* Helped to establish official bioinformatics courses for students
+* Honored Member of Chi Phi fraternity
 
 ---
 
@@ -68,6 +86,6 @@ Github   : github.com/windows-2048
 
 1. **English**: Native language (born in English-Spanish family)
 2. **Spanish**: Native language
-3. **Italian**: Advanced experience
+3. **Italian**: Advanced experience (practically native)
 4. **German**: Advanced experience
-4. **Chinese**: Advanced experience
+5. **Chinese**: Advanced experience
