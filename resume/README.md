@@ -17,6 +17,17 @@ Github   : github.com/windows-2048
 
 ---
 
+## __Experience__
+
+### __BlackRock/Senior Full Stack Engineer - backend team__
+
+> November 2018 - PRESENT, New York City
+
+* Built formally verified internal BlockChain to manage and store bonds and assets
+* Optimized web app performance through ML algorithm to quickly resolve and redirect huge data pipelines.
+
+---
+
 ## __Skills__
 
 - Intel and ARM assembler
@@ -33,26 +44,19 @@ Github   : github.com/windows-2048
 
 ---
 
-## __Experience__
+## __Education__
 
-### __BlackRock/Senior Full Stack Engineer - backend team__
+### __University of California Berkeley / B.S. in Data Science
 
-> November 2018 - PRESENT, New York City
+> August 2008 - May 2013, Berkeley, California
 
-* Built formally verified internal BlockChain to manage and store bonds and assets
-* Optimized web app performance through ML algorithm to quickly resolve and redirect huge data pipelines.
-
----
-
-## __Awards__
-
-- 2016 Space Apps Challenge (an initiative of NASA) First place in National Level to represent Panama at the International level.
-- 2018 Baidu Facemoji Keyboard Designer challenge winner.
+* PhD in mathematics and biology.
 
 ---
 
 ## __Languages__
 
-1. **Spanish**: Native language
-2. **English**: Bilingual proficiency
-3. **German**: Limited proficiency
+1. **English**: Native language (born in English-Spanish family)
+2. **Spanish**: Native language
+3. **German**: Advanced experience
+4. **Chinese**: Advanced experience.
