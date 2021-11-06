@@ -89,3 +89,16 @@ Github   : github.com/windows-2048
 3. **Italian**: Advanced experience (practically native)
 4. **German**: Advanced experience
 5. **Chinese**: Advanced experience
+
+---
+
+## My Pet Projects__
+
+Want me to work for you? First, add a star to my open source pet projects:
+
+* [The Fastest Mouse Clicker for Windows](https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/){:target="_blank"} ( [mirror](https://www.open-source.tech/The-Fastest-Mouse-Clicker-for-Windows/){:target="_blank"} )
+* [2048 Game Professional for Windows](https://github.com/windows-2048/2048-Game-Professional-for-Windows){:target="_blank"}
+
+Then, email me:
+
+**mashanovedad@gmail.com**
