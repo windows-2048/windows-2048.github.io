@@ -92,7 +92,7 @@ Github   : github.com/windows-2048
 
 ---
 
-## My Pet Projects__
+## __My Pet Projects__
 
 Want me to work for you? First, add a star to my open source pet projects:
 
