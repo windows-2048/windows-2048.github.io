@@ -81,7 +81,7 @@ Github   : github.com/windows-2048
 
 ## __Education__
 
-### __Massachusetts Institute of Technology / B.S. in Data Science__
+### __[Massachusetts Institute of Technology](https://web.mit.edu){:target="_blank"} / PhD in Data Science__
 
 > July 2003 - August 2008,  Cambridge, Massachusetts
 
