@@ -30,27 +30,28 @@ Github   : github.com/windows-2048
 * Built formally verified internal BlockChain to manage and store bonds and assets
 * Optimized web app performance through ML algorithm to quickly resolve and redirect huge data pipelines
 * Wrote Ethereum oracle to predict stock market movements using 1000+ input indicators
-* Developed lightweight Kubernet containers that can automatically organize in military grade fault-tolerant mesh
-* In collaboration with Pfizer, deployed Kubernet mesh to make distributed modelling of chemical structures resulted in [PF-07321332 (Paxlovid)](https://en.wikipedia.org/wiki/PF-07321332){:target="_blank"}
+* Developed lightweight [Kubernetes](https://kubernetes.io){:target="_blank"} containers that can automatically organize in military grade fault-tolerant mesh
+* In collaboration with [Pfizer](https://www.pfizer.com){:target="_blank"}, deployed Kubernet mesh to make distributed modelling of chemical structures resulted in [PF-07321332 (Paxlovid)](https://en.wikipedia.org/wiki/PF-07321332){:target="_blank"}
 
-### __Apple/Senior Full Stack Engineer - service backend team__
+### __[Apple](https://www.apple.com){:target="_blank"}/Senior Full Stack Engineer - service backend team__
 
 > April 2014 - September 2018, Cupertino, California
 
 * Built new iCloud fault-tolerant replication cluster infrastructure
 * Designed an architecture of Neural Engine for M1 family processors
-* Developed the best practice philosophy, syntax and formal standard of Swift programing language
+* Developed the best practice philosophy, syntax and formal standard of [Swift](https://www.swift.org){:target="_blank"} programing language
 * Developed ProRes codec standard, specification and reference implementation
+* Developed secret internal standard in collaboration with [CIA](https://www.cia.gov){:target="_blank"}
 
-### __Netflix/Software Engineer - film production team__
+### __[Netflix](https://www.netflix.com){:target="_blank"}/Software Engineer - film production team__
 
 > January 2011 - March 2014, Los Gatos, California
 
-* Adopted FFMPEG to transcode millions of source raw videos to various codecs and containers in real time broadcasting
-* Developed a cloudflare-like decentralized movie storage; contributed thousands of code lines to open source project IPFS
+* Adopted [FFMPEG](https://ffmpeg.org){:target="_blank"} to transcode millions of source raw videos to various codecs and containers in real time broadcasting
+* Developed a [cloudflare](https://www.cloudflare.com){:target="_blank"}-like decentralized movie storage; contributed thousands of code lines to open source project [IPFS](https://www.ipfs.com){:target="_blank"}
 * Resolved 358 performance bugs in motion capture and real time render software thus established robust 24/7 movie making workflow
 
-### __Microsoft/Software Engineer - virtualization team__
+### __[Microsoft](https://www.microsoft.com){:target="_blank"}/Software Engineer - virtualization team__
 
 > May 2008 - December 2011, Redmond, Washington
 
@@ -102,7 +103,7 @@ Github   : github.com/windows-2048
 
 ## __My Pet Projects__
 
-Want me to work for you? First, add a star to my open source pet projects:
+Want me to work for you? First, add a GitHub star to my open source pet projects:
 
 * [The Fastest Mouse Clicker for Windows](https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows){:target="_blank"}
 * [2048 Game Professional for Windows](https://github.com/windows-2048/2048-Game-Professional-for-Windows){:target="_blank"}
