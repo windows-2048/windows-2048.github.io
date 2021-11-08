@@ -1,3 +1,7 @@
+RESUME
+
+---
+
 # __Open Source Developer Masha Novedad__
 
 __Experienced software engineer to build scalable high-load fault-tolerant systems with comprehensive formal verification in the fintech, health and military industries__
@@ -19,13 +23,15 @@ Github   : github.com/windows-2048
 
 ## __Experience__
 
-### __BlackRock/Senior Full Stack Engineer - service backend team__
+### __[BlackRock](https://www.blackrock.com){:target="_blank"}/Senior Full Stack Engineer - service backend team__
 
 > November 2018 - PRESENT, New York City
 
 * Built formally verified internal BlockChain to manage and store bonds and assets
 * Optimized web app performance through ML algorithm to quickly resolve and redirect huge data pipelines
 * Wrote Ethereum oracle to predict stock market movements using 1000+ input indicators
+* Developed lightweight Kubernet containers that can automatically organize in military grade fault-tolerant mesh
+* In collaboration with Pfizer, deployed Kubernet mesh to make distributed modelling of chemical structures resulted in [PF-07321332 (Paxlovid)](https://en.wikipedia.org/wiki/PF-07321332){:target="_blank"}
 
 ### __Apple/Senior Full Stack Engineer - service backend team__
 
@@ -34,6 +40,7 @@ Github   : github.com/windows-2048
 * Built new iCloud fault-tolerant replication cluster infrastructure
 * Designed an architecture of Neural Engine for M1 family processors
 * Developed the best practice philosophy, syntax and formal standard of Swift programing language
+* Developed ProRes codec standard, specification and reference implementation
 
 ### __Netflix/Software Engineer - film production team__
 
@@ -50,6 +57,7 @@ Github   : github.com/windows-2048
 * Developed Hyper-V virtualization technology for high-end Windows servers joined to clusters over VPN
 * Implemented the undetectable bluepill with proven guaranty for use in military-grade applications
 * Wrote DirectX specifications for hardware manufactures to use Windows workstations in healthcare applications
+* Wrote a Windows driver for [Olympus](https://medical.olympusamerica.com/specialty/gastroenterology){:target="_blank"} endoscopic equipment
 
 ---
 
