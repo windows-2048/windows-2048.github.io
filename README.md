@@ -1,6 +1,6 @@
 ## Open Source Developer Masha Novedad, the author of The Fastest Mouse Clicker for Windows
 
-> Updated Nov 18 2021. Resume [link](https://windows-2048.github.io/resume/){:target="_blank"} added. Help [text](https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/index.html#HelpHowToUse){:target="_blank"} added.
+> Updated Nov 21 2021. Resume [link](https://windows-2048.github.io/resume/){:target="_blank"} added. Help [text](https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/index.html#HelpHowToUse){:target="_blank"} added.
 
 ### Open Source Developer Masha Novedad, the author of The Fastest Mouse Clicker for Windows, a compact, standalone and ultimately the fast mouse clicker written in vanilla C++ and uses arrayed SendInput() Win32 API
 
