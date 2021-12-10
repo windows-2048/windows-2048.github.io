@@ -4,7 +4,7 @@ RESUME
 
 # __Open Source Developer Masha Novedad__
 
-__Experienced software engineer to build scalable high-load fault-tolerant systems with comprehensive formal verification in the fintech, health and military industries__
+__Experienced software engineer for scalable high-load fault-tolerant systems with comprehensive formal verification in the fintech, health and military areas.__
 
 ---
 
