@@ -1,8 +1,8 @@
-## Open Source Developer Masha Novedad, the author of The Fastest Mouse Clicker for Windows
+## {{site.title}}
 
 > Updated Dec 10 2021. Resume [link](https://windows-2048.github.io/resume/){:target="_blank"} added. Help [text](https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/index.html#HelpHowToUse){:target="_blank"} added.
 
-### Open Source Developer Masha Novedad, the author of The Fastest Mouse Clicker for Windows, a compact, standalone and ultimately the fast mouse clicker written in vanilla C++ and uses arrayed SendInput() Win32 API
+### {{site.description}}
 
 Hi! My name is Masha Novedad ( [resume](https://windows-2048.github.io/resume/){:target="_blank"} , [mirror](https://www.open-source.tech/mashanovedad/){:target="_blank"} ). I am open source programmer since 2016. I write in vanilla C++.
 All my applications are compact, standalone and statically-linked thus they have no external dependencies.
