@@ -24,4 +24,4 @@ Welcome to download!
 
 ## Copyright
 
-Copyright (c) 2016-2021 by Open Source Developer Masha Novedad.
+Copyright (c) 2016-2022 by Open Source Developer Masha Novedad.
