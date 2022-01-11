@@ -1,6 +1,6 @@
 ## {{site.title}}
 
-> Updated Jan 05 2022. Resume [link](https://windows-2048.github.io/resume/){:target="_blank"} added. Help [text](https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/index.html#HelpHowToUse){:target="_blank"} added.
+> Updated Jan 11 2022. Resume [link](https://windows-2048.github.io/resume/){:target="_blank"} added. Help [text](https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/index.html#HelpHowToUse){:target="_blank"} added.
 
 ### {{site.description}}
 
