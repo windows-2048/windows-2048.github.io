@@ -1,13 +1,11 @@
 ---
 layout: default
-canonical: https://windows-2048.github.io/
+canonical: https://windows-2048.github.io/resume/
+permalink: /resume/
 ---
 
-RESUME
 
----
-
-## __Open Source Developer Masha Novedad__
+## RESUME __Open Source Developer Masha Novedad__
 
 __Experienced software engineer for scalable high-load fault-tolerant systems with comprehensive formal verification in the fintech, health and military areas.__
 
