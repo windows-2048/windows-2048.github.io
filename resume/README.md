@@ -1,8 +1,13 @@
+---
+layout: default
+canonical: https://windows-2048.github.io/
+---
+
 RESUME
 
 ---
 
-# __Open Source Developer Masha Novedad__
+## __Open Source Developer Masha Novedad__
 
 __Experienced software engineer for scalable high-load fault-tolerant systems with comprehensive formal verification in the fintech, health and military areas.__
 

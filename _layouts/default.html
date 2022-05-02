@@ -17,7 +17,11 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="{{site.description}}" />
 <meta property="og:description" content="{{site.description}}" />
-<link rel="canonical" href="https://windows-2048.github.io/" />
+{% if page.canonical %}
+<link rel="canonical" href="{{page.canonical}}" />
+{% else %}
+<link rel="canonical" href="{{site.canonical}}" />
+{% endif %}
 <meta property="og:url" content="https://windows-2048.github.io/" />
 <meta property="og:site_name" content="{{site.title}}" />
 <meta name="twitter:card" content="summary" />
