@@ -4,6 +4,7 @@ canonical: https://windows-2048.github.io/resume/
 permalink: /resume/
 ---
 
+> Updated Jan 27 2023
 
 ## RESUME __Open Source Developer Masha Novedad__
 
