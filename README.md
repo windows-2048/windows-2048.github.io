@@ -1,6 +1,6 @@
 ## {{site.title}}
 
-> Updated Jan 27 2023. Teaser developer's screenshot for The Fastest Mouse Clicker v3.0.0.0 (cross-platform Qt edition) [added](https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/index.html#TheFastestMouseClickerQt). [Mouse Polling Rate](https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/index.html#Mouse_Polling_Rate) has been discussed. Anniversary 100 stars at [GitHub](https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows)! Instead of [WTL](https://sourceforge.net/projects/wtl/), the project migrates to [Qt](https://www.qt.io/) with full code rewrite and getting cross-platform (Windows/Linux/MacOS). [Screenshot](https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows) with "secret" features added. Disambiguation note has been updated by the video at official site.
+> Updated Feb 09 2023. Teaser developer's screenshot for The Fastest Mouse Clicker v3.0.0.0 (cross-platform Qt edition) [added](https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/index.html#TheFastestMouseClickerQt). [Mouse Polling Rate](https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/index.html#Mouse_Polling_Rate) has been discussed. Anniversary 100 stars at [GitHub](https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows)! Instead of [WTL](https://sourceforge.net/projects/wtl/), the project migrates to [Qt](https://www.qt.io/) with full code rewrite and getting cross-platform (Windows/Linux/MacOS). [Screenshot](https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows) with "secret" features added. Disambiguation note has been updated by the video at official site.
 
 ### {{site.description}}
 
@@ -24,4 +24,4 @@ Welcome to download!
 
 ## Copyright
 
-Copyright (c) 2016-2022 by Open Source Developer Masha Novedad.
+Copyright (c) 2016-2023 by Open Source Developer Masha Novedad.
