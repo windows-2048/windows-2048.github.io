@@ -1,6 +1,10 @@
 ## {{site.title}}
 
-> Updated Feb 09 2023. Teaser developer's screenshot for The Fastest Mouse Clicker v3.0.0.0 (cross-platform Qt edition) [added](https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/index.html#TheFastestMouseClickerQt). [Mouse Polling Rate](https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/index.html#Mouse_Polling_Rate) has been discussed. Anniversary 100 stars at [GitHub](https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows)! Instead of [WTL](https://sourceforge.net/projects/wtl/), the project migrates to [Qt](https://www.qt.io/) with full code rewrite and getting cross-platform (Windows/Linux/MacOS). [Screenshot](https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows) with "secret" features added. Disambiguation note has been updated by the video at official site.
+> Updated Mar 01 2023. [Great update on The Fastest Mouse Clicker v3.0.0.0 (cross-platform Qt edition)](https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/index.html#TheFastestMouseClickerQt){:target="_blank"}.
+> The Fastest Mouse Clicker v3.0.0.0 (the Qt edition) will use [cross-platform libuiohook library](https://github.com/kwhat/libuiohook/){:target="_blank"}
+> to handle system all-displays-wide mouse and keyboard events. Its graphical UI will be completely re-designed to perform fully automatic
+> recording and playback all the mouse and keyboard events. You can even edit the sequence recorded in depth and modify its playback speed.
+> Furthermore you can randomize every mouse click or keyboard press. Mouse wheel events will be also supported.
 
 ### {{site.description}}
 
