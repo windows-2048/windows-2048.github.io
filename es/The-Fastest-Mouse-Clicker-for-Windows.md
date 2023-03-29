@@ -1,12 +1,10 @@
 ---
 layout: default
-canonical: https://windows-2048.github.io/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/
-permalink: /es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/
 en_title: En Inglés: The Fastest Mouse Clicker for Windows
-es_title: El Clicker de Ratón Más Rápido para Windows
+title: El Clicker de Ratón Más Rápido para Windows
 ---
 
-## ![Windows](./windows.svg) {{page.es_title}}
+## ![Windows](./windows.svg) {{page.title}}
 
 ### {{page.en_title}}
 

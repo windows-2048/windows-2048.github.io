@@ -1,7 +1,6 @@
 ---
 layout: default
-canonical: https://windows-2048.github.io/resume/
-permalink: /resume/
+title: Resume of Open Source Developer Masha Novedad
 ---
 
 > Updated Jan 27 2023
