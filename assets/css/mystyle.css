@@ -1,4 +1,10 @@
-
+ul.lang {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;	
+}
 
 .highlight table td {
     padding: 5px;
