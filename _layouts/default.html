@@ -124,7 +124,7 @@
     {% if post.lang == page.lang %}
       <li><span class="fi fi-{{ site.t['lang_state'][page.lang] }}"></span>{{ page.lang }}</li>
     {% else %}
-      <li><a href="{{ site.base-url }}{{ post.url }}"><span class="fi fi-{{ site.t['lang_state'][page.lang] }}"></span>{{ post.lang }}</a></li>
+      <li><a href="{{ site.base-url }}{{ post.url }}"><span class="fi fi-{{ site.t['lang_state'][post.lang] }}"></span>{{ post.lang }}</a></li>
     {% endif %}
     {% endfor %}
   </ul>
