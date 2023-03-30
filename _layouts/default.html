@@ -122,9 +122,9 @@
   <ul class="lang">
     {% for post in posts %}
     {% if post.lang == page.lang %}
-      <li>{% for country in site.t['lang_countries'][page.lang] %}<span class="fi fi-{{ country.name }}"></span>{% endfor %}{{ page.lang }}</li>
+      <li>{% for country in site.t['lang_countries'][page.lang] %}<span class="fi fi-{{ country.name }}"></span> {% endfor %}{{ page.lang }}</li>
     {% else %}
-      <li><a href="{{ site.base-url }}{{ post.url }}">{% for country in site.t['lang_countries'][post.lang] %}<span class="fi fi-{{ country.name }}"></span>{% endfor %}{{ post.lang }}</a></li>
+      <li><a href="{{ site.base-url }}{{ post.url }}">{% for country in site.t['lang_countries'][post.lang] %}<span class="fi fi-{{ country.name }}"></span> {% endfor %}{{ post.lang }}</a></li>
     {% endif %}
     {% endfor %}
   </ul>
