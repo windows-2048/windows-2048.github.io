@@ -118,7 +118,11 @@
 
   <ul class="lang">
     {% for post in posts %}
+    {% if post.lang == page.lang %}
+      <li>{{ page.lang }}</li>
+    {% else %}
       <li><a href="{{ site.base-url }}{{ post.url }}">{{ post.lang }}</a></li>
+    {% endif %}
     {% endfor %}
   </ul>
 
