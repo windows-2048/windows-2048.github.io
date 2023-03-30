@@ -1,7 +1,7 @@
 ---
 title: RESUME Open Source Developer Masha Novedad
 i18n-link: resume
-url: /resume/
+permalink: /resume/
 ---
 
 > Updated Jan 27 2023
