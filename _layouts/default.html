@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang="{{ site.t['html_lang'][page.lang] }}">
   <head>
     <meta charset="utf-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-<link rel="icon" href="{{site.logo | relative_url}}"/>
+<link rel="icon" href="/assets/images/favicon_large.png"/>
 
 <title>{{ site.t['title'][page.lang] }}</title>
 <!-- Begin formerly Jekyll SEO tag v2.6.1 -->
@@ -157,12 +157,8 @@
 </p>
 
 <p class="view">
-Updated Mar 01 2023
+{{ site.t['updated_text'][page.lang] }} : {{ site.t['updated_month'][page.lang] }} 01 2023
 </p>
-
-        {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
 
 <p class="view">
 <a href="https://www.facebook.com/groups/mashanovedad" target="_blank">

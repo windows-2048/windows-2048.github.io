@@ -32,3 +32,12 @@ t:
     download_the_latest_version:
         en: "Download the latest version"
         es: "Descarga la última versión"
+    html_lang:
+        en: "en-US"
+        es: "es-AR"
+    updated_text:
+        en: "Updated"
+        es: "Actualizado"
+    updated_month:
+        en: "March"
+        es: "Marzo"
