@@ -24,11 +24,11 @@ defaults:
 
 t:
     title:
-        en: "Title"
-        es: "Título"
+        en: "The Fastest Mouse Clicker for Windows | Official Download"
+        es: "El Clicker de Ratón Más Rápido para Windows | Descarga Oficial"
     description:
-        en: "Description"
-        es: "Descripción"
+        en: "The fastest auto-clicker for windows. 100000 clicks per second reached by arrayed Win32 SendInput(). GUI, command line, random clicks, and record/play sequences of clicks"
+        es: "El clicker automático más rápido para Windows. 100000 clics por segundo alcanzados por Win32 SendInput() en matriz. GUI, línea de comandos, clics aleatorios y secuencias de clics de grabación/reproducción"
     download_the_latest_version:
         en: "Download the latest version"
         es: "Descarga la última versión"
