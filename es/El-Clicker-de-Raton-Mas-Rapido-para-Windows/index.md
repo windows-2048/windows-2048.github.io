@@ -1,5 +1,5 @@
 ---
-layout: default_es
+layout: page_es
 title: El Clicker de Ratón Más Rápido para Windows | Official Download
 logo: /assets/images/favicon_large.png
 description: El clicker automático más rápido para Windows. 100000 cps alcanzados por Win32 SendInput() en matriz. GUI, línea de comando, clics aleatorios y secuencias de clics de grabación/reproducción.
@@ -14,8 +14,10 @@ source_issues_url: https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for
 en_title: En Inglés: The Fastest Mouse Clicker for Windows
 ---
 
-## ![Windows](/assets/images/windows.svg) {{site.title}}
+## ![Windows](/assets/images/windows.svg) {{page.title}}
 
-### {{site.en_title}}
+### {{page.en_title}}
+
+{{page.description_rich}}
 
 > Actualizado el 01 de marzo de 2023.
