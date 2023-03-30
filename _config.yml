@@ -41,6 +41,11 @@ t:
     updated_month:
         en: "March"
         es: "Marzo"
-    lang_state:
-        en: "us"
-        es: "ar"
+    lang_countries:
+        en:
+            - coountry_code: "us"
+            - coountry_code: "uk"
+        es:
+            - coountry_code: "es"
+            - coountry_code: "mx"
+            - coountry_code: "ar"
