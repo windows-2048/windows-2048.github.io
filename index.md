@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## {{site.title}}
 
 > Updated Mar 01 2023. [Great update on The Fastest Mouse Clicker v3.0.0.0 (cross-platform Qt edition)](https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/index.html#TheFastestMouseClickerQt){:target="_blank"}.

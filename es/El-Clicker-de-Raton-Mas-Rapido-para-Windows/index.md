@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: default_es
 en_title: En Inglés: The Fastest Mouse Clicker for Windows
-title: El Clicker de Ratón Más Rápido para Windows
+es_title: El Clicker de Ratón Más Rápido para Windows
 ---
 
-## ![Windows](./windows.svg) {{page.title}}
+## ![Windows](/assets/images/windows.svg) {{site.es_title}}
 
-### {{page.en_title}}
+### {{site.en_title}}
 
 > Actualizado el 01 de marzo de 2023.

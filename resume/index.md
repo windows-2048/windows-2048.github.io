@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Resume of Open Source Developer Masha Novedad
 ---
 
 > Updated Jan 27 2023
