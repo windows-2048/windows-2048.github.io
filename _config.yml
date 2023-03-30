@@ -11,7 +11,7 @@ defaults:
          base-url: "/"
     -
      scope:
-         path: es
+         path: "es"
      values:
          lang: es
          base-url: "/es/"
