@@ -1,6 +1,6 @@
 ---
 title: RESUME Open Source Developer Masha Novedad
-i18n-link: resume-open-source-developer-masha-novedad
+i18n-link: resume
 ---
 
 > Updated Jan 27 2023
