@@ -44,13 +44,13 @@ t:
     lang_countries:
         en:
             -
-                coountry_code: us
+                name: us
             -
-                coountry_code: uk
+                name: uk
         es:
             -
-                coountry_code: es
+                name: es
             -
-                coountry_code: mx
+                name: mx
             -
-                coountry_code: ar
+                name: ar
