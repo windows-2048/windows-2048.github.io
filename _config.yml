@@ -43,9 +43,14 @@ t:
         es: "Marzo"
     lang_countries:
         en:
-            - coountry_code: us
-            - coountry_code: uk
+            -
+                coountry_code: us
+            -
+                coountry_code: uk
         es:
-            - coountry_code: es
-            - coountry_code: mx
-            - coountry_code: ar
+            -
+                coountry_code: es
+            -
+                coountry_code: mx
+            -
+                coountry_code: ar
