@@ -3,7 +3,7 @@ ul.lang {
     padding: 0;
     margin: 0;
     display: flex;
-    justify-content: space-between;	
+    justify-content: space-between;
 }
 
 .highlight table td {
@@ -482,8 +482,9 @@ body {
     }
 }
 .mylogo {
-    height: 48px;
+    height: 64px;
     width: auto;
+    float: left;
 }
 h1 {
     font-size: 20px;
@@ -492,7 +493,7 @@ h2 {
     color: OliveDrab;
 }
 pre {
-	font-size: 12px;
+    font-size: 12px;
 }
 header {
     background-color: #efe;
