@@ -103,6 +103,9 @@
 
 <!-- End formerly Jekyll SEO tag -->
     <link rel="stylesheet" href="/assets/css/mystyle.css"/>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@6.6.6/css/flag-icons.min.css" />
+
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -119,9 +122,9 @@
   <ul class="lang">
     {% for post in posts %}
     {% if post.lang == page.lang %}
-      <li>{{ page.lang }}</li>
+      <li><span class="fi fi-{{ site.t['lang_state'][page.lang] }}"></span>{{ page.lang }}</li>
     {% else %}
-      <li><a href="{{ site.base-url }}{{ post.url }}">{{ post.lang }}</a></li>
+      <li><a href="{{ site.base-url }}{{ post.url }}"><span class="fi fi-{{ site.t['lang_state'][page.lang] }}"></span>{{ post.lang }}</a></li>
     {% endif %}
     {% endfor %}
   </ul>

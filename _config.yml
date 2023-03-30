@@ -41,3 +41,6 @@ t:
     updated_month:
         en: "March"
         es: "Marzo"
+    lang_state:
+        en: "us"
+        es: "ar"
