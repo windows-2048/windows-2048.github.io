@@ -6,7 +6,31 @@ i18n-link: the-fastest-mouse-clicker-for-windows
 
 ### {{ site.t['description_rich'][page.lang] }}
 
-Introducing the fastest mouse clicker you have ever experienced!
+<a name="QuickStart"></a>
+## Quick Start
+
+<a href="{{ site.download_link_main }}" class="btn btn--stripe">Download The Fastest Mouse Clicker for Windows version {{ site.app_version }}</a>
+
+SHA256(Install_TheFastestMouseClicker_2.6.1.0.exe)= eb6a79fcecb598b626b10d34951d6b51b7c56af25c340a59c208b879f3d2e151
+
+<a name="ChangeLog"></a>
+### What's New - The latest version&nbsp;{{site.app_version}}
+
+"Single" application | "Group" application
+----- | -----
+![{{site.app_name}} version 2.6.1.0: "Single" application](screenshots_new/v2.6.1.0/mw_v2.6.1.0.jpg) | ![{{site.app_name}} version 2.6.1.0: "Group" application](screenshots_new/v2.6.1.0/mw_groupapp_v2.6.1.0.jpg)
+
+#### ChangeLog
+
+* Long waiting new feature FIXED POSITION CLICKING!
+* Live current mouse position indicator.
+* Fixed blurred GUI texts on 4K screens.
+* Fixed wrong question about close old application during installation.
+* Few minor bug fixes.
+
+Found a bug or want a new feature? Create the [issue]({{site.source_issues_url}}){:target="_blank"}!
+
+## Introducing the fastest mouse clicker you have ever experienced!
 
 Tired of slow, unresponsive mouse clickers that just don’t do the job? Look no further! Our revolutionary new mouse clicker app for Windows is here to change the game.
 
@@ -27,30 +51,6 @@ So why wait? Boost your productivity and gaming experience with these incredible
 * Trusted by Thousands: Join our growing community of satisfied users who have experienced the power of the fastest mouse clicker app for Windows.
 
 What are you waiting for? Experience lightning-fast clicks and improve your digital experience like never before. Download and install the ultimate app today - because you deserve the best!
-
-<a name="QuickStart"></a>
-## Quick Start
-
-### [Official Download]({{site.download_link_main}}) ( [mirror]({{site.download_link_mirror}}) ) - The latest version&nbsp;{{site.app_version}}
-
-SHA256(Install_TheFastestMouseClicker_2.6.1.0.exe)= eb6a79fcecb598b626b10d34951d6b51b7c56af25c340a59c208b879f3d2e151
-
-<a name="ChangeLog"></a>
-### What's New - The latest version&nbsp;{{site.app_version}}
-
-"Single" application | "Group" application
------ | -----
-![{{site.app_name}} version 2.6.1.0: "Single" application](screenshots_new/v2.6.1.0/mw_v2.6.1.0.jpg) | ![{{site.app_name}} version 2.6.1.0: "Group" application](screenshots_new/v2.6.1.0/mw_groupapp_v2.6.1.0.jpg)
-
-#### ChangeLog
-
-* Long waiting new feature FIXED POSITION CLICKING!
-* Live current mouse position indicator.
-* Fixed blurred GUI texts on 4K screens.
-* Fixed wrong question about close old application during installation.
-* Few minor bug fixes.
-
-Found a bug or want a new feature? Create the [issue]({{site.source_issues_url}}){:target="_blank"}!
 
 ### Warning
 
@@ -847,4 +847,4 @@ SHA256(Install_TheFastestMouseClicker_2.0.0.0.exe)= c12fbeee1a12ce598bcd1f6b3987
 <a name="Contacts"></a>
 ## Contacts
 
-#### Copyright (c) 2016-2023 by [Open Source Developer Masha Novedad](https://windows-2048.github.io){:target="_blank"}
+#### Copyright (c) 2016-2023 by [Open Source Developer Masha Novedad]({{ site.prod-url }}{{ site.base-url }}){:target="_blank"}
