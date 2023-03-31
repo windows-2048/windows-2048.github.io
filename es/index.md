@@ -16,7 +16,7 @@ Los instaladores de Windows se crean para su comodidad mediante la herramienta d
 * [{{ site.t['app_name'][page.lang] }}](https://windows-2048.github.io/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/){:target="_blank"}
 * [2048 Juego Professional para Windows (en Inglés)](https://github.com/windows-2048/2048-Game-Professional-for-Windows){:target="_blank"}
 
-¡Bienvenido a descargar mi producto estrella!
+¡Bienvenido a descargar e instalar mi producto estrella!
 
 <a href="{{ site.download_link_main }}" class="btn btn--stripe">Descargar {{ site.t['app_name'][page.lang] }} versión {{ site.app_version }}</a>
 

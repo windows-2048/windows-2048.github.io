@@ -16,7 +16,7 @@ Windows installers are made for your convenience by open source tool [Inno Setup
 * [The Fastest Mouse Clicker for Windows](https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/){:target="_blank"}
 * [2048 Game Professional for Windows](https://github.com/windows-2048/2048-Game-Professional-for-Windows){:target="_blank"}
 
-Welcome to download my flagship product!
+Welcome to download and install my flagship product!
 
 <a href="{{ site.download_link_main }}" class="btn btn--stripe">Download {{ site.t['app_name'][page.lang] }} version {{ site.app_version }}</a>
 
