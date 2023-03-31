@@ -1,6 +1,8 @@
 theme: jekyll-theme-minimal
 encoding: UTF-8
 
+prod-url: https://windows-2048.github.io
+
 download_link_main: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/Install_TheFastestMouseClicker_2.6.1.0.exe
 download_link_mirror: https://ipfs.io/ipfs/QmP4v8nCnfbYzP643BmHeuYgiX1GhbiioiEu3zjzVnkgi1/Install_TheFastestMouseClicker_2.6.1.0.exe
 app_version: 2.6.1.0
