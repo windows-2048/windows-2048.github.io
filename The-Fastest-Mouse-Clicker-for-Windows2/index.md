@@ -9,7 +9,7 @@ i18n-link: the-fastest-mouse-clicker-for-windows
 <a name="QuickStart"></a>
 ## Quick Start
 
-<a href="{{ site.download_link_main }}" class="btn btn--stripe">Download The Fastest Mouse Clicker for Windows version {{ site.app_version }}</a>
+<a href="{{ site.download_link_main }}" class="btn btn--stripe">Download {{ site.t['app_name'][page.lang] }} version {{ site.app_version }}</a>
 
 SHA256(Install_TheFastestMouseClicker_2.6.1.0.exe)= eb6a79fcecb598b626b10d34951d6b51b7c56af25c340a59c208b879f3d2e151
 

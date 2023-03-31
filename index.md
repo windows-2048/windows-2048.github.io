@@ -13,7 +13,7 @@ Windows installers are made for your convenience by open source tool [Inno Setup
 
 Welcome to download my flagship product!
 
-<a href="{{ site.download_link_main }}" class="btn btn--stripe">Download The Fastest Mouse Clicker for Windows version {{ site.app_version }}</a>
+<a href="{{ site.download_link_main }}" class="btn btn--stripe">Download {{ site.t['app_name'][page.lang] }} version {{ site.app_version }}</a>
 
 ## My Projects
 
