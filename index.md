@@ -11,6 +11,8 @@ All my applications are compact, standalone and statically-linked thus they have
 Windows installers are made for your convenience by open source tool [Inno Setup](https://jrsoftware.org/isinfo.php){:target="_blank"}.
 Welcome to download!
 
+<a href="{{ site.download_link_main }}" class="btn btn--stripe">Download The Fastest Mouse Clicker for Windows version {{ site.app_version }}</a>
+
 ## My Projects
 
 * [The Fastest Mouse Clicker for Windows](https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/){:target="_blank"}
