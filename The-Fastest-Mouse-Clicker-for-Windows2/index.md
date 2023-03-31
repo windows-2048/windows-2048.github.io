@@ -18,7 +18,7 @@ SHA256(Install_TheFastestMouseClicker_2.6.1.0.exe)= eb6a79fcecb598b626b10d34951d
 
 "Single" application | "Group" application
 ----- | -----
-![{{site.app_name}} version 2.6.1.0: "Single" application](screenshots_new/v2.6.1.0/mw_v2.6.1.0.jpg) | ![{{site.app_name}} version 2.6.1.0: "Group" application](screenshots_new/v2.6.1.0/mw_groupapp_v2.6.1.0.jpg)
+![{{ site.t['app_name'][page.lang] }} version 2.6.1.0: "Single" application](screenshots_new/v2.6.1.0/mw_v2.6.1.0.jpg) | ![{{ site.t['app_name'][page.lang] }} version 2.6.1.0: "Group" application](screenshots_new/v2.6.1.0/mw_groupapp_v2.6.1.0.jpg)
 
 #### ChangeLog
 
@@ -29,28 +29,6 @@ SHA256(Install_TheFastestMouseClicker_2.6.1.0.exe)= eb6a79fcecb598b626b10d34951d
 * Few minor bug fixes.
 
 Found a bug or want a new feature? Create the [issue]({{site.source_issues_url}}){:target="_blank"}!
-
-## Introducing the fastest mouse clicker you have ever experienced!
-
-Tired of slow, unresponsive mouse clickers that just don’t do the job? Look no further! Our revolutionary new mouse clicker app for Windows is here to change the game.
-
-We take pride in utilizing the hidden power of the Win32 SendInput() API, which sets our app apart from all the competitors. This unique technology allows us to guarantee that our app is the fastest and most efficient mouse clicker available on the market.
-
-So why wait? Boost your productivity and gaming experience with these incredible features:
-
-* Unrivaled Speed: Say goodbye to lags and delays, our superior Win32 SendInput() API integration provides the smoothest and quickest mouse clicks you’ve ever experienced.
-
-* Customizable Settings: Tailor your click rates and intervals to your specific needs, save presets, and switch between them with ease.
-
-* Easy-to-use Interface: Navigate through the app effortlessly with our sleek and user-friendly design.
-
-* Perfect for Gamers and Professionals: Whether you’re into MMORPG’s, time-limited tasks, or data entry, our mouse clicker app enhances your performance and reduces strain on your hands.
-
-* Regular Updates: We constantly aim to improve and provide you with the latest features - our app evolves with you.
-
-* Trusted by Thousands: Join our growing community of satisfied users who have experienced the power of the fastest mouse clicker app for Windows.
-
-What are you waiting for? Experience lightning-fast clicks and improve your digital experience like never before. Download and install the ultimate app today - because you deserve the best!
 
 ### Warning
 
@@ -114,7 +92,30 @@ In the video below, TampaTec shows the technique how that amazing results can be
 <a name="Introduction"></a>
 ## Introduction
 
-This is the official site to download various versions of {{site.app_name}}.
+This is the official site to download various versions of {{ site.t['app_name'][page.lang] }}.
+Introducing the fastest mouse clicker you have ever experienced!
+
+Tired of slow, unresponsive mouse clickers that just don’t do the job? Look no further! Our revolutionary new mouse clicker app for Windows is here to change the game.
+
+We take pride in utilizing the hidden power of the Win32 SendInput() API, which sets our app apart from all the competitors. This unique technology allows us to guarantee that our app is the fastest and most efficient mouse clicker available on the market.
+
+So why wait? Boost your productivity and gaming experience with these incredible features:
+
+* Unrivaled Speed: Say goodbye to lags and delays, our superior Win32 SendInput() API integration provides the smoothest and quickest mouse clicks you’ve ever experienced.
+
+* Customizable Settings: Tailor your click rates and intervals to your specific needs, save presets, and switch between them with ease.
+
+* Easy-to-use Interface: Navigate through the app effortlessly with our sleek and user-friendly design.
+
+* Perfect for Gamers and Professionals: Whether you’re into MMORPG’s, time-limited tasks, or data entry, our mouse clicker app enhances your performance and reduces strain on your hands.
+
+* Regular Updates: We constantly aim to improve and provide you with the latest features - our app evolves with you.
+
+* Trusted by Thousands: Join our growing community of satisfied users who have experienced the power of the fastest mouse clicker app for Windows.
+
+What are you waiting for? Experience lightning-fast clicks and improve your digital experience like never before. Download and install the ultimate app today - because you deserve the best!
+
+
 All the versions are shipped with SHA256 fingerprints to ensure you do download the genuine software.
 
 Industry standard free open source mouse auto clicker emulates Windows clicks EXTREMELY QUICKLY via arrays of 1-1000 mouse events in Win32 <code><a href="https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a></code>, making up to 100 000 clicks per second. Brand new group clicking support, Command line for batch files, Auto-save on exit, Random clicking, App's window always topmost are supported. This compact standalone program is compiled and statically linked by gnu/gcc compiler and supports all the Windows 7 to 10 and Linux via Wine emulator. This clicker is the best for incremental games: Cooking, Soda, Minecraft etc.
@@ -126,7 +127,7 @@ Free and fast, open source, full-featured, statically-linked mouse auto clicker 
 This is a professional tool for both quality assistance workflow and video game cheating.
 Using keyboard keys (or mouse buttons) as a trigger, you can position the mouse, then hit a key to click up to 100000 times every second,
 10 times faster then abandoned project at [sourceforge.net](https://sourceforge.net/projects/fastclicker/){:target="_blank"}.
-{{site.app_name}} allows you to set an activation key to switch automatic clicking . There are two activation modes:
+{{ site.t['app_name'][page.lang] }} allows you to set an activation key to switch automatic clicking . There are two activation modes:
 "press": the app will repeat clicking as long as the activation key is being pressed, and
 "toggle": a Begin activation key press activates automatic clicking until an End activation key press deactivates it.
 Of course, you can select arbitrary Begin and End trigger keys.
@@ -136,24 +137,24 @@ If you desire to perform a Click Speed Test, go to elegant open source [implemen
 The Click Speed Test is a free click per second test, which measures your mouse clicking speed in given time frame. Playing the Click Speed Test is easy and fun at the same time.
 The test is suitable for all types of auto-clicking software as well as for direct human hands testing in all age groups, so do not worry if you are just a high school student or a person with a corporate job or PhD.
 You do find Click Speed Test to be a useful tool while searching for ways to repeatedly click without using the mouse.
-With {{site.app_name}} you just input the speed at which to click, and a keyboard button, and then while you hold that button down, the mouse is clicking for you automatically.
+With {{ site.t['app_name'][page.lang] }} you just input the speed at which to click, and a keyboard button, and then while you hold that button down, the mouse is clicking for you automatically.
 If you prefer to avoid "cheating", keep the clicking speed around 10-20 clicks/sec.
 
 > New big version with FIXED POSITION CLICKING has been released!
 
-{{site.app_name}} clicks the mouse automatically by emulating mouse clicking events.
+{{ site.t['app_name'][page.lang] }} clicks the mouse automatically by emulating mouse clicking events.
 The app has random in a box clicking feature, if you want that for some reason.
 I plan to implement variative time interval between the clicks and allow you to choose a random interval range.
 Hotkeys that trigger mouse clicks will be supported with almost every key modifiers, like SHIFT, CONTROL and ALT thus allow you to have SHIFT+\<Key\>, CONTROL+\<Key\> and ALT+\<Key\> triggers.
-{{site.app_name}} is now suitable for Minecraft and Roblox auto-clicking, thanks to request from Xisuma user.
+{{ site.t['app_name'][page.lang] }} is now suitable for Minecraft and Roblox auto-clicking, thanks to request from Xisuma user.
 Also the program can be used as autoplayer for the game ClickerHeroes.
 It can autoclick, activate skills, buy heroes and upgrades, and ascend and start all over.
 All you need is to record and playback appropriate clicking sequence (see below).
 
 You can auto-click the images, auto-fill the web forms, auto-submit a various type of requests with this auto-clicker.
-For example, {{site.app_name}} can be used for scripting in Steam Summer Monster Minigame.
+For example, {{ site.t['app_name'][page.lang] }} can be used for scripting in Steam Summer Monster Minigame.
 Another example, this program can be a bot for PTC websites like shorte.st, linkbucks, admy.link, etc. that automatically skips Ads.
-The Group Clicker is a part of {{site.app_name}}. To run this extension simply click on "Run group app" button on the main window of {{site.app_name}}.
+The Group Clicker is a part of {{ site.t['app_name'][page.lang] }}. To run this extension simply click on "Run group app" button on the main window of {{ site.t['app_name'][page.lang] }}.
 To return back to the previous app, click "Run single app" button.
 The Group Clicker helps you to maintain separate sheet of data file from which Group Clicker can fetch data and use them row by row.
 Also I plan to implement a schedule stored in a plain text file allowing you to auto-click on a webpage/URL at particular day and time.
@@ -161,16 +162,16 @@ You may add your own features by opening the solution file in Visual Studio and 
 The Windows installer opens corresponding folders by default.
 
 <p>
-Here is a short intro video that tells how to download and install {{site.app_name}}.
+Here is a short intro video that tells how to download and install {{ site.t['app_name'][page.lang] }}.
 Also it shows basic quick-start guide to use automated clicks.
  <video style="outline:none; width:100%; height:100%;" controls preload="none" poster="videos/TFMCfW_intro.jpg">
   <source src="videos/TFMCfW_intro.mp4" type="video/mp4"/>
   Your browser does not support the video tag.
 </video>
-<a href="https://www.youtube.com/watch?v=gCpALY1WqmE" target="_blank">Watch intro to {{site.app_name}} in Youtube.</a>
+<a href="https://www.youtube.com/watch?v=gCpALY1WqmE" target="_blank">Watch intro to {{ site.t['app_name'][page.lang] }} in Youtube.</a>
 </p>
 
-There are a lot of use-cases of {{site.app_name}}.
+There are a lot of use-cases of {{ site.t['app_name'][page.lang] }}.
 Amateurs can use it for cheating in various web sites or video games such as Counter-Strike: Global Offensive (CS:GO), Candy Crush Saga, Roblox games, etc.
 Professionals can use it for quality assistant and testing purposes because full support of command line in batch files, PowerShell scripts, etc.
 
@@ -323,7 +324,7 @@ DWORD WINAPI MyThreadFunction(LPVOID lpParam)
 }
 </code></pre>
 
-To be more compatible with older versions of Windows, {{site.app_name}} utilizes base Win32 API for widget creation.
+To be more compatible with older versions of Windows, {{ site.t['app_name'][page.lang] }} utilizes base Win32 API for widget creation.
 It uses traditional Windows approach to re-draw all the widgets in a Windows event loop.
 To update the view of a particular widget, an event is being sent to that widget in the main thread and
 incoming call is being passed to event loop handler where actual re-draw occurs.
@@ -466,7 +467,7 @@ But note, the difference between 125Hz and 500Hz is much more significant than b
 In the latter case you get benefit of a just 1ms. Thus there is no reason to buy an expensive mouse with polling rate much greater than 500Hz.
 Moreover, it has been found that high polling rates of 1000Hz or more tend to put a heavier load on the CPU.
 
-Here I leave an intriguing thoughts on mouse polling rates and auto-clicker software, came from one of the fan user of {{site.app_name}}.
+Here I leave an intriguing thoughts on mouse polling rates and auto-clicker software, came from one of the fan user of {{ site.t['app_name'][page.lang] }}.
 
 Hey Masha, Thanks for the reply, I saw the download on Majorgeeks, but I believe I downloaded it from your site to make sure I had the latest version, that's how I got your email address too. Anyway, the "polling rate" is basically how fast your mouse sends signals to your PC of it's current location, it's usually measured in Hz, my Logitech software has options for 125 Hz, 250 Hz, 500 Hz, and 1000 Hz, as does most other mouse gaming software and there are a few utilities that can change it the polling rate too, 1000 Hz has been the limit for a long time, but now companies like Razer, has a mouse with a polling rate of 8000 Hz, some other 2000 Hz .. I'm just looking for something that will achieve over 1000 Hz. Basically, the higher the polling rate, the less "mouse lag" while gaming. I also do things like set the process priority level for my mouse driver/software process to "above normal" or "high" to get more responsiveness from it.
 
@@ -495,7 +496,7 @@ and [Gitlab](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windo
 <a name="TheFastestMouseClickerQt"></a>
 ## The Fastest Mouse Clicker v3.0.0.0 (cross-platform Qt edition)
 
-Migration to cross-platform Qt edition of {{site.app_name}} is in successive progress. New application will get version 3.0.0.0 and will be called
+Migration to cross-platform Qt edition of {{ site.t['app_name'][page.lang] }} is in successive progress. New application will get version 3.0.0.0 and will be called
 "The Fastest Mouse Clicker for \<OS\> (cross-platform Qt edition)", where \<OS\> is "Windows", "Linux", "MacOS (M1)".
 QtDesigner \*.ui makeup is ready today. I tease you to look how pleasant and beautiful The Fastest Mouse Clicker v3.0.0.0 will appear
 on your PC screen. Full native support of 4K and Retina displays is here. As always, the application is statically linked and does not
