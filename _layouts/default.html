@@ -12,20 +12,20 @@
 <meta name="generator" content="Jekyll v3.8.7" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="{{ site.t['title'][page.lang] }}" />
-<meta name="author" content="Open Source Developer Masha Novedad" />
-<meta property="og:locale" content="en_US" />
+<meta name="author" content="{{ site.t['author_name'][page.lang] }}" />
+<meta property="og:locale" content="{{ site.t['html_lang'][page.lang] }}" />
 <meta name="description" content="{{ site.t['description'][page.lang] }}" />
 <meta property="og:description" content="{{ site.t['description'][page.lang] }}" />
-<link rel="canonical" href="https://windows-2048.github.io{{ site.base-url }}{{ page.url }}" />
-<meta property="og:url" content="https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/" />
+<link rel="canonical" href="{{ site.prod-url }}{{ site.base-url }}{{ page.url }}" />
+<meta property="og:url" content="{{ site.prod-url }}{{ site.base-url }}{{ page.url }}" />
 <meta property="og:site_name" content="{{ site.t['title'][page.lang] }}" />
-<meta property="og:image" content="https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/og_thumb_1200x630.png" />
-<meta property="twitter:image" content="https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/og_thumb_1200x630.png" />
+<meta property="og:image" content="{{ site.prod-url }}/The-Fastest-Mouse-Clicker-for-Windows/og_thumb_1200x630.png" />
+<meta property="twitter:image" content="{{ site.prod-url }}/The-Fastest-Mouse-Clicker-for-Windows/og_thumb_1200x630.png" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:url" content="https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/" />
+<meta property="twitter:url" content="{{ site.prod-url }}{{ site.base-url }}{{ page.url }}" />
 <meta property="twitter:title" content="{{ site.t['title'][page.lang] }}" />
 <meta property="twitter:description" content="{{ site.t['description'][page.lang] }}" />
-<meta property="twitter:image" content="https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/og_thumb_1200x630.png" />
+<meta property="twitter:image" content="{{ site.prod-url }}/The-Fastest-Mouse-Clicker-for-Windows/og_thumb_1200x630.png" />
 <script type="application/ld+json">
 {
 "@context":"https://schema.org",
@@ -33,16 +33,16 @@
 "url":"{{ site.prod-url }}{{ site.base-url }}{{ page.url }}",
 "isPartOf":{
 "@type": "WebSite",
-"url" : "https://windows-2048.github.io"
+"url" : "{{ site.prod-url }}"
 },
 "mainEntity":{
 "@type":"SoftwareApplication",
-"name":"The Fastest Mouse Clicker for Windows",
-"url":"https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows",
+"name":"{{ site.t['app_name'][page.lang] }}",
+"url":"{{ site.prod-url }}{{ site.base-url }}{{ page.url }}",
 "description":"{{ site.t['description'][page.lang] }}",
-"image": "https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/og_thumb_1200x630.png",
+"image": "{{ site.prod-url }}/The-Fastest-Mouse-Clicker-for-Windows/og_thumb_1200x630.png",
 "operatingSystem":"Windows",
-"softwareVersion":"2.6.1.0",
+"softwareVersion":"{{ site.app_version }}",
 "datePublished":"2023-01-27",
 "interactionStatistic":{
 "@type": "InteractionCounter",
@@ -53,8 +53,8 @@
 "applicationSubCategory":"Mouse Auto-Clicker",
 "author":{
 "@type":"Organization",
-"name":"Open Source Developer Masha Novedad, the author of The Fastest Mouse Clicker for Windows",
-"url":"https://windows-2048.github.io"
+"name":"{{ site.t['author_name'][page.lang] }}",
+"url":"{{ site.prod-url }}{{ site.base-url }}"
 },
 "offers": {
 "@type": "Offer",
@@ -71,31 +71,31 @@
 "screenshot":[
 {
 "@type": "ImageObject",
-"url":"https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/mw_v2.6.1.0.jpg"
+"url":"{{ site.prod-url }}/The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/mw_v2.6.1.0.jpg"
 },
 {
 "@type": "ImageObject",
-"url":"https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/mw_groupapp_v2.6.1.0.jpg"
+"url":"{{ site.prod-url }}/The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/mw_groupapp_v2.6.1.0.jpg"
 },
 {
 "@type": "ImageObject",
-"url":"https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_s1_1322x986.jpg"
+"url":"{{ site.prod-url }}/The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_s1_1322x986.jpg"
 },
 {
 "@type": "ImageObject",
-"url":"https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_s1h_1322x986.jpg"
+"url":"{{ site.prod-url }}/The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_s1h_1322x986.jpg"
 },
 {
 "@type": "ImageObject",
-"url":"https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_s1w_1322x986.jpg"
+"url":"{{ site.prod-url }}/The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_s1w_1322x986.jpg"
 },
 {
 "@type": "ImageObject",
-"url":"https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_s2_1322x986.jpg"
+"url":"{{ site.prod-url }}/The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_s2_1322x986.jpg"
 },
 {
 "@type": "ImageObject",
-"url":"https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_a1_1322x986.jpg"
+"url":"{{ site.prod-url }}/The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_a1_1322x986.jpg"
 } ]
 }
 }
