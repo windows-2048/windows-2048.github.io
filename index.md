@@ -4,7 +4,7 @@ i18n-link: index
 
 ## {{ site.t['title'][page.lang] }}
 
-### {{ site.t['description'][page.lang] }}
+### {{ site.t['description_rich'][page.lang] }}
 
 Hi! My name is Masha Novedad. I am open source programmer since 2016. I write in vanilla C++.
 I am an author of The Fastest Mouse Clicker for Windows.

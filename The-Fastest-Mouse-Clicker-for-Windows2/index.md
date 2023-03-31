@@ -1,11 +1,10 @@
 ---
-title: The Fastest Mouse Clicker for Windows
 i18n-link: the-fastest-mouse-clicker-for-windows
 ---
 
 ## {{ site.t['title'][page.lang] }}
 
-### {{ site.t['description'][page.lang] }}
+### {{ site.t['description_rich'][page.lang] }}
 
 Introducing the fastest mouse clicker you have ever experienced!
 
