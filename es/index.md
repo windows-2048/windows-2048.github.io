@@ -10,6 +10,7 @@ Hi! My name is Masha Novedad. I am open source programmer since 2016. I write in
 I am an author of The Fastest Mouse Clicker for Windows.
 All my applications are compact, standalone and statically-linked thus they have no external dependencies.
 Windows installers are made for your convenience by open source tool [Inno Setup](https://jrsoftware.org/isinfo.php){:target="_blank"}.
+
 Welcome to download my flagship product!
 
 <a href="{{ site.download_link_main }}" class="btn btn--stripe">Download The Fastest Mouse Clicker for Windows version {{ site.app_version }}</a>
