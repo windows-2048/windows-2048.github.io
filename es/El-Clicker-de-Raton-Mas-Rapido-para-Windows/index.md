@@ -18,7 +18,7 @@ SHA256(Install_TheFastestMouseClicker_2.6.1.0.exe)= eb6a79fcecb598b626b10d34951d
 
 "Single" application | "Group" application
 ----- | -----
-![{{ site.t['app_name'][page.lang] }} version 2.6.1.0: "Single" application](../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/mw_v2.6.1.0.jpg) | ![{{ site.t['app_name'][page.lang] }} version 2.6.1.0: "Group" application](../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/mw_groupapp_v2.6.1.0.jpg)
+![{{ site.t['app_name'][page.lang] }} version 2.6.1.0: "Single" application](../The-Fastest-Mouse-Clicker-for-Windows2/screenshots_new/v2.6.1.0/mw_v2.6.1.0.jpg) | ![{{ site.t['app_name'][page.lang] }} version 2.6.1.0: "Group" application](../The-Fastest-Mouse-Clicker-for-Windows2/screenshots_new/v2.6.1.0/mw_groupapp_v2.6.1.0.jpg)
 
 #### ChangeLog
 
