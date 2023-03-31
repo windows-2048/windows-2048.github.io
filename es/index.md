@@ -6,20 +6,20 @@ i18n-link: index
 
 ### {{ site.t['description_rich'][page.lang] }}
 
-Hi! My name is Masha Novedad. I am open source programmer since 2016. I write in vanilla C++.
-I am an author of The Fastest Mouse Clicker for Windows.
-All my applications are compact, standalone and statically-linked thus they have no external dependencies.
-Windows installers are made for your convenience by open source tool [Inno Setup](https://jrsoftware.org/isinfo.php){:target="_blank"}.
+¡Hola! Mi nombre es Masha Novedad. Soy programador de código abierto desde 2016. Escribo en Vanilla C++.
+Soy autor de {{ site.t['app_name'][page.lang] }}.
+Todas mis aplicaciones son compactas, independientes y estáticamente vinculadas, por lo que no tienen dependencias externas.
+Los instaladores de Windows se crean para su comodidad mediante la herramienta de código abierto [Inno Setup](https://jrsoftware.org/isinfo.php){:target="_blank"}.
 
-Welcome to download my flagship product!
+¡Bienvenido a descargar mi producto estrella!
 
-<a href="{{ site.download_link_main }}" class="btn btn--stripe">Download The Fastest Mouse Clicker for Windows version {{ site.app_version }}</a>
+<a href="{{ site.download_link_main }}" class="btn btn--stripe">Descargar {{ site.t['app_name'][page.lang] }} versión {{ site.app_version }}</a>
 
-## My Projects
+## Mis Proyectos
 
-* [The Fastest Mouse Clicker for Windows](https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/){:target="_blank"}
-* [2048 Game Professional for Windows](https://github.com/windows-2048/2048-Game-Professional-for-Windows){:target="_blank"}
+* [{{ site.t['app_name'][page.lang] }}](https://windows-2048.github.io/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/){:target="_blank"}
+* [2048 Juego Professional para Windows (en Inglés)](https://github.com/windows-2048/2048-Game-Professional-for-Windows){:target="_blank"}
 
-## Copyright
+## Derechos de autor
 
-Copyright (c) 2016-2023 by Open Source Developer Masha Novedad.
+Derechos de autor (c) 2016-2023 de {{ site.t['author_name'][page.lang] }}.
