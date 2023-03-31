@@ -38,6 +38,15 @@ t:
     html_lang:
         en: en-US
         es: es-AR
+    read_text:
+        en: read
+        es: lee
+    mirror_text:
+        en: mirror
+        es: espejo
+    follow_text:
+        en: Follow
+        es: Seguir
     updated_text:
         en: Updated
         es: Actualizado
