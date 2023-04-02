@@ -11,7 +11,7 @@ i18n-link: the-fastest-mouse-clicker-for-windows
 <a name="QuickStart"></a>
 ## Quick Start
 
-Welcome to download and install my flagship product!
+### Welcome to download and install my flagship product!
 
 <a href="{{ site.download_link_main }}" class="btn btn--stripe">Download {{ site.t['app_name'][page.lang] }} version {{ site.app_version }}</a>
 
