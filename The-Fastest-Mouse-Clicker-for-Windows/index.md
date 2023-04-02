@@ -853,3 +853,4 @@ SHA256(Install_TheFastestMouseClicker_2.0.0.0.exe)= c12fbeee1a12ce598bcd1f6b3987
 ## Contacts
 
 #### Copyright (c) 2016-2023 by [Open Source Developer Masha Novedad]({{ site.prod-url }}{{ site.base-url }}){:target="_blank"}
+
