@@ -22,6 +22,19 @@ Los instaladores de Windows se crean para su comodidad mediante la herramienta d
 
 <a href="{{ site.download_link_main }}" class="btn btn--stripe">Descargar {{ site.t['app_name'][page.lang] }} versión {{ site.app_version }}</a>
 
+SHA256(Install_TheFastestMouseClicker_2.6.1.0.exe)= eb6a79fcecb598b626b10d34951d6b51b7c56af25c340a59c208b879f3d2e151
+
+<a name="ChangeLog"></a>
+### Novedades - La última versión&nbsp;{{site.app_version}}
+
+#### RegistroDeCambios
+
+* Larga espera nueva función CLIC DE POSICIÓN FIJA.
+* Indicador de posición actual del mouse en vivo.
+* Se corrigieron los textos GUI borrosos en pantallas 4K.
+* Se corrigió la pregunta incorrecta sobre el cierre de la aplicación anterior durante la instalación.
+* Algunas correcciones de errores menores.
+
 ## Derechos de autor
 
 Derechos de autor (c) 2016-2023 de {{ site.t['author_name'][page.lang] }}.

@@ -26,7 +26,7 @@ SHA256(Install_TheFastestMouseClicker_2.6.1.0.exe)= eb6a79fcecb598b626b10d34951d
 
 #### ChangeLog
 
-* Long waiting new feature FIXED POSITION CLICKING!
+* Long waiting new feature FIXED POSITION CLICKING.
 * Live current mouse position indicator.
 * Fixed blurred GUI texts on 4K screens.
 * Fixed wrong question about close old application during installation.

@@ -22,6 +22,19 @@ Welcome to download and install my flagship product!
 
 <a href="{{ site.download_link_main }}" class="btn btn--stripe">Download {{ site.t['app_name'][page.lang] }} version {{ site.app_version }}</a>
 
+SHA256(Install_TheFastestMouseClicker_2.6.1.0.exe)= eb6a79fcecb598b626b10d34951d6b51b7c56af25c340a59c208b879f3d2e151
+
+<a name="ChangeLog"></a>
+### What's New - The latest version&nbsp;{{site.app_version}}
+
+#### ChangeLog
+
+* Long waiting new feature FIXED POSITION CLICKING.
+* Live current mouse position indicator.
+* Fixed blurred GUI texts on 4K screens.
+* Fixed wrong question about close old application during installation.
+* Few minor bug fixes.
+
 ## Copyright
 
 Copyright (c) 2016-2023 by Open Source Developer Masha Novedad.
