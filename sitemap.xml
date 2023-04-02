@@ -7,6 +7,12 @@
       <priority>0.5</priority>
    </url>
    <url>
+      <loc>https://windows-2048.github.io/es/</loc>
+      <lastmod>2023-04-02</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>   
+   <url>
       <loc>https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/</loc>
       <lastmod>2023-04-02</lastmod>
       <changefreq>daily</changefreq>
