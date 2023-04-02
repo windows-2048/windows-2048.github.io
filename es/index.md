@@ -6,6 +6,8 @@ i18n-link: index
 
 ### {{ site.t['description_rich'][page.lang] }}
 
+> Actualizado: 02 de Abril de 2023. La localización en español del sitio llegará pronto.
+
 ¡Hola! Mi nombre es Masha Novedad. Soy programador de código abierto desde 2016. Escribo en Vanilla C++.
 Soy autor de {{ site.t['app_name'][page.lang] }}.
 Todas mis aplicaciones son compactas, independientes y estáticamente vinculadas, por lo que no tienen dependencias externas.

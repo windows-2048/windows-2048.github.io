@@ -6,6 +6,8 @@ i18n-link: the-fastest-mouse-clicker-for-windows
 
 ### {{ site.t['description_rich'][page.lang] }}
 
+> Actualizado: 02 de Abril de 2023. La localización en español del sitio llegará pronto.
+
 <a name="QuickStart"></a>
 ## Quick Start
 

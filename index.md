@@ -6,6 +6,8 @@ i18n-link: index
 
 ### {{ site.t['description_rich'][page.lang] }}
 
+> Updated : April 02 2023. Spanish localization of the site is coming soon.
+
 Hi! My name is Masha Novedad. I am open source programmer since 2016. I write in vanilla C++.
 I am an author of {{ site.t['app_name'][page.lang] }}.
 All my applications are compact, standalone and statically-linked thus they have no external dependencies.
