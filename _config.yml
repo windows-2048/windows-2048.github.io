@@ -61,6 +61,9 @@ t:
     follow_text:
         en: Follow
         es: Seguir
+    changelog_text:
+        en: ChangeLog
+        es: RegistroDeCambios
     updated_text:
         en: Updated
         es: Actualizado
