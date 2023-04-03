@@ -328,14 +328,14 @@ DWORD WINAPI MyThreadFunction(LPVOID lpParam)
 }
 </code></pre>
 
-To be more compatible with older versions of Windows, {{ site.t['app_name'][page.lang] }} utilizes base Win32 API for widget creation.
-It uses traditional Windows approach to re-draw all the widgets in a Windows event loop.
-To update the view of a particular widget, an event is being sent to that widget in the main thread and
-incoming call is being passed to event loop handler where actual re-draw occurs.
+Para ser más compatible con las versiones anteriores de Windows, {{ site.t['app_name'][page.lang] }} utiliza la API básica de Win32 para la creación de widgets.
+Utiliza el enfoque tradicional de Windows para volver a dibujar todos los widgets en un bucle de eventos de Windows.
+Para actualizar la vista de un widget en particular, se envía un evento a ese widget en el hilo principal y
+la llamada entrante se pasa al controlador de bucle de eventos donde se produce el redibujado real.
 
-First, we declare a <code><a href="https://docs.microsoft.com/en-us/previous-versions/windows/desktop/legacy/ms633573(v=vs.85)" target="_blank">WindowProc()</a></code> callback function.
-Second, we register a main window class with that callback by <code><a href="https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-registerclassa" target="_blank">RegisterClass()</a></code>.
-And finally we enter an infinite loop inside event callback function.
+Primero, declaramos un <code><a href="https://learn.microsoft.com/es-es/windows/win32/api/winuser/nc-winuser-wndproc" target="_blank ">WindowProc()</a></code> función de devolución de llamada.
+En segundo lugar, registramos una clase de ventana principal con esa devolución de llamada mediante <code><a href="https://learn.microsoft.com/es-es/windows/win32/api/winuser/nf-winuser-registerclassa" target= "_blank">RegisterClassA</a></code>.
+Y finalmente ingresamos un bucle infinito dentro de la función de devolución de llamada del evento.
 
 <pre><code title="Windows event loop to re-draw the widgets">
 LRESULT CALLBACK winCallBack(
@@ -394,11 +394,11 @@ LRESULT CALLBACK winCallBack(
 }
 </code></pre>
 
-From the other hand, to be more compatible with latest versions of Windows and newest hardware such as professional
-<a href="https://www.pcmag.com/picks/the-best-4k-monitors" target="_blank">4K displays</a>
-and gaming monitors,
-font size adjusting is performed on application start utilizing both variable font size and embedded
-<a href="https://docs.microsoft.com/en-us/windows/win32/hidpi/setting-the-default-dpi-awareness-for-a-process" target="_blank">high DPI</a> xml manifest.
+Por otro lado, para ser más compatible con las últimas versiones de Windows y el hardware más nuevo, como el profesional
+<a href="https://www.pcmag.com/picks/the-best-4k-monitors" target="_blank">pantallas 4K</a>
+y monitores de juegos,
+El ajuste del tamaño de fuente se realiza al iniciar la aplicación utilizando tanto el tamaño de fuente variable como el incrustado.
+<a href="https://learn.microsoft.com/es-es/windows/win32/hidpi/setting-the-default-dpi-awareness-for-a-process" target="_blank">alta DPI</a> manifiesto xml.
 
 <pre><code title="Support for 4K displays in C++ code">
 struct _Sc
@@ -435,7 +435,7 @@ statusText = CreateWindow(
     );
 </code></pre>
 
-The application embedded xml manifest contains a section with high DPI awareness.
+El manifiesto xml incrustado de la aplicación contiene una sección con alto reconocimiento de DPI.
 
 <pre><code title="Support for 4K displays in xml manifest">
   ...
@@ -454,8 +454,8 @@ The application embedded xml manifest contains a section with high DPI awareness
   ...
 </code></pre>
 
-There are much more programmatic tricks I used to achieve outstanding performance, compatibility and look-n-feel.
-If you want to discover them, you have to study source code yourself.
+Hay muchos más trucos programáticos que utilicé para lograr un rendimiento, una compatibilidad y una apariencia sobresalientes.
+Si quieres descubrirlos, tienes que estudiar el código fuente tú mismo.
 
 <a name="Mouse_Polling_Rate"></a>
 ## Mouse Polling Rate

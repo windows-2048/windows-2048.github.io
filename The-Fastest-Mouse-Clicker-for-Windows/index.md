@@ -334,7 +334,7 @@ To update the view of a particular widget, an event is being sent to that widget
 incoming call is being passed to event loop handler where actual re-draw occurs.
 
 First, we declare a <code><a href="https://docs.microsoft.com/en-us/previous-versions/windows/desktop/legacy/ms633573(v=vs.85)" target="_blank">WindowProc()</a></code> callback function.
-Second, we register a main window class with that callback by <code><a href="https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-registerclassa" target="_blank">RegisterClass()</a></code>.
+Second, we register a main window class with that callback by <code><a href="https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-registerclassa" target="_blank">RegisterClassA()</a></code>.
 And finally we enter an infinite loop inside event callback function.
 
 <pre><code title="Windows event loop to re-draw the widgets">
