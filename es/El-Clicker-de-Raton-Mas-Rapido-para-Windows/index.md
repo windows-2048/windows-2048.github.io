@@ -655,55 +655,55 @@ Captura de pantalla resultante de MS Visual Studio 2019 que une Qt y libuiohook:
 
 
 <a name="HelpHowToUse"></a>
-## Help How To Use
+## Ayuda Cómo Usar
 
-YOU CAN START THE AUTO-CLICKING AT ANY MOMENT BY PRESSING THE &lt;trigger key&gt; (13 = Enter). Reading the entire Help is optional.
+PUEDE INICIAR EL AUTO-CLICK EN CUALQUIER MOMENTO PRESIONANDO LA &lt;tecla de activación&gt; (13 = Entrar). Leer toda la Ayuda es opcional.
 
-THE FIELDS YOU CAN NOT MODIFY.
+LOS CAMPOS NO SE PUEDEN MODIFICAR.
 
-&lt;clicking status&gt; or &lt;random clicking status&gt;, the topmost text field, is either getting 'idle' or 'clicking'.
- It is shown as &lt;random clicking status&gt; only when all the rectangle sizes to click randomly inside it are specified in the command line correctly.
- Just press the \[Batch folder\] button and see the remarks in file run_clicker_with_random_clicking.bat.
+&lt;estado de clic&gt; o &lt;estado de clic aleatorio&gt;, el campo de texto superior, está "inactivo" o "haciendo clic".
+  Se muestra como &lt;estado de clic aleatorio&gt; solo cuando todos los tamaños de rectángulo para hacer clic aleatoriamente dentro de él se especifican correctamente en la línea de comando.
+  Simplemente presione el botón \[Carpeta por lotes\] y vea los comentarios en el archivo run_clicker_with_random_clicking.bat.
 
-&lt;number of clicks&gt;, the top text field, indicates total number of clicks performed.
+&lt;número de clics&gt;, el campo de texto superior, indica el número total de clics realizados.
 
-THE FIELDS YOU CAN MODIFY (CALLED THE CLICKING PARAMETERS: THEY COULD BE SET FROM THE COMMAND LINE TOO, SEE BELOW).
+LOS CAMPOS QUE PUEDE MODIFICAR (LLAMADOS PARÁMETROS DE CLIC: TAMBIÉN SE PUEDEN CONFIGURAR DESDE LA LÍNEA DE COMANDO, VEA A CONTINUACIÓN).
 
-&lt;clicks per second&gt;, the middle text field, is the frequency of the clicks measured in clicks per second.
- This frequency can be as high as one hundred thousands (100000) clicks per second.
- FRACTIONAL frequences are supported. For example, 0.5 corresponds to 1 click every 2 seconds, 0.25 - to 1 click every 4 seconds, etc.
+&lt;clics por segundo&gt;, el campo de texto central, es la frecuencia de los clics medida en clics por segundo.
+  Esta frecuencia puede llegar a los cien mil (100000) clics por segundo.
+  Se admiten frecuencias FRACCIONALES. Por ejemplo, 0,5 corresponde a 1 clic cada 2 segundos, 0,25 a 1 clic cada 4 segundos, etc.
 
-&lt;begin/end trigger keys&gt;, below that, are the keyboard keys to trigger the mouse events. Just click on them and press an arbitrary key (or hit a mouse button).
- That key will then trigger the mouse clicks when it remains pressed. If you just press and release the key, only few clicks should be made.
- This behavior corresponds to &lt;trigger key mode&gt; = 'press', see how it changes on 'toggle' value below.
- Default number shown in the button, 13, is the 'Enter' key code (for example, 32 is the 'Space' key code, 112 is the 'F1' key code, etc.
- For all the key codes see [Windows docs](https://docs.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes){:target="_blank"}.
+&lt;teclas de activación de inicio/finalización&gt;, debajo de eso, se encuentran las teclas del teclado para activar los eventos del mouse. Simplemente haga clic en ellos y presione una tecla arbitraria (o presione un botón del mouse).
+  Esa tecla activará los clics del mouse cuando permanezca presionada. Si solo presiona y suelta la tecla, solo se deben hacer unos pocos clics.
+  Este comportamiento corresponde al &lt;modo de tecla de activación&gt; = 'presione', vea cómo cambia en el valor 'alternar' a continuación.
+  El número predeterminado que se muestra en el botón, 13, es el código de la tecla 'Entrar' (por ejemplo, 32 es el código de la tecla 'Espacio', 112 es el código de la tecla 'F1', etc.
+  Para ver todos los códigos clave, consulte [Documentos de Windows](https://learn.microsoft.com/es-es/windows/win32/inputdev/virtual-key-codes){:target="_blank"}.
 
-&lt;stop at&gt;, the lower text field, is the number of clicks before the clicking will automatically stop.
- 0 is the default and means infinity, i.e. clicking will never stop.
+&lt;detenerse en&gt;, el campo de texto inferior, es el número de clics antes de que el clic se detenga automáticamente.
+  0 es el valor predeterminado y significa infinito, es decir, hacer clic nunca se detendrá.
 
-&lt;trigger key mode&gt; is a radio-button group, you can select either 'press' or 'toggle' mode of clicking.
- In the 'press' mode (default), the mouse events are emitted only when the corresponding trigger key is kept pressed.
- In the 'toogle' mode, the mouse events are emitted between subsequent short hits to the &lt;begin trigger key&gt; and &lt;end trigger key&gt;.
+&lt;modo de tecla de activación&gt; es un grupo de botones de radio, puede seleccionar el modo de clic 'presionar' o 'alternar'.
+  En el modo 'presionar' (predeterminado), los eventos del mouse se emiten solo cuando se mantiene presionada la tecla de activación correspondiente.
+  En el modo 'toogle', los eventos del ratón se emiten entre pulsaciones cortas subsiguientes a la &lt;tecla de activación de inicio&gt; y &lt;tecla de activación final&gt;.
 
-&lt;mouse button to click&gt; is a radio-button group too, you can select either 'left', 'middle' or 'right' mouse button that will generate the clicks.
+&lt;botón del ratón para hacer clic&gt; es un grupo de botones de radio también, puede seleccionar el botón del mouse 'izquierdo', 'central' o 'derecho' que generará los clics.
 
-Note 1: You can't have the same mouse button be the trigger and clicker.
-<br/>Note 2: You can't change the &lt;trigger key&gt; if you chose the left mouse button; you must press the \[Reset to defaults\] button.
-<br/>Note 3: The &lt;trigger key&gt; still works when this program is minimized. You must close the program to stop a &lt;trigger key&gt; from clicking.
+Nota 1: No puede hacer que el mismo botón del mouse sea el disparador y el clicker.
+<br/>Nota 2: no puede cambiar la &lt;tecla de activación&gt; si elige el botón izquierdo del ratón; debe presionar el botón \[Reset to defaults\].
+<br/>Nota 3: La &lt;tecla de activación&gt; todavía funciona cuando este programa está minimizado. Debe cerrar el programa para detener una &lt;tecla de activación&gt; de hacer clic.
 
-*NEW* All the clicking parameters are saved automatically between application run-times.
+*NUEVO* Todos los parámetros de clic se guardan automáticamente entre los tiempos de ejecución de la aplicación.
 
-ADDITIONAL BUTTONS AND FEATURES.
+BOTONES Y CARACTERÍSTICAS ADICIONALES.
 
-\[STOP!\] button stops toggled clicking mandatory.
-<br/>\[Help\] button displays this help window.
-<br/>*NEW* \[Reset to defaults\] button sets all the clicking parameters back to their default values.
-<br/>*NEW* \[Batch folder\] button opens the folder in File Explorer where all the batch files reside typically.
-<br/>*NEW* To get help on the command line arguments, just press the \[Batch folder\] button and see the remarks in \*.bat files you find there.
-<br/>*NEW* Independent keys for &lt;trigger key mode&gt; = 'toggle': if &lt;begin trigger key&gt; begins the clicking, then &lt;end trigger key&gt; stops it.
-<br/>*NEW* &lt;Window Always Top&gt; checkbox: if checked, keeps the app's main window at topmost of others.
-<br/>*BRAND NEW* The 'Run group app' button: record/play the sequences of mouse clicks.
+El botón \[¡DETENER!\] deja de hacer clic obligatoriamente.
+El botón <br/>\[Ayuda\] muestra esta ventana de ayuda.
+<br/>*NUEVO* El botón \[Restablecer valores predeterminados\] restablece todos los parámetros de clic a sus valores predeterminados.
+<br/>*NUEVO* El botón \[Carpeta por lotes\] abre la carpeta en el Explorador de archivos donde normalmente residen todos los archivos por lotes.
+<br/>*NUEVO* Para obtener ayuda sobre los argumentos de la línea de comando, simplemente presione el botón \[Carpeta por lotes\] y vea los comentarios en los archivos \*.bat que encontrará allí.
+<br/>*NUEVO* Teclas independientes para &lt;modo de tecla de activación&gt; = 'alternar': si &lt;iniciar tecla de activación&gt; comienza el clic, luego &lt;finalizar tecla de activación&gt; lo detiene
+<br/>*NUEVO* &lt;Ventana siempre superior&gt; Casilla de verificación: si está marcada, mantiene la ventana principal de la aplicación en la parte superior de las demás.
+<br/>*NUEVO* El botón 'Ejecutar aplicación grupal': graba/reproduce las secuencias de clics del mouse.
 
 <a name="Screenshots"></a>
 ## Screenshots
