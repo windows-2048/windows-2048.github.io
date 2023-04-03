@@ -221,29 +221,29 @@ un [problema]({{ site.source_issues_url }}){:target="_blank"} para solicitar una
 en cualquier editor de texto sin formato (puede cambiar la ruta secundaria TheFastestMouseClicker durante la instalación).
 
 <a name="Comparison"></a>
-## Comparison
+## Comparación
 
-What about other auto-clickers and their features?
-Here is the table that summarizes all the key features of 3 most downloaded programs.
+¿Qué pasa con otros auto-clickers y sus características?
+Aquí está la tabla que resume todas las características clave de los 3 programas más descargados.
 
-Feature | [Fast Mouse Clicker](https://sourceforge.net/projects/fastclicker/){:target="_blank"} | [Auto<wbr/>Clicker](https://sourceforge.net/projects/orphamielautoclicker/){:target="_blank"} | The Fastest Mouse Clicker for Windows
+Característica | [Fast Mouse Clicker](https://sourceforge.net/projects/fastclicker/){:target="_blank"} | [Auto<wbr/>Clicker](https://sourceforge.net/projects/orphamielautoclicker/){:target="_blank"} | {{ site.t['app_name'][page.lang] }}
 ------- | ------- | -------
-Open source project | No | **Yes** | **Yes**
-Regular updates and bug fixes | No | No | **Yes**
-Arbitrary trigger key for clicking | **Yes** | **Yes** | **Yes**
-Mouse button as trigger key for clicking | **Yes** | No | **Yes**
-Independent trigger keys in toggle mode | No | **Yes** | **Yes**
-All the clicking parameters auto-save | No | **Yes** | **Yes**
-Group clicking (record-play the sequences of clicks) | No | **Yes** | **Yes**
-Command line support in batch files | No | No | **Yes**
-Button to open a folder with all the batch files | No | No | **Yes**
-Button to reset all the clicking parameters to default values | No | No | **Yes**
-Random clicking in a specified rectangle | No | No | **Yes**
-Hardware-limited fastest clicking via arrayed <code><a href="https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a></code> | No | No | **Yes**
-Side DLL/runtime independent (runs on bare Windows) | No | No | **Yes**
-Checkbox to keep the app window always Top | No | No | **Yes**
+Proyecto de código abierto | No | **Sí** | **Sí**
+Actualizaciones periódicas y corrección de errores | No | No | **Sí**
+Tecla de activación arbitraria para hacer clic | **Sí** | **Sí** | **Sí**
+Botón del ratón como tecla de activación para hacer clic | **Sí** | No | **Sí**
+Teclas de disparo independientes en modo alternar | No | **Sí** | **Sí**
+Todos los parámetros de clic se guardan automáticamente | No | **Sí** | **Sí**
+Grupo de clics (grabar-reproducir las secuencias de clics) | No | **Sí** | **Sí**
+Soporte de línea de comandos en archivos por lotes | No | No | **Sí**
+Botón para abrir una carpeta con todos los archivos por lotes | No | No | **Sí**
+Botón para restablecer todos los parámetros de clic a los valores predeterminados | No | No | **Sí**
+Hacer clic al azar en un rectángulo específico | No | No | **Sí**
+Clic más rápido limitado por hardware a través de <code><a href="https://learn.microsoft.com/es-es/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a></code> en matriz | No | No | **Yes**
+Lado DLL/tiempo de ejecución independiente (se ejecuta en Windows básico) | No | No | **Sí**
+Casilla de verificación para mantener la ventana de la aplicación siempre Arriba | No | No | **Sí**
 
-The Fastest Mouse Clicker for Windows wins this competition because its code is a further developing of the rest 2 popular apps.
+{{ site.t['app_name'][page.lang] }} gana esta competencia porque su código es un desarrollo adicional de las otras 2 aplicaciones populares.
 
 <a name="Technology"></a>
 ## Technology
