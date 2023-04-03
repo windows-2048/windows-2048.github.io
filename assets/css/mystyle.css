@@ -29,7 +29,6 @@ ul.lang {
   margin: 0;
   padding: 0;
   border: 0;
-  background: transparent;
   font: inherit;
   line-height: normal;
   cursor: pointer;
@@ -38,7 +37,7 @@ ul.lang {
   text-decoration: none;
   text-transform: uppercase;
   padding: 16px 36px 22px;
-  background-color: #def;
+  background-color: #f8f8ff;
   color: #069;
   border: 2px solid #069;
   border-radius: 6px;
@@ -354,8 +353,7 @@ a {
 a:active {
     color: #069;
 }
-a:hover,
-a:focus {
+a:hover {
     color: #036;
     text-decoration: underline;
 }
@@ -460,8 +458,7 @@ ul.downloads {
     height: 34px;
     text-decoration: none;
 }
-.downloads a:hover,
-.downloads a:focus {
+.downloads a:hover {
     color: #036;
     text-decoration: underline;
 }

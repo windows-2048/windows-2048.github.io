@@ -246,7 +246,7 @@ Casilla de verificación para mantener la ventana de la aplicación siempre Arri
 {{ site.t['app_name'][page.lang] }} gana esta competencia porque su código es un desarrollo adicional de las otras 2 aplicaciones populares.
 
 <a name="Technology"></a>
-## Technology
+## Tecnología
 
 A diferencia de otros clickers automáticos que usan obsoletos <code><a href="https://learn.microsoft.com/es-es/windows/win32/api/winuser/nf-winuser-mouse_event" target="_blank">mouse_event()</a></code>
 llamada del sistema desde la fuente C/C++ o <code><a href="https://learn.microsoft.com/es-es/windows/win32/api/winuser/nf-winuser-sendinput" target=" _blank">SendInput()</a></code> de fuente C#/.Net, {{ site.t['app_name'][page.lang] }} utiliza
@@ -299,11 +299,11 @@ else
 
 Otro beneficio de este enfoque es un ejecutable compacto y vinculado estáticamente sin dependencias externas.
 
-When end-user selects low click rates, actual size of the <i>array</i> of mouse events in <code><a href="https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a></code>
-is set to 1 and number of clicks per second is regulated by <code><a href="https://docs.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-sleep" target="_blank">Sleep()</a></code> only.
-But when end-user selects high click rates, the size of the <i>array</i> becomes significant. In rare circumstances, it may lead to freeze the whole Windows GUI.
-To avoid that, the helper thread is created to scan <code><a href="https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-getasynckeystate" target="_blank">GetAsyncKeyState()</a></code> independently in order end-user has requested to stop the clicking
-and force <code><a href="https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-blockinput" target="_blank">BlockInput()</a></code> because mouse event buffer may be full:
+Cuando el usuario final selecciona tasas de clic bajas, el tamaño real de la <i>matriz</i> de eventos del mouse en <code><a href="https://learn.microsoft.com/es-es/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a></code>
+está configurado en 1 y la cantidad de clics por segundo está regulada por el objetivo <code><a href="https://learn.microsoft.com/es-es/windows/win32/api/synchapi/nf-synchapi-sleep" target="_blank">Sleep()</a></code> solamente.
+Pero cuando el usuario final selecciona altas tasas de clics, el tamaño de la <i>matriz</i> se vuelve significativo. En circunstancias excepcionales, puede provocar la congelación de toda la GUI de Windows.
+Para evitarlo, se crea el subproceso auxiliar para escanear <code><a href="https://learn.microsoft.com/es-es/windows/win32/api/winuser/nf-winuser-getasynckeystate" target="_blank">GetAsyncKeyState()</a></code> de forma independiente para que el usuario final haya solicitado detener el clic
+y fuerza <code><a href="https://learn.microsoft.com/es-es/windows/win32/api/winuser/nf-winuser-blockinput" target="_blank">BlockInput()</a></code> porque el búfer de eventos del mouse puede estar lleno:
 
 <pre><code title="Helper thread with BlockInput() example">
 DWORD WINAPI MyThreadFunction(LPVOID lpParam)
