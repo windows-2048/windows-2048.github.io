@@ -18,166 +18,166 @@ i18n-link: the-fastest-mouse-clicker-for-windows
 SHA256(Install_TheFastestMouseClicker_2.6.1.0.exe)= eb6a79fcecb598b626b10d34951d6b51b7c56af25c340a59c208b879f3d2e151
 
 <a name="ChangeLog"></a>
-### What's New - The latest version&nbsp;{{site.app_version}}
+### Novedades - La última versión&nbsp;{{site.app_version}}
 
-"Single" application | "Group" application
+Aplicación "Única" | Aplicación "Grupo"
 ----- | -----
-![{{ site.t['app_name'][page.lang] }} version 2.6.1.0: "Single" application](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/mw_v2.6.1.0.jpg) | ![{{ site.t['app_name'][page.lang] }} version 2.6.1.0: "Group" application](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/mw_groupapp_v2.6.1.0.jpg)
+![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Aplicación "Única"](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/mw_v2.6.1.0.jpg) | ![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Aplicación "Grupo"](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/mw_groupapp_v2.6.1.0.jpg)
 
-#### ChangeLog
+#### RegistroDeCambios
 
-* Long waiting new feature FIXED POSITION CLICKING.
-* Live current mouse position indicator.
-* Fixed blurred GUI texts on 4K screens.
-* Fixed wrong question about close old application during installation.
-* Few minor bug fixes.
+* Larga espera nueva función CLIC DE POSICIÓN FIJA.
+* Indicador de posición actual del mouse en vivo.
+* Se corrigieron los textos GUI borrosos en pantallas 4K.
+* Se corrigió la pregunta incorrecta sobre el cierre de la aplicación anterior durante la instalación.
+* Algunas correcciones de errores menores.
 
 Found a bug or want a new feature? Create the [issue]({{site.source_issues_url}}){:target="_blank"}!
 
-### Warning
+### Advertencia
 
-> Please update your URLs:
+> Actualice sus URL:
 > <br/>— <span style="color:DarkOrange;">https://sourceforge.net/projects/fast-mouse-clicker-pro/</span>
 > <br/>— <span style="color:DarkOrange;">https://sourceforge.net/projects/fastclicker/</span>
-> <br/>are obsolete and points to the wrong locations.
-> <br/><span style="color:OliveDrab;"><b>Official site is here</b></span>.
+> <br/>están obsoletos y apuntan a ubicaciones incorrectas.
+> <br/><span style="color:OliveDrab;"><b>El sitio oficial está aquí</b></span>.
 
-### All future versions of The Fastest Mouse Clicker for Windows will be cross-platform and made with Qt
+### Todas las versiones futuras de El Clicker de Ratón Más Rápido para Windows serán multiplataforma y se realizarán con Qt
 
-First, I have compiled a 64-bit minimalistic, static/static-runtime build of Qt v5.15.5 (LTS) made for Windows 7 to 11 under MSVC 2019 compiler.
+En primer lugar, compilé una compilación minimalista, estática/de tiempo de ejecución estático de 64 bits de Qt v5.15.5 (LTS) creada para Windows 7 a 11 con el compilador MSVC 2019.
 
-Configure options:
+Configurar opciones:
 
 ```
 C:\qt-src-5.15.5\configure -static -static-runtime -qt-zlib -qt-libjpeg -qt-libpng -qt-freetype -qt-pcre -qt-harfbuzz -no-sse4.1 -no-sse4.2 -no-avx2 -no-avx512 -no-pch -no-ssl -no-openssl -no-opengl -qpa windows -confirm-license -opensource -release -make libs -make tools -prefix c:/qt-5.15.5-static
 ```
 
-Download [qt-5.15.5-static.zip](https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/qt-5.15.5-static.zip).
+Descargar [qt-5.15.5-static.zip](https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/qt-5.15.5-static.zip).
 
-### Disambiguation
+### Desambiguación
 
-Fast or fastest mouse clicker may refer to a man clicking a hardware mouse by his own hands.
-Typically such a man is called "quickest mouse clicker" or "quick mouse clicker".
-Thus "fastest" do typically refer to a PC program while "quickest" refers to a human being.
-Unprecedented record was done on May 6 2015, when Dylan A. from Las Vegas, Nevada, United States
-clicked his mouse a total of 1051 times in 10 seconds, according to
+El clic del mouse rápido o más rápido puede referirse a un hombre que hace clic en un mouse de hardware con sus propias manos.
+Por lo general, a ese hombre se le llama "el que hace clic con el mouse más rápido" o "el que hace clic con el mouse más rápido".
+Por lo tanto, "más rápido" generalmente se refiere a un programa de PC, mientras que "más rápido" se refiere a un ser humano.
+Un récord sin precedentes se hizo el 6 de mayo de 2015, cuando Dylan A. de Las Vegas, Nevada, Estados Unidos
+hizo clic con el mouse un total de 1051 veces en 10 segundos, según
 [recordsetter.com](https://recordsetter.com/world-record/mouse-clicks-10/41199){:target="_blank"}.
 
 <p>
-TampaTec, famous Youtube blogger, has shown another real hardware mouse clicking, reaching clicking rate up to 16.5&nbsp;CPS (Clicks Per Second)!
-He described how to win Gow&nbsp;2&nbsp;3 chainsaw duels, World's Fastest mouse clicking, clicker King, urban75.com.
-His commenter Alexander Nielsen writes he achieves up to 100&nbsp;CPS consistently.
-Rather Troy Liebe asserts his personal best is 139&nbsp;CPS with one finger (Brain Bashers).
-In the video below, TampaTec shows the technique how that amazing results can be performed.
+¡TampaTec, el famoso blogger de Youtube, ha mostrado otro clic de mouse de hardware real, alcanzando una tasa de clics de hasta 16.5&nbsp;CPS (clics por segundo)!
+Describió cómo ganar duelos de motosierras de Gow&nbsp;2&nbsp;3, World's Fastest mouse clicking, clicker King, urban75.com.
+Su comentarista Alexander Nielsen escribe que logra hasta 100&nbsp;CPS constantemente.
+Más bien, Troy Liebe afirma que su mejor marca personal es 139&nbsp;CPS con un dedo (Brain Bashers).
+En el video a continuación, TampaTec muestra la técnica de cómo se pueden lograr resultados sorprendentes.
  <video style="outline:none; width:100%; height:100%;" controls preload="none" poster="../../The-Fastest-Mouse-Clicker-for-Windows/videos/worlds-fastest-clicker-720p.jpg">
   <source src="../../The-Fastest-Mouse-Clicker-for-Windows/videos/worlds-fastest-clicker-720p.mp4" type="video/mp4"/>
-  Your browser does not support the video tag.
+  Su navegador no soporta la etiqueta de vídeo.
 </video>
 <a href="https://www.youtube.com/watch?v=r8Tlb3FrmhQ" target="_blank">Watch the original video "World's fastest mouse clicker- How to Win Gow Chainsaw duels!" in Youtube.</a>
 </p>
 
-## Table of Contents
+## Tabla de contenido
 
-* [Introduction](index.html#Introduction)
-* [Features](index.html#Features)
-* [Comparison](index.html#Comparison)
-* [Technology](index.html#Technology)
-* [Mouse Polling Rate](index.html#Mouse_Polling_Rate)
-* [Source Code](index.html#SourceCode)
-* [The Fastest Mouse Clicker v3.0.0.0 (cross-platform Qt edition)](index.html#TheFastestMouseClickerQt)
-* [Help How To Use](index.html#HelpHowToUse)
-* [Screenshots](index.html#Screenshots)
-* [Partners](index.html#Partners)
-* [Video Reviews From Our Users](index.html#Reviews_from_our_users)
-* [Frequently Asked Questions (FAQ)](index.html#FAQ)
-* [Downloads for all the versions](index.html#Downloads)
-* [Contacts](index.html#Contacts)
+* [Introducción](index.html#Introduction)
+* [Características](index.html#Features)
+* [Comparación](index.html#Comparison)
+* [Tecnología](index.html#Technology)
+* [Tasa de Sondeo del Ratón](index.html#Mouse_Polling_Rate)
+* [Código Fuente](index.html#SourceCode)
+* [El Clicker de Ratón Más Rápido v3.0.0.0 (edición Qt multiplataforma)](index.html#TheFastestMouseClickerQt)
+* [Ayuda Cómo Usar](index.html#HelpHowToUse)
+* [Capturas de Pantalla](index.html#Screenshots)
+* [Socios](index.html#Partners)
+* [Opiniones en Video de Nuestros Usuarios](index.html#Reviews_from_our_users)
+* [Preguntas Frecuentes (FAQ)](index.html#FAQ)
+* [Descargas para todas las versiones](index.html#Downloads)
+* [Contactos](index.html#Contacts)
 
 <a name="Introduction"></a>
-## Introduction
+## Introducción
 
-This is the official site to download various versions of {{ site.t['app_name'][page.lang] }}.
-Introducing the fastest mouse clicker you have ever experienced!
+Este es el sitio oficial para descargar varias versiones de {{ site.t['app_name'][page.lang] }}.
+¡Presentamos el clicker de mouse más rápido que jamás hayas experimentado!
 
-Tired of slow, unresponsive mouse clickers that just don’t do the job? Look no further! Our revolutionary new mouse clicker app for Windows is here to change the game.
+¿Cansado de los clics del mouse lentos y que no responden que simplemente no hacen el trabajo? ¡No busque más! Nuestra nueva y revolucionaria aplicación para hacer clic con el mouse para Windows está aquí para cambiar el juego.
 
-We take pride in utilizing the hidden power of the Win32 SendInput() API, which sets our app apart from all the competitors. This unique technology allows us to guarantee that our app is the fastest and most efficient mouse clicker available on the market.
+Nos enorgullecemos de utilizar el poder oculto de la API Win32 SendInput(), que diferencia a nuestra aplicación de todos los competidores. Esta tecnología única nos permite garantizar que nuestra aplicación es el clicker de mouse más rápido y eficiente disponible en el mercado.
 
-So why wait? Boost your productivity and gaming experience with these incredible features:
+Entonces, ¿por qué esperar? Aumente su productividad y experiencia de juego con estas increíbles características:
 
-* Unrivaled Speed: Say goodbye to lags and delays, our superior Win32 SendInput() API integration provides the smoothest and quickest mouse clicks you’ve ever experienced.
+* Velocidad inigualable: Diga adiós a los retrasos y las demoras, nuestra integración superior de la API Win32 SendInput() proporciona los clics de mouse más fluidos y rápidos que jamás haya experimentado.
 
-* Customizable Settings: Tailor your click rates and intervals to your specific needs, save presets, and switch between them with ease.
+* Configuraciones personalizables: adapte sus tasas de clics e intervalos a sus necesidades específicas, guarde ajustes preestablecidos y cambie entre ellos con facilidad.
 
-* Easy-to-use Interface: Navigate through the app effortlessly with our sleek and user-friendly design.
+* Interfaz fácil de usar: navegue por la aplicación sin esfuerzo con nuestro diseño elegante y fácil de usar.
 
-* Perfect for Gamers and Professionals: Whether you’re into MMORPG’s, time-limited tasks, or data entry, our mouse clicker app enhances your performance and reduces strain on your hands.
+* Perfecta para jugadores y profesionales: ya sea que te gusten los MMORPG, las tareas de tiempo limitado o la entrada de datos, nuestra aplicación de clic del mouse mejora tu rendimiento y reduce la tensión en tus manos.
 
-* Regular Updates: We constantly aim to improve and provide you with the latest features - our app evolves with you.
+* Actualizaciones periódicas: nuestro objetivo es mejorar constantemente y brindarle las funciones más recientes: nuestra aplicación evoluciona con usted.
 
-* Trusted by Thousands: Join our growing community of satisfied users who have experienced the power of the fastest mouse clicker app for Windows.
+* Con la confianza de miles: Únase a nuestra creciente comunidad de usuarios satisfechos que han experimentado el poder de la aplicación de clic de mouse más rápida para Windows.
 
-What are you waiting for? Experience lightning-fast clicks and improve your digital experience like never before. Download and install the ultimate app today - because you deserve the best!
+¿Que estas esperando? Experimente clics ultrarrápidos y mejore su experiencia digital como nunca antes. Descarga e instala la aplicación definitiva hoy, ¡porque te mereces lo mejor!
 
 
-All the versions are shipped with SHA256 fingerprints to ensure you do download the genuine software.
+Todas las versiones se envían con huellas dactilares SHA256 para garantizar que descargue el software original.
 
-Industry standard free open source mouse auto clicker emulates Windows clicks EXTREMELY QUICKLY via arrays of 1-1000 mouse events in Win32 <code><a href="https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a></code>, making up to 100 000 clicks per second. Brand new group clicking support, Command line for batch files, Auto-save on exit, Random clicking, App's window always topmost are supported. This compact standalone program is compiled and statically linked by gnu/gcc compiler and supports all the Windows 7 to 10 and Linux via Wine emulator. This clicker is the best for incremental games: Cooking, Soda, Minecraft etc.
+El clicker automático de mouse de código abierto gratuito estándar de la industria emula los clics de Windows EXTREMADAMENTE RÁPIDAMENTE a través de matrices de 1-1000 eventos de mouse en Win32 <code><a href="https://learn.microsoft.com/es-es/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a></code>, haciendo hasta 100 000 clics por segundo. Nuevo soporte para hacer clic en grupo, línea de comandos para archivos por lotes, guardado automático al salir, clics aleatorios, la ventana de la aplicación siempre se admite. Este programa autónomo compacto está compilado y vinculado estáticamente por el compilador gnu/gcc y es compatible con todos los Windows 7 a 10 y Linux a través del emulador Wine. Este clicker es el mejor para juegos incrementales: Cooking, Soda, Minecraft, etc.
 
-The program is written in vanilla C++ with native Win32 API and linked statically thus it becomes a super-compact executable without external dependencies and can run on a bare Windows installation.
+El programa está escrito en Vanilla C++ con API Win32 nativa y vinculado estáticamente, por lo que se convierte en un ejecutable supercompacto sin dependencias externas y puede ejecutarse en una instalación simple de Windows.
 
-Free and fast, open source, full-featured, statically-linked mouse auto clicker for Windows written in vanilla C++. Uses hardware-limited arrayed Win32 <code><a href="https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a></code> calls to reach up to 100000 clicks/s. Supports command line, random clicks and record-play the sequences of clicks.
+Gratis y rápido, de código abierto, con todas las funciones, auto clicker de mouse con enlace estático para Windows escrito en Vanilla C++. Utiliza Win32 en matriz limitada por hardware <code><a href="https://learn.microsoft.com/es-es/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a></code> llamadas para alcanzar hasta 100000 clics/s. Admite línea de comandos, clics aleatorios y grabación de reproducción de secuencias de clics.
 
-This is a professional tool for both quality assistance workflow and video game cheating.
-Using keyboard keys (or mouse buttons) as a trigger, you can position the mouse, then hit a key to click up to 100000 times every second,
-10 times faster then abandoned project at [sourceforge.net](https://sourceforge.net/projects/fastclicker/){:target="_blank"}.
-{{ site.t['app_name'][page.lang] }} allows you to set an activation key to switch automatic clicking . There are two activation modes:
-"press": the app will repeat clicking as long as the activation key is being pressed, and
-"toggle": a Begin activation key press activates automatic clicking until an End activation key press deactivates it.
-Of course, you can select arbitrary Begin and End trigger keys.
-You also have the option to set a click number limitation. The mouse auto-clicker stops automatically when your desired number of clicks is reached.
+Esta es una herramienta profesional tanto para el flujo de trabajo de asistencia de calidad como para hacer trampa en videojuegos.
+Usando las teclas del teclado (o los botones del mouse) como disparador, puede colocar el mouse y luego presionar una tecla para hacer clic hasta 100000 veces por segundo.
+10 veces más rápido que el proyecto abandonado en [sourceforge.net](https://sourceforge.net/projects/fastclicker/){:target="_blank"}.
+{{ site.t['app_name'][page.lang] }} le permite configurar una clave de activación para cambiar el clic automático. Hay dos modos de activación:
+"presionar": la aplicación repetirá el clic mientras se presione la tecla de activación, y
+"alternar": una pulsación de la tecla Iniciar activación activa el clic automático hasta que una pulsación de la tecla Finalizar activación lo desactiva.
+Por supuesto, puede seleccionar teclas de activación de inicio y finalización arbitrarias.
+También tiene la opción de establecer una limitación del número de clics. El clicker automático del mouse se detiene automáticamente cuando se alcanza el número deseado de clics.
 
-If you desire to perform a Click Speed Test, go to elegant open source [implementation](https://all-mouse-auto-clickers.software/){:target="_blank"} working right in your web browser.
-The Click Speed Test is a free click per second test, which measures your mouse clicking speed in given time frame. Playing the Click Speed Test is easy and fun at the same time.
-The test is suitable for all types of auto-clicking software as well as for direct human hands testing in all age groups, so do not worry if you are just a high school student or a person with a corporate job or PhD.
-You do find Click Speed Test to be a useful tool while searching for ways to repeatedly click without using the mouse.
-With {{ site.t['app_name'][page.lang] }} you just input the speed at which to click, and a keyboard button, and then while you hold that button down, the mouse is clicking for you automatically.
-If you prefer to avoid "cheating", keep the clicking speed around 10-20 clicks/sec.
+Si desea realizar una prueba de velocidad de clic, vaya a la elegante [implementation](https://all-mouse-auto-clickers.software/){:target="_blank"} de código abierto que funciona directamente en su navegador web.
+La prueba de velocidad de clic es una prueba gratuita de clic por segundo, que mide la velocidad de clic del mouse en un período de tiempo determinado. Jugar a la prueba de velocidad de clic es fácil y divertido al mismo tiempo.
+La prueba es adecuada para todo tipo de software de clic automático, así como para pruebas directas en manos humanas en todos los grupos de edad, así que no se preocupe si es solo un estudiante de secundaria o una persona con un trabajo corporativo o un doctorado.
+Considera que la Prueba de velocidad de clic es una herramienta útil mientras busca formas de hacer clic repetidamente sin usar el mouse.
+Con {{ site.t['app_name'][page.lang] }} solo ingresa la velocidad a la que hacer clic y un botón del teclado, y luego, mientras mantiene presionado ese botón, el mouse hace clic automáticamente.
+Si prefiere evitar las "trampas", mantenga la velocidad de clic entre 10 y 20 clics por segundo.
 
-> New big version with FIXED POSITION CLICKING has been released!
+> ¡Se ha lanzado una nueva versión grande con CLIC DE POSICIÓN FIJA!
 
-{{ site.t['app_name'][page.lang] }} clicks the mouse automatically by emulating mouse clicking events.
-The app has random in a box clicking feature, if you want that for some reason.
-I plan to implement variative time interval between the clicks and allow you to choose a random interval range.
-Hotkeys that trigger mouse clicks will be supported with almost every key modifiers, like SHIFT, CONTROL and ALT thus allow you to have SHIFT+\<Key\>, CONTROL+\<Key\> and ALT+\<Key\> triggers.
-{{ site.t['app_name'][page.lang] }} is now suitable for Minecraft and Roblox auto-clicking, thanks to request from Xisuma user.
-Also the program can be used as autoplayer for the game ClickerHeroes.
-It can autoclick, activate skills, buy heroes and upgrades, and ascend and start all over.
-All you need is to record and playback appropriate clicking sequence (see below).
+{{ site.t['app_name'][page.lang] }} hace clic con el mouse automáticamente al emular los eventos de clic del mouse.
+La aplicación tiene una función de clic aleatorio en un cuadro, si lo desea por alguna razón.
+Planeo implementar un intervalo de tiempo variable entre los clics y permitirle elegir un rango de intervalo aleatorio.
+Las teclas de acceso rápido que activan los clics del mouse serán compatibles con casi todos los modificadores de teclas, como SHIFT, CONTROL y ALT, por lo que le permiten tener activadores SHIFT+\<Key\>, CONTROL+\<Key\> y ALT+\<Key\>.
+{{ site.t['app_name'][page.lang] }} ahora es adecuado para hacer clic automáticamente en Minecraft y Roblox, gracias a la solicitud del usuario de Xisuma.
+Además, el programa se puede utilizar como reproductor automático para el juego ClickerHeroes.
+Puede hacer clic automáticamente, activar habilidades, comprar héroes y mejoras, y ascender y empezar de nuevo.
+Todo lo que necesita es grabar y reproducir la secuencia de clics adecuada (ver más abajo).
 
-You can auto-click the images, auto-fill the web forms, auto-submit a various type of requests with this auto-clicker.
-For example, {{ site.t['app_name'][page.lang] }} can be used for scripting in Steam Summer Monster Minigame.
-Another example, this program can be a bot for PTC websites like shorte.st, linkbucks, admy.link, etc. that automatically skips Ads.
-The Group Clicker is a part of {{ site.t['app_name'][page.lang] }}. To run this extension simply click on "Run group app" button on the main window of {{ site.t['app_name'][page.lang] }}.
-To return back to the previous app, click "Run single app" button.
-The Group Clicker helps you to maintain separate sheet of data file from which Group Clicker can fetch data and use them row by row.
-Also I plan to implement a schedule stored in a plain text file allowing you to auto-click on a webpage/URL at particular day and time.
-You may add your own features by opening the solution file in Visual Studio and modifying source code.
-The Windows installer opens corresponding folders by default.
+Puede hacer clic automáticamente en las imágenes, completar automáticamente los formularios web, enviar automáticamente varios tipos de solicitudes con este clic automático.
+Por ejemplo, {{ site.t['app_name'][page.lang] }} se puede usar para secuencias de comandos en Steam Summer Monster Minigame.
+Otro ejemplo, este programa puede ser un bot para sitios web de PTC como shorte.st, linkbucks, admy.link, etc. que salta automáticamente los anuncios.
+Group Clicker es parte de {{ site.t['app_name'][page.lang] }}. Para ejecutar esta extensión, simplemente haga clic en el botón "Ejecutar aplicación de grupo" en la ventana principal de {{ site.t['app_name'][page.lang] }}.
+Para volver a la aplicación anterior, haga clic en el botón "Ejecutar aplicación única".
+Group Clicker lo ayuda a mantener una hoja de archivo de datos separada desde la cual Group Clicker puede obtener datos y usarlos fila por fila.
+También planeo implementar un programa almacenado en un archivo de texto sin formato que le permita hacer clic automáticamente en una página web/URL en un día y hora en particular.
+Puede agregar sus propias funciones abriendo el archivo de la solución en Visual Studio y modificando el código fuente.
+El instalador de Windows abre las carpetas correspondientes de forma predeterminada.
 
 <p>
-Here is a short intro video that tells how to download and install {{ site.t['app_name'][page.lang] }}.
-Also it shows basic quick-start guide to use automated clicks.
+Aquí hay un breve video de introducción que explica cómo descargar e instalar {{ site.t['app_name'][page.lang] }}.
+También muestra una guía básica de inicio rápido para usar clics automáticos.
  <video style="outline:none; width:100%; height:100%;" controls preload="none" poster="../../The-Fastest-Mouse-Clicker-for-Windows/videos/TFMCfW_intro.jpg">
   <source src="../../The-Fastest-Mouse-Clicker-for-Windows/videos/TFMCfW_intro.mp4" type="video/mp4"/>
-  Your browser does not support the video tag.
+  Su navegador no soporta la etiqueta de vídeo.
 </video>
-<a href="https://www.youtube.com/watch?v=gCpALY1WqmE" target="_blank">Watch intro to {{ site.t['app_name'][page.lang] }} in Youtube.</a>
+<a href="https://www.youtube.com/watch?v=gCpALY1WqmE" target="_blank">Mira la introducción a {{ site.t['app_name'][page.lang] }} en Youtube.</a>
 </p>
 
-There are a lot of use-cases of {{ site.t['app_name'][page.lang] }}.
-Amateurs can use it for cheating in various web sites or video games such as Counter-Strike: Global Offensive (CS:GO), Candy Crush Saga, Roblox games, etc.
-Professionals can use it for quality assistant and testing purposes because full support of command line in batch files, PowerShell scripts, etc.
+Hay muchos casos de uso de {{ site.t['app_name'][page.lang] }}.
+Los aficionados pueden usarlo para hacer trampa en varios sitios web o videojuegos como Counter-Strike: Global Offensive (CS:GO), Candy Crush Saga, juegos de Roblox, etc.
+Los profesionales pueden utilizarlo como asistente de calidad y con fines de prueba porque es totalmente compatible con la línea de comandos en archivos por lotes, scripts de PowerShell, etc.
 
 <a name="Features"></a>
 ## Features
