@@ -736,7 +736,7 @@ El botón <br/>\[Ayuda\] muestra esta ventana de ayuda.
 ![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: aplicación principal con carpeta por lotes que revela funciones "secretas"](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/tfmcfw-v2.6.1.0-batch-folder.jpg)
 
 <a name="Partners"></a>
-## Partners
+## Socios
 
 * [Bytesin](https://www.bytesin.com/software/The-Fastest-Mouse-Clicker-for-Windows/){:target="_blank"}, Your Daily Dose of Bytes
 
@@ -759,98 +759,98 @@ El botón <br/>\[Ayuda\] muestra esta ventana de ayuda.
 * [Uptodown](https://the-fastest-mouse-clicker-for-windows.en.uptodown.com/windows/download){:target="_blank"}, Download Discover Share
 
 <a name="Reviews_from_our_users"></a>
-## Video reviews from our users
+## Opiniones en Video de Nuestros Usuarios
 
 <p>
-Wolf0626, young vlogger shows how he downloads, installs and runs The Fastest Mouse Clicker for Windows on his PC.
+Wolf0626, joven vlogger, muestra cómo descarga, instala y ejecuta The Fastest Mouse Clicker para Windows en su PC.
  <video style="outline:none; width:100%; height:100%;" controls preload="none" poster="../../The-Fastest-Mouse-Clicker-for-Windows/videos/VideoReview_Wolf0626.jpg">
   <source src="../../The-Fastest-Mouse-Clicker-for-Windows/videos/VideoReview_Wolf0626.mp4" type="video/mp4"/>
-  Your browser does not support the video tag.
+  Su navegador no soporta la etiqueta de vídeo.
 </video>
 <a href="https://www.youtube.com/watch?v=f92nqHFxcmk" target="_blank">Watch the review video "How to Download the fastest mouse clicker for windows!!!" in Youtube.</a>
 </p>
 
 <p>
-BullyWiiPlaza, experienced youtuber shows how he cheats extra scores with The Fastest Mouse Clicker for Windows in his mature gameplay.
+BullyWiiPlaza, youtuber experimentado, muestra cómo hace trampas para obtener puntajes adicionales con The Fastest Mouse Clicker para Windows en su modo de juego maduro.
  <video style="outline:none; width:100%; height:100%;" controls preload="none" poster="../../The-Fastest-Mouse-Clicker-for-Windows/videos/VideoReview_BullyWiiPlaza.jpg">
   <source src="../../The-Fastest-Mouse-Clicker-for-Windows/videos/VideoReview_BullyWiiPlaza.mp4" type="video/mp4"/>
-  Your browser does not support the video tag.
+  Su navegador no soporta la etiqueta de vídeo.
 </video>
 <a href="https://www.youtube.com/watch?v=weoSf-CppZU" target="_blank">Watch the review video "[Yu-Gi-Oh! Duel Links] The Fastest Auto Clicker for Windows Gameplay" in Youtube.</a>
 </p>
 
 <a name="FAQ"></a>
-## Frequently Asked Questions (FAQ)
+## Preguntas Frecuentes (FAQ)
 
-### Does the clicker work when its main GUI window is minimized?
+### ¿Funciona el clicker cuando su ventana GUI principal está minimizada?
 
-Yes, it does. Trigger keys are being intercepted and mouse events are being emitted
-regardless the application window state is: normal, maximized, minimized, focus, blur, etc.
+Sí, lo hace. Se interceptan las teclas de activación y se emiten eventos del mouse
+independientemente del estado de la ventana de la aplicación: normal, maximizada, minimizada, enfocada, borrosa, etc.
 
-### What if I want to emulate 2 clicks within every 3 seconds, what the 'clicks per second' parameter should be?
+### ¿Qué pasa si quiero emular 2 clics cada 3 segundos, cuál debería ser el parámetro 'clics por segundo'?
 
-You have to type 0.67 inside 'clicks per second' input field. Just click on it, delete previous value, and type new one.
+Tienes que escribir 0.67 dentro del campo de entrada 'clics por segundo'. Simplemente haga clic en él, elimine el valor anterior y escriba uno nuevo.
 
-### What is minimal Windows version supported?
+### ¿Cuál es la versión mínima de Windows compatible?
 
-Your PC must have Windows 7 or later. Don't use Windows XP. Better use Windows 10. Windows 11 is also supported.
+Su PC debe tener Windows 7 o posterior. No use Windows XP. Es mejor usar Windows 10. Windows 11 también es compatible.
 
-### When I open many windows simultaneously on my desktop and start to emulate mouse clicks, I lose the GUI window of the app. Why?
+### Cuando abro muchas ventanas simultáneamente en mi escritorio y empiezo a emular los clics del mouse, pierdo la ventana GUI de la aplicación. ¿Por qué?
 
-That's because you forget about checkbox named "Window Always Top". It is specially designed to prevent such a situation.
-Once you check it, main GUI window of the program will be layered always topmost (above all the other windows on your desktop).
+Eso es porque te olvidas de la casilla de verificación llamada "Ventana siempre arriba". Está especialmente diseñado para prevenir tal situación.
+Una vez que lo marque, la ventana principal de la GUI del programa se colocará siempre en la parte superior (por encima de todas las demás ventanas de su escritorio).
 
-### What about sequences of clicks?
+### ¿Qué pasa con las secuencias de clics?
 
-Work with sequences of clicks is supported since v2.5.x.x. To avoid GUI complication, second "Group" application is implemented.
-To run that app from main "Single" app just press a "Run group app" button. To return to main app press "Run single app" button.
+El trabajo con secuencias de clics es compatible desde v2.5.x.x. Para evitar la complicación de la GUI, se implementa una segunda aplicación de "Grupo".
+Para ejecutar esa aplicación desde la aplicación principal "Única", simplemente presione el botón "Ejecutar aplicación de grupo". Para volver a la aplicación principal, presione el botón "Ejecutar aplicación única".
 
-### Does your program run on bare Windows, like Windows Home on a laptop just from store?
+### ¿Su programa se ejecuta en Windows básico, como Windows Home en una computadora portátil recién comprada?
 
-Yes. Unlike all other auto-clickers this app is statically linked and has no external dependencies (e.g. "The application was unable to start correctly (0xc000007b)" from incorrect linkage against MSVC run-time DLLs).
+Sí. A diferencia de todos los demás clics automáticos, esta aplicación está vinculada estáticamente y no tiene dependencias externas (por ejemplo, "La aplicación no pudo iniciarse correctamente (0xc000007b)" debido a un vínculo incorrecto con las DLL en tiempo de ejecución de MSVC).
 
-### Does your app support multiple subsequent mouse clicks?
+### ¿Su aplicación admite varios clics del mouse posteriores?
 
-Yes, it does. But the Help text is not ready yet. Although the GUI is simple and intuitive
-and based on the one of the most famous auto-clickers in the past. To do subsequent clicking,
-just run the main app, click the "Run group app" button and see the "Quick Help" area just below the center of the window.
+Sí, lo hace. Pero el texto de ayuda aún no está listo. Aunque la GUI es simple e intuitiva
+y basado en uno de los auto-clickers más famosos del pasado. Para hacer clic posterior,
+simplemente ejecute la aplicación principal, haga clic en el botón "Ejecutar aplicación de grupo" y vea el área de "Ayuda rápida" justo debajo del centro de la ventana.
 
-### I observe many other auto-clickers do not support 4K displays. What about your one?
+### Observo que muchos otros clickers automáticos no son compatibles con pantallas 4K. ¿Qué hay de la tuya?
 
-I did that work essentially and have fixed that issue by adjusting font sizes on the fly and embedding a proper xml manifest into app binary.
+Hice ese trabajo esencialmente y solucioné ese problema ajustando los tamaños de fuente sobre la marcha e incrustando un manifiesto xml adecuado en el binario de la aplicación.
 
-### Is this FAQ nearly complete?
+### ¿Estas preguntas frecuentes están casi completas?
 
-Oh no :) It has been just started. Feel free to ask your question via email. See the Contacts chapter below.
+Oh no :) Acaba de empezar. No dude en hacer su pregunta por correo electrónico. Consulte el capítulo Contactos a continuación.
 
 <a name="Downloads"></a>
-## Downloads for all the versions
+## Descargas para todas las versiones
 
-* Version 2.6.1.0 Windows installer (32/64-bit): [Install_TheFastestMouseClicker_2.6.1.0.exe](https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/Install_TheFastestMouseClicker_2.6.1.0.exe) ( [mirror](https://ipfs.io/ipfs/QmP4v8nCnfbYzP643BmHeuYgiX1GhbiioiEu3zjzVnkgi1/Install_TheFastestMouseClicker_2.6.1.0.exe) )
+* Versión 2.6.1.0 Windows instalador (32/64-bit): [Install_TheFastestMouseClicker_2.6.1.0.exe](https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/Install_TheFastestMouseClicker_2.6.1.0.exe) ( [mirror](https://ipfs.io/ipfs/QmP4v8nCnfbYzP643BmHeuYgiX1GhbiioiEu3zjzVnkgi1/Install_TheFastestMouseClicker_2.6.1.0.exe) )
 
 SHA256(Install_TheFastestMouseClicker_2.6.1.0.exe)= eb6a79fcecb598b626b10d34951d6b51b7c56af25c340a59c208b879f3d2e151
 
-* Version 2.5.4.0 Windows installer (32/64-bit): [Install_TheFastestMouseClicker_2.5.4.0.exe](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows/-/raw/master/WindowsInstaller/Install_TheFastestMouseClicker_2.5.4.0.exe?inline=false)
+* Versión 2.5.4.0 Windows instalador (32/64-bit): [Install_TheFastestMouseClicker_2.5.4.0.exe](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows/-/raw/master/WindowsInstaller/Install_TheFastestMouseClicker_2.5.4.0.exe?inline=false)
 
 SHA256(Install_TheFastestMouseClicker_2.5.4.0.exe)= 738058b7dc1e95b963860e5797bab5761a8801bda90feb0311c038e98477cc31
 
-* Version 2.5.3.3 Windows installer (32/64-bit): [Install_TheFastestMouseClicker_2.5.3.3.exe](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows/-/raw/master/WindowsInstaller/Install_TheFastestMouseClicker_2.5.3.3.exe?inline=false)
+* Versión 2.5.3.3 Windows instalador (32/64-bit): [Install_TheFastestMouseClicker_2.5.3.3.exe](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows/-/raw/master/WindowsInstaller/Install_TheFastestMouseClicker_2.5.3.3.exe?inline=false)
 
 SHA256(Install_TheFastestMouseClicker_2.5.3.3.exe)= 55bde08c90989d4dbeb9602d93b3c7bcb3645135281e1b64c32d59521799836b
 
-* Version 2.5.3.2 Windows installer (32/64-bit): [Install_TheFastestMouseClicker_2.5.3.2.exe](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows/-/raw/master/WindowsInstaller/Install_TheFastestMouseClicker_2.5.3.2.exe?inline=false)
+* Versión 2.5.3.2 Windows instalador (32/64-bit): [Install_TheFastestMouseClicker_2.5.3.2.exe](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows/-/raw/master/WindowsInstaller/Install_TheFastestMouseClicker_2.5.3.2.exe?inline=false)
 
 SHA256(Install_TheFastestMouseClicker_2.5.3.2.exe)= 58854af05b2024ce39078d828228d512548212fc3283c511c1a16c19c844bf06
 
-* Version 2.5.1.0 Windows installer (32/64-bit): [Install_TheFastestMouseClicker_2.5.1.0.exe](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows/-/raw/master/WindowsInstaller/Install_TheFastestMouseClicker_2.5.1.0.exe?inline=false)
+* Versión 2.5.1.0 Windows instalador (32/64-bit): [Install_TheFastestMouseClicker_2.5.1.0.exe](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows/-/raw/master/WindowsInstaller/Install_TheFastestMouseClicker_2.5.1.0.exe?inline=false)
 
 SHA256(Install_TheFastestMouseClicker_2.5.1.0.exe)= cb13c125212feb8241f4a4258919781d546084f0f19862ad11f07a3e95004577
 
-* Version 2.0.0.0 Windows installer (32/64-bit): [Install_TheFastestMouseClicker_2.0.0.0.exe](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows/-/raw/master/WindowsInstaller/Install_TheFastestMouseClicker_2.0.0.0.exe?inline=false)
+* Versión 2.0.0.0 Windows instalador (32/64-bit): [Install_TheFastestMouseClicker_2.0.0.0.exe](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows/-/raw/master/WindowsInstaller/Install_TheFastestMouseClicker_2.0.0.0.exe?inline=false)
 
 SHA256(Install_TheFastestMouseClicker_2.0.0.0.exe)= c12fbeee1a12ce598bcd1f6b39872abcbcfc89d2b21d235882ca479fd26a324a
 
 <a name="Contacts"></a>
-## Contacts
+## Contactos
 
-#### Copyright (c) 2016-2023 by [Open Source Developer Masha Novedad]({{ site.prod-url }}{{ site.base-url }}){:target="_blank"}
+#### Derechos de autor (c) 2016-2023 de [{{ site.t['author_name'][page.lang] }}]({{ site.prod-url }}{{ site.base-url }}){:target="_blank"}
