@@ -22,7 +22,7 @@ SHA256(Install_TheFastestMouseClicker_2.6.1.0.exe)= eb6a79fcecb598b626b10d34951d
 
 "Single" application | "Group" application
 ----- | -----
-![{{ site.t['app_name'][page.lang] }} version 2.6.1.0: "Single" application](../../The-Fastest-Mouse-Clicker-for-Windows2/screenshots_new/v2.6.1.0/mw_v2.6.1.0.jpg) | ![{{ site.t['app_name'][page.lang] }} version 2.6.1.0: "Group" application](../../The-Fastest-Mouse-Clicker-for-Windows2/screenshots_new/v2.6.1.0/mw_groupapp_v2.6.1.0.jpg)
+![{{ site.t['app_name'][page.lang] }} version 2.6.1.0: "Single" application](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/mw_v2.6.1.0.jpg) | ![{{ site.t['app_name'][page.lang] }} version 2.6.1.0: "Group" application](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/mw_groupapp_v2.6.1.0.jpg)
 
 #### ChangeLog
 
@@ -69,8 +69,8 @@ He described how to win Gow&nbsp;2&nbsp;3 chainsaw duels, World's Fastest mouse 
 His commenter Alexander Nielsen writes he achieves up to 100&nbsp;CPS consistently.
 Rather Troy Liebe asserts his personal best is 139&nbsp;CPS with one finger (Brain Bashers).
 In the video below, TampaTec shows the technique how that amazing results can be performed.
- <video style="outline:none; width:100%; height:100%;" controls preload="none" poster="videos/worlds-fastest-clicker-720p.jpg">
-  <source src="videos/worlds-fastest-clicker-720p.mp4" type="video/mp4"/>
+ <video style="outline:none; width:100%; height:100%;" controls preload="none" poster="../../The-Fastest-Mouse-Clicker-for-Windows/videos/worlds-fastest-clicker-720p.jpg">
+  <source src="../../The-Fastest-Mouse-Clicker-for-Windows/videos/worlds-fastest-clicker-720p.mp4" type="video/mp4"/>
   Your browser does not support the video tag.
 </video>
 <a href="https://www.youtube.com/watch?v=r8Tlb3FrmhQ" target="_blank">Watch the original video "World's fastest mouse clicker- How to Win Gow Chainsaw duels!" in Youtube.</a>
@@ -168,8 +168,8 @@ The Windows installer opens corresponding folders by default.
 <p>
 Here is a short intro video that tells how to download and install {{ site.t['app_name'][page.lang] }}.
 Also it shows basic quick-start guide to use automated clicks.
- <video style="outline:none; width:100%; height:100%;" controls preload="none" poster="videos/TFMCfW_intro.jpg">
-  <source src="videos/TFMCfW_intro.mp4" type="video/mp4"/>
+ <video style="outline:none; width:100%; height:100%;" controls preload="none" poster="../../The-Fastest-Mouse-Clicker-for-Windows/videos/TFMCfW_intro.jpg">
+  <source src="../../The-Fastest-Mouse-Clicker-for-Windows/videos/TFMCfW_intro.mp4" type="video/mp4"/>
   Your browser does not support the video tag.
 </video>
 <a href="https://www.youtube.com/watch?v=gCpALY1WqmE" target="_blank">Watch intro to {{ site.t['app_name'][page.lang] }} in Youtube.</a>
@@ -507,7 +507,7 @@ on your PC screen. Full native support of 4K and Retina displays is here. As alw
 require 3rd-party DLL or OS component. Meanwhile, among Windows lineage, all the systems from Windows&nbsp;7 to Windows&nbsp;11 are supported.
 Note though, 32-bit OS builds (typically for Windows) have gone to the history. New app will be 64-bit only for all the platforms. Standby!
 
-![Teaser developer's screenshot for The Fastest Mouse Clicker v3.0.0.0 (cross-platform Qt edition)](screenshots_new/v3.0.0.0/TheFastestMouseClickerQt.png)
+![Teaser developer's screenshot for The Fastest Mouse Clicker v3.0.0.0 (cross-platform Qt edition)](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v3.0.0.0/TheFastestMouseClickerQt.png)
 
 ### Great update Mar 01 2023
 
@@ -651,7 +651,7 @@ protected:
 
 Resulting MS Visual Studio 2019 screenshot joining Qt and libuiohook:
 
-![Resulting MS Visual Studio 2019 screenshot joining Qt and libuiohook](screenshots_new/v3.0.0.0/qt_libuiohook.png)
+![Resulting MS Visual Studio 2019 screenshot joining Qt and libuiohook](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v3.0.0.0/qt_libuiohook.png)
 
 
 <a name="HelpHowToUse"></a>
@@ -712,27 +712,27 @@ ADDITIONAL BUTTONS AND FEATURES.
 
 * The Fastest Mouse Clicker for Windows version 2.6.1.0: introduce the "FIXED POSITION CLICKING" feature.
 
-![The Fastest Mouse Clicker for Windows version 2.6.1.0: introduce the "FIXED POSITION CLICKING" feature](screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_s1_1322x986.jpg)
+![The Fastest Mouse Clicker for Windows version 2.6.1.0: introduce the "FIXED POSITION CLICKING" feature](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_s1_1322x986.jpg)
 
 * The Fastest Mouse Clicker for Windows version 2.6.1.0: the brand new Group App in details.
 
-![The Fastest Mouse Clicker for Windows version 2.6.1.0: the brand new Group App in details](screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_s1h_1322x986.jpg)
+![The Fastest Mouse Clicker for Windows version 2.6.1.0: the brand new Group App in details](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_s1h_1322x986.jpg)
 
 * The Fastest Mouse Clicker for Windows version 2.6.1.0: running under Wine 4.0.2/Linux(CentOS 6).
 
-![The Fastest Mouse Clicker for Windows version 2.6.1.0: running under Wine 4.0.2/Linux(CentOS 6)](screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_s1w_1322x986.jpg)
+![The Fastest Mouse Clicker for Windows version 2.6.1.0: running under Wine 4.0.2/Linux(CentOS 6)](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_s1w_1322x986.jpg)
 
 * The Fastest Mouse Clicker for Windows version pre-2.5.x.x family: what's old but important.
 
-![The Fastest Mouse Clicker for Windows version pre-2.5.x.x family: what's old but important](screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_s2_1322x986.jpg)
+![The Fastest Mouse Clicker for Windows version pre-2.5.x.x family: what's old but important](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_s2_1322x986.jpg)
 
 * The Fastest Mouse Clicker for Windows version 2.6.1.0: completely hand-made art by the clicker application.
 
-![The Fastest Mouse Clicker for Windows version 2.6.1.0: completely hand-made art by the clicker application](screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_a1_1322x986.jpg)
+![The Fastest Mouse Clicker for Windows version 2.6.1.0: completely hand-made art by the clicker application](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_a1_1322x986.jpg)
 
 * The Fastest Mouse Clicker for Windows version 2.6.1.0 - Main app with batch folder that reveals "secret" features.
 
-![The Fastest Mouse Clicker for Windows version 2.6.1.0 - Main app with batch folder that reveals "secret" features.](screenshots_new/v2.6.1.0/tfmcfw-v2.6.1.0-batch-folder.jpg)
+![The Fastest Mouse Clicker for Windows version 2.6.1.0 - Main app with batch folder that reveals "secret" features.](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/tfmcfw-v2.6.1.0-batch-folder.jpg)
 
 <a name="Partners"></a>
 ## Partners
@@ -762,8 +762,8 @@ ADDITIONAL BUTTONS AND FEATURES.
 
 <p>
 Wolf0626, young vlogger shows how he downloads, installs and runs The Fastest Mouse Clicker for Windows on his PC.
- <video style="outline:none; width:100%; height:100%;" controls preload="none" poster="videos/VideoReview_Wolf0626.jpg">
-  <source src="videos/VideoReview_Wolf0626.mp4" type="video/mp4"/>
+ <video style="outline:none; width:100%; height:100%;" controls preload="none" poster="../../The-Fastest-Mouse-Clicker-for-Windows/videos/VideoReview_Wolf0626.jpg">
+  <source src="../../The-Fastest-Mouse-Clicker-for-Windows/videos/VideoReview_Wolf0626.mp4" type="video/mp4"/>
   Your browser does not support the video tag.
 </video>
 <a href="https://www.youtube.com/watch?v=f92nqHFxcmk" target="_blank">Watch the review video "How to Download the fastest mouse clicker for windows!!!" in Youtube.</a>
@@ -771,8 +771,8 @@ Wolf0626, young vlogger shows how he downloads, installs and runs The Fastest Mo
 
 <p>
 BullyWiiPlaza, experienced youtuber shows how he cheats extra scores with The Fastest Mouse Clicker for Windows in his mature gameplay.
- <video style="outline:none; width:100%; height:100%;" controls preload="none" poster="videos/VideoReview_BullyWiiPlaza.jpg">
-  <source src="videos/VideoReview_BullyWiiPlaza.mp4" type="video/mp4"/>
+ <video style="outline:none; width:100%; height:100%;" controls preload="none" poster="../../The-Fastest-Mouse-Clicker-for-Windows/videos/VideoReview_BullyWiiPlaza.jpg">
+  <source src="../../The-Fastest-Mouse-Clicker-for-Windows/videos/VideoReview_BullyWiiPlaza.mp4" type="video/mp4"/>
   Your browser does not support the video tag.
 </video>
 <a href="https://www.youtube.com/watch?v=weoSf-CppZU" target="_blank">Watch the review video "[Yu-Gi-Oh! Duel Links] The Fastest Auto Clicker for Windows Gameplay" in Youtube.</a>
