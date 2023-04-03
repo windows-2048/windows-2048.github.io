@@ -34,6 +34,9 @@ t:
     app_name:
         en: The Fastest Mouse Clicker for Windows
         es: El Clicker de Ratón Más Rápido para Windows
+    home:
+        en: "/"
+        es: "/es/"
     author_name:
         en: Open Source Developer Masha Novedad, the author of The Fastest Mouse Clicker for Windows
         es: Masha Novedad, desarrolladora de código abierto, autora de El Clicker de Ratón Más Rápido para Windows
