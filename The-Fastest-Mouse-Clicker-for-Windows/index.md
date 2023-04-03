@@ -18,7 +18,7 @@ i18n-link: the-fastest-mouse-clicker-for-windows
 SHA256(Install_TheFastestMouseClicker_2.6.1.0.exe)= eb6a79fcecb598b626b10d34951d6b51b7c56af25c340a59c208b879f3d2e151
 
 <a name="ChangeLog"></a>
-### What's New - The latest version&nbsp;{{site.app_version}}
+### What's New - The latest version&nbsp;{{ site.app_version }}
 
 "Single" application | "Group" application
 ----- | -----
@@ -32,7 +32,7 @@ SHA256(Install_TheFastestMouseClicker_2.6.1.0.exe)= eb6a79fcecb598b626b10d34951d
 * Fixed wrong question about close old application during installation.
 * Few minor bug fixes.
 
-Found a bug or want a new feature? Create the [issue]({{site.source_issues_url}}){:target="_blank"}!
+Found a bug or want a new feature? Create the [issue]({{ site.source_issues_url }}){:target="_blank"}!
 
 ### Warning
 
@@ -185,7 +185,7 @@ Professionals can use it for quality assistant and testing purposes because full
 This is not a complete list of all the features of the program. I have just selected several of them most important
 from the point of view of our users.
 Because the Help text is not yet complete and does not reflect all the features implemented, feel free to create
-an [issue]({{site.source_issues_url}}){:target="_blank"} to request a feature of your desire.
+an [issue]({{ site.source_issues_url }}){:target="_blank"} to request a feature of your desire.
 
 * The world's best click rate up to 100 000 clicks per second, increased by 10 times comparing with the predecessor application "Fast Mouse Clicker". The latest version with fixed performance issue is 100 times faster!
 
@@ -207,11 +207,11 @@ an [issue]({{site.source_issues_url}}){:target="_blank"} to request a feature of
 
 * Command line has been supported: TheFastestMouseClicker.exe -c <clicks per second> -t <trigger key> -s <stop at> -m <trigger key mode> -b <mouse button to click>, where <trigger key mode> can be 'press' or'toggle' and <mouse button to click> can be 'left', 'middle', or 'right'. One may specify any part of arguments; unspecified or unrecognized values will be treated as defaults (see them by running the app and pressing 'Reset to defaults' button.
 
-* Button "Batch folder" has been added to open a directory with *.bat files quickly; it simplifies command line usage a lot.
+* Button "Batch folder" has been added to open a directory with \*.bat files quickly; it simplifies command line usage a lot.
 
 * Fractional values for clicks/s parameter are supported. For example, 0.5 clicks/s equals to 1 click every 2 seconds.
 
-* Random clicking has been implemented. Just click the "Batch folder" button and see remarks in the *.bat files reside there in order how to use command line arguments and to enable random clicking.
+* Random clicking has been implemented. Just click the "Batch folder" button and see remarks in the \*.bat files reside there in order how to use command line arguments and to enable random clicking.
 
 * Group clicking (record/play the sequences of clicks) supported via additional application since v.2.5.3.2. You can quickly switch between the applications by clicking the "Run group app"/"Run single app" button.
 
