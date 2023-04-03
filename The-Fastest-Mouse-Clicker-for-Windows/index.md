@@ -732,7 +732,7 @@ ADDITIONAL BUTTONS AND FEATURES.
 
 * The Fastest Mouse Clicker for Windows version 2.6.1.0 - Main app with batch folder that reveals "secret" features.
 
-![The Fastest Mouse Clicker for Windows version 2.6.1.0 - Main app with batch folder that reveals "secret" features.](screenshots_new/v2.6.1.0/tfmcfw-v2.6.1.0-batch-folder.jpg)
+![The Fastest Mouse Clicker for Windows version 2.6.1.0 - Main app with batch folder that reveals "secret" features](screenshots_new/v2.6.1.0/tfmcfw-v2.6.1.0-batch-folder.jpg)
 
 <a name="Partners"></a>
 ## Partners

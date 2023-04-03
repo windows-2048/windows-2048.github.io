@@ -705,34 +705,35 @@ El botón <br/>\[Ayuda\] muestra esta ventana de ayuda.
 <br/>*NUEVO* &lt;Ventana siempre superior&gt; Casilla de verificación: si está marcada, mantiene la ventana principal de la aplicación en la parte superior de las demás.
 <br/>*NUEVO* El botón 'Ejecutar aplicación grupal': graba/reproduce las secuencias de clics del mouse.
 
+
 <a name="Screenshots"></a>
-## Screenshots
+## Capturas de Pantalla
 
-### Screenshots for the latest version 2.6.1.0 are here!
+### ¡Las capturas de pantalla de la última versión 2.6.1.0 están aquí!
 
-* The Fastest Mouse Clicker for Windows version 2.6.1.0: introduce the "FIXED POSITION CLICKING" feature.
+* {{ site.t['app_name'][page.lang] }} versión 2.6.1.0: presenta la función "CLIC EN POSICIÓN FIJA".
 
-![The Fastest Mouse Clicker for Windows version 2.6.1.0: introduce the "FIXED POSITION CLICKING" feature](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_s1_1322x986.jpg)
+![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: presenta la función "CLIC EN POSICIÓN FIJA"](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_s1_1322x986.jpg)
 
-* The Fastest Mouse Clicker for Windows version 2.6.1.0: the brand new Group App in details.
+* {{ site.t['app_name'][page.lang] }} versión 2.6.1.0: la nueva aplicación de grupo en detalles.
 
-![The Fastest Mouse Clicker for Windows version 2.6.1.0: the brand new Group App in details](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_s1h_1322x986.jpg)
+![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: la nueva aplicación de grupo en detalles](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_s1h_1322x986.jpg)
 
-* The Fastest Mouse Clicker for Windows version 2.6.1.0: running under Wine 4.0.2/Linux(CentOS 6).
+* {{ site.t['app_name'][page.lang] }} versión 2.6.1.0: ejecutándose bajo Wine 4.0.2/Linux (CentOS 6).
 
-![The Fastest Mouse Clicker for Windows version 2.6.1.0: running under Wine 4.0.2/Linux(CentOS 6)](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_s1w_1322x986.jpg)
+![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: ejecutándose bajo Wine 4.0.2/Linux (CentOS 6)](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_s1w_1322x986.jpg)
 
-* The Fastest Mouse Clicker for Windows version pre-2.5.x.x family: what's old but important.
+* {{ site.t['app_name'][page.lang] }} versión anterior a la familia 2.5.x.x: lo que es antiguo pero importante.
 
-![The Fastest Mouse Clicker for Windows version pre-2.5.x.x family: what's old but important](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_s2_1322x986.jpg)
+![{{ site.t['app_name'][page.lang] }} versión anterior a la familia 2.5.x.x: lo que es antiguo pero importante](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_s2_1322x986.jpg)
 
-* The Fastest Mouse Clicker for Windows version 2.6.1.0: completely hand-made art by the clicker application.
+* {{ site.t['app_name'][page.lang] }} versión 2.6.1.0: arte completamente hecho a mano por la aplicación clicker.
 
-![The Fastest Mouse Clicker for Windows version 2.6.1.0: completely hand-made art by the clicker application](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_a1_1322x986.jpg)
+![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: arte completamente hecho a mano por la aplicación clicker](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_a1_1322x986.jpg)
 
-* The Fastest Mouse Clicker for Windows version 2.6.1.0 - Main app with batch folder that reveals "secret" features.
+* {{ site.t['app_name'][page.lang] }} versión 2.6.1.0: aplicación principal con carpeta por lotes que revela funciones "secretas".
 
-![The Fastest Mouse Clicker for Windows version 2.6.1.0 - Main app with batch folder that reveals "secret" features.](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/tfmcfw-v2.6.1.0-batch-folder.jpg)
+![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: aplicación principal con carpeta por lotes que revela funciones "secretas"](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/tfmcfw-v2.6.1.0-batch-folder.jpg)
 
 <a name="Partners"></a>
 ## Partners
