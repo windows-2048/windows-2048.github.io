@@ -32,7 +32,7 @@ Aplicación "Única" | Aplicación "Grupo"
 * Se corrigió la pregunta incorrecta sobre el cierre de la aplicación anterior durante la instalación.
 * Algunas correcciones de errores menores.
 
-Found a bug or want a new feature? Create the [issue]({{site.source_issues_url}}){:target="_blank"}!
+¿Encontraste un error o quieres una nueva función? ¡Cree el [problema]({{ site.source_issues_url }}){:target="_blank"}!
 
 ### Advertencia
 
@@ -73,7 +73,7 @@ En el video a continuación, TampaTec muestra la técnica de cómo se pueden log
   <source src="../../The-Fastest-Mouse-Clicker-for-Windows/videos/worlds-fastest-clicker-720p.mp4" type="video/mp4"/>
   Su navegador no soporta la etiqueta de vídeo.
 </video>
-<a href="https://www.youtube.com/watch?v=r8Tlb3FrmhQ" target="_blank">Watch the original video "World's fastest mouse clicker- How to Win Gow Chainsaw duels!" in Youtube.</a>
+<a href="https://www.youtube.com/watch?v=r8Tlb3FrmhQ" target="_blank">Mira el video original "El clicker de mouse más rápido del mundo - ¡Cómo ganar duelos de Gow Chainsaw!" en Youtube.</a>
 </p>
 
 ## Tabla de contenido
@@ -137,7 +137,7 @@ Usando las teclas del teclado (o los botones del mouse) como disparador, puede c
 Por supuesto, puede seleccionar teclas de activación de inicio y finalización arbitrarias.
 También tiene la opción de establecer una limitación del número de clics. El clicker automático del mouse se detiene automáticamente cuando se alcanza el número deseado de clics.
 
-Si desea realizar una prueba de velocidad de clic, vaya a la elegante [implementation](https://all-mouse-auto-clickers.software/){:target="_blank"} de código abierto que funciona directamente en su navegador web.
+Si desea realizar una prueba de velocidad de clic, vaya a la elegante [implementación](https://all-mouse-auto-clickers.software/){:target="_blank"} de código abierto que funciona directamente en su navegador web.
 La prueba de velocidad de clic es una prueba gratuita de clic por segundo, que mide la velocidad de clic del mouse en un período de tiempo determinado. Jugar a la prueba de velocidad de clic es fácil y divertido al mismo tiempo.
 La prueba es adecuada para todo tipo de software de clic automático, así como para pruebas directas en manos humanas en todos los grupos de edad, así que no se preocupe si es solo un estudiante de secundaria o una persona con un trabajo corporativo o un doctorado.
 Considera que la Prueba de velocidad de clic es una herramienta útil mientras busca formas de hacer clic repetidamente sin usar el mouse.
