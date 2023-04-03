@@ -239,7 +239,7 @@ Soporte de línea de comandos en archivos por lotes | No | No | **Sí**
 Botón para abrir una carpeta con todos los archivos por lotes | No | No | **Sí**
 Botón para restablecer todos los parámetros de clic a los valores predeterminados | No | No | **Sí**
 Hacer clic al azar en un rectángulo específico | No | No | **Sí**
-Clic más rápido limitado por hardware a través de <code><a href="https://learn.microsoft.com/es-es/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a></code> en matriz | No | No | **Yes**
+Clic más rápido limitado por hardware a través de <code><a href="https://learn.microsoft.com/es-es/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a></code> en matriz | No | No | **Sí**
 Lado DLL/tiempo de ejecución independiente (se ejecuta en Windows básico) | No | No | **Sí**
 Casilla de verificación para mantener la ventana de la aplicación siempre Arriba | No | No | **Sí**
 
