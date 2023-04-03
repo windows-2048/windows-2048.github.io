@@ -491,34 +491,34 @@ G. Kelly Irish
 
 
 <a name="SourceCode"></a>
-## Source Code
+## Código Fuente
 
-Complete source code with comments is shipped with Windows installer or can be watched on
+El código fuente completo con comentarios se envía con el instalador de Windows o se puede ver en
 [Github](https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows){:target="_blank"}
-and [Gitlab](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows){:target="_blank"}.
+y [Gitlab](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows){:target="_blank"}.
 
 <a name="TheFastestMouseClickerQt"></a>
-## The Fastest Mouse Clicker v3.0.0.0 (cross-platform Qt edition)
+## El Clicker de Ratón Más Rápido v3.0.0.0 (edición Qt multiplataforma)
 
-Migration to cross-platform Qt edition of {{ site.t['app_name'][page.lang] }} is in successive progress. New application will get version 3.0.0.0 and will be called
-"The Fastest Mouse Clicker for \<OS\> (cross-platform Qt edition)", where \<OS\> is "Windows", "Linux", "MacOS (M1)".
-QtDesigner \*.ui makeup is ready today. I tease you to look how pleasant and beautiful The Fastest Mouse Clicker v3.0.0.0 will appear
-on your PC screen. Full native support of 4K and Retina displays is here. As always, the application is statically linked and does not
-require 3rd-party DLL or OS component. Meanwhile, among Windows lineage, all the systems from Windows&nbsp;7 to Windows&nbsp;11 are supported.
-Note though, 32-bit OS builds (typically for Windows) have gone to the history. New app will be 64-bit only for all the platforms. Standby!
+La migración a la edición Qt multiplataforma de {{ site.t['app_name'][page.lang] }} está en progreso sucesivo. La nueva aplicación obtendrá la versión 3.0.0.0 y se llamará
+"El clicker de mouse más rápido para \<OS\> (edición Qt multiplataforma)", donde \<OS\> es "Windows", "Linux", "MacOS (M1)".
+El maquillaje QtDesigner \*.ui está listo hoy. Me burlo de que mires lo agradable y hermoso que aparecerá The Fastest Mouse Clicker v3.0.0.0
+en la pantalla de tu PC. El soporte nativo completo de pantallas 4K y Retina está aquí. Como siempre, la aplicación está vinculada estáticamente y no
+requiere DLL de terceros o componente de sistema operativo. Mientras tanto, entre el linaje de Windows, todos los sistemas desde Windows&nbsp;7 a Windows&nbsp;11 son compatibles.
+Sin embargo, tenga en cuenta que las compilaciones de SO de 32 bits (normalmente para Windows) han pasado a la historia. La nueva aplicación será solo de 64 bits para todas las plataformas. ¡Apoyar!
 
 ![Teaser developer's screenshot for The Fastest Mouse Clicker v3.0.0.0 (cross-platform Qt edition)](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v3.0.0.0/TheFastestMouseClickerQt.png)
 
-### Great update Mar 01 2023
+### Gran actualización 01 de Marzo de 2023
 
-The Fastest Mouse Clicker v3.0.0.0 (the Qt edition) will use [cross-platform libuiohook library](https://github.com/kwhat/libuiohook/){:target="_blank"}
-to handle system all-displays-wide mouse and keyboard events. Its graphical UI will be completely re-designed to perform fully automatic
-recording and playback all the mouse and keyboard events. You can even edit the sequence recorded in depth and modify its playback speed.
-Furthermore you can randomize every mouse click or keyboard press. Mouse wheel events will be also supported.
+El Clicker de Ratón Más Rápido v3.0.0.0 (la edición Qt) usará [biblioteca libuiohook multiplataforma](https://github.com/kwhat/libuiohook/){:target="_blank"}
+para manejar los eventos del teclado y el mouse en todas las pantallas del sistema. Su interfaz de usuario gráfica se rediseñará por completo para funcionar de forma totalmente automática.
+grabación y reproducción de todos los eventos del mouse y del teclado. Incluso puedes editar la secuencia grabada en profundidad y modificar su velocidad de reproducción.
+Además, puede aleatorizar cada clic del mouse o presionar el teclado. Los eventos de la rueda del mouse también serán compatibles.
 
-The idea for recording is:
+La idea para grabar es:
 
-* To run libuiohook dispatch function in a separate Qt thread:
+* Para ejecutar la función de envío de libuiohook en un subproceso Qt separado:
 
 <pre><code title="libuiohook dispatch function running in a separate thread">
 void dispatch_proc(uiohook_event* const event)
@@ -553,7 +553,7 @@ private:
 };
 </code></pre>
 
-* Define custom Qt event to transfer libuiohook event data between Qt threads (worker and UI):
+* Defina un evento Qt personalizado para transferir datos de eventos libuiohook entre subprocesos Qt (trabajador y UI):
 
 <pre><code title="Custom Qt event to transfer libuiohook event data between Qt threads (worker and UI)">
 // Define your custom event identifier
@@ -570,7 +570,7 @@ public:
 };
 </code></pre>
 
-* It is useful to define postMyCustomEvent() as a public method of main UI class, then implement virtual own customEvent():
+* Es útil definir postMyCustomEvent() como un método público de la clase de interfaz de usuario principal, luego implementar customEvent() propio virtual:
 
 <pre><code title="Define postMyCustomEvent() as a public method of main UI class, then implement virtual own customEvent()">
 class TheFastestMouseClicker : public QMainWindow
@@ -610,9 +610,9 @@ protected:
 };
 </code></pre>
 
-The idea for playback is:
+La idea para la reproducción es:
 
-* Implement virtual own QApplication::notify() as a useful way to handle proper Qt events in one place without signals and slots:
+* Implemente QApplication::notify() propio virtual como una forma útil de manejar eventos Qt adecuados en un solo lugar sin señales ni ranuras:
 
 <pre><code title="Implement virtual own QApplication::notify() as a useful way to handle proper Qt events in one place">
 class Application : public QApplication
@@ -647,11 +647,11 @@ protected:
 };
 </code></pre>
 
-* The idea of editing sequence recorded is standard [QListWidget](https://doc.qt.io/qt-5/qlistwidget.html){:target="_blank"}-based approach.
+* La idea de editar la secuencia grabada es un enfoque estándar basado en [QListWidget](https://doc.qt.io/qt-5/qlistwidget.html){:target="_blank"}.
 
-Resulting MS Visual Studio 2019 screenshot joining Qt and libuiohook:
+Captura de pantalla resultante de MS Visual Studio 2019 que une Qt y libuiohook:
 
-![Resulting MS Visual Studio 2019 screenshot joining Qt and libuiohook](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v3.0.0.0/qt_libuiohook.png)
+![Captura de pantalla resultante de MS Visual Studio 2019 que une Qt y libuiohook](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v3.0.0.0/qt_libuiohook.png)
 
 
 <a name="HelpHowToUse"></a>
