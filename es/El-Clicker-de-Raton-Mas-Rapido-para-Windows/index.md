@@ -248,9 +248,9 @@ Casilla de verificación para mantener la ventana de la aplicación siempre Arri
 <a name="Technology"></a>
 ## Technology
 
-Unlike other auto-clickers that use obsolete <code><a href="https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-mouse_event" target="_blank">mouse_event()</a></code>
-system call from C/C++ source or un-arrayed <code><a href="https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a></code> from C#/.Net source, The Fastest Mouse Clicker for Windows uses
-<i>arrayed</i> <code><a href="https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a></code> with specially prepared <i>arrays</i> of mouse events:
+A diferencia de otros clickers automáticos que usan obsoletos <code><a href="https://learn.microsoft.com/es-es/windows/win32/api/winuser/nf-winuser-mouse_event" target="_blank">mouse_event()</a></code>
+llamada del sistema desde la fuente C/C++ o <code><a href="https://learn.microsoft.com/es-es/windows/win32/api/winuser/nf-winuser-sendinput" target=" _blank">SendInput()</a></code> de fuente C#/.Net, {{ site.t['app_name'][page.lang] }} utiliza
+<i>arreglo</i> <code><a href="https://learn.microsoft.com/es-es/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a></code> con <i>matrices</i> especialmente preparadas de eventos del ratón:
 
 <pre><code title="Arrayed SendInput() example">
 UINT nCntExtra = (nCnt - 1) * 2; // reserved index for DOWN, UP
@@ -274,13 +274,13 @@ for (UINT iExtra = 0; iExtra < nCntExtra; iExtra += 2)
 UINT ret = SendInput(1 + nCntExtra, input, sizeof(INPUT));
 </code></pre>
 
-The size of the <i>arrays</i> is carefully computed based on the click rate given by end-user. To avoid system event buffer
-overflow, the time in <code><a href="https://docs.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-sleep" target="_blank">Sleep()</a></code> is selected properly according the size of the <i>array</i>.
+El tamaño de las <i>matrices</i> se calcula cuidadosamente en función de la tasa de clics proporcionada por el usuario final. Para evitar el búfer de eventos del sistema
+overflow, el tiempo en <code><a href="https://learn.microsoft.com/es-es/windows/win32/api/synchapi/nf-synchapi-sleep" target="_blank">Sleep()</a></code> se selecciona correctamente según el tamaño de la <i>matriz</i>.
 
-The GUI of the application seems archaic, but it is made by very base Win32 system calls
-to avoid performance degradation caused by
-high-level third-side libraries such as [Qt](https://www.qt.io/){:target="_blank"} or slow managed code in frameworks like C#/.Net.
-For example, <code><a href="https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-getasynckeystate" target="_blank">GetAsyncKeyState()</a></code> is used to detect the trigger keys pressed by end-user:
+La GUI de la aplicación parece arcaica, pero está hecha con llamadas al sistema Win32 muy básicas.
+para evitar la degradación del rendimiento causada por
+bibliotecas de terceros de alto nivel como [Qt](https://www.qt.io/){:target="_blank"} o código administrado lento en marcos como C#/.Net.
+Por ejemplo, <code><a href="https://learn.microsoft.com/es-es/windows/win32/api/winuser/nf-winuser-getasynckeystate" target="_blank">GetAsyncKeyState()</a></code> se utiliza para detectar las teclas de activación presionadas por el usuario final:
 
 <pre><code title="Base GetAsyncKeyState() example">
 if (!doToggle)
@@ -297,7 +297,7 @@ else
 }
 </code></pre>
 
-Another benefit of such an approach is compact, statically-linked executable without any external dependencies.
+Otro beneficio de este enfoque es un ejecutable compacto y vinculado estáticamente sin dependencias externas.
 
 When end-user selects low click rates, actual size of the <i>array</i> of mouse events in <code><a href="https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a></code>
 is set to 1 and number of clicks per second is regulated by <code><a href="https://docs.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-sleep" target="_blank">Sleep()</a></code> only.
