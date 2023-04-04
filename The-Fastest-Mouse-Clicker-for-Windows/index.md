@@ -6,7 +6,7 @@ i18n-link: the-fastest-mouse-clicker-for-windows
 
 ### {{ site.t['description_rich'][page.lang] }}
 
-> Updated : April 04 2023. Spanish localization of the site is coming soon.
+> Updated : April 04 2023. Spanish localization of the site is READY | La localización en español del sitio está [LISTO](https://windows-2048.github.io/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/).
 
 <a name="QuickStart"></a>
 ## Quick Start

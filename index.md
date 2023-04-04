@@ -6,7 +6,7 @@ i18n-link: index
 
 ### {{ site.t['description_rich'][page.lang] }}
 
-> Updated : April 04 2023. Spanish localization of the site is coming soon.
+> Updated : April 04 2023. Spanish localization of the site is READY | La localización en español del sitio está [LISTO](https://windows-2048.github.io/es/).
 
 Hi! My name is Masha Novedad. I am open source programmer since 2016. I write in vanilla C++.
 I am an author of {{ site.t['app_name'][page.lang] }}.
