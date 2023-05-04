@@ -6,7 +6,7 @@ i18n-link: the-fastest-mouse-clicker-for-windows
 
 ### {{ site.t['description_rich'][page.lang] }}
 
-> Actualizado: 04 de Abril de 2023. La localización en español del sitio está LISTO.
+> Actualizado: 04 de Mayo de 2023. La localización en español del sitio está LISTO.
 
 <a name="QuickStart"></a>
 ## Quick Start
