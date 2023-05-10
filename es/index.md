@@ -6,12 +6,18 @@ i18n-link: index
 
 ### {{ site.t['description_rich'][page.lang] }}
 
-> Actualizado: 04 de Mayo de 2023. La localización en español del sitio está LISTO.
+> Actualizado: 10 de Mayo de 2023. La localización en español del sitio está LISTO.
+
+#### 2023 es el 7º aniversario del proyecto
 
 ¡Hola! Mi nombre es Masha Novedad. Soy programador de código abierto desde 2016. Escribo en Vanilla C++.
 Soy autor de {{ site.t['app_name'][page.lang] }}.
 Todas mis aplicaciones son compactas, independientes y estáticamente vinculadas, por lo que no tienen dependencias externas.
 Los instaladores de Windows se crean para su comodidad mediante la herramienta de código abierto [Inno Setup](https://jrsoftware.org/isinfo.php){:target="_blank"}.
+
+¡En 2023, mi proyecto flagman {{ site.t['title'][page.lang] }} celebra el 7° aniversario! Puede descargar e instalar
+relanzamiento del aniversario
+en [GitHub](https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows/releases/tag/v2.6.1.0-7th-anniversary){:target="_blank"}.
 
 ## Mis Proyectos
 

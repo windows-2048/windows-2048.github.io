@@ -6,12 +6,18 @@ i18n-link: index
 
 ### {{ site.t['description_rich'][page.lang] }}
 
-> Updated : May 04 2023. Spanish localization of the site is READY | La localización en español del sitio está [LISTO](https://windows-2048.github.io/es/).
+> Updated : May 10 2023. Spanish localization of the site is READY | La localización en español del sitio está [LISTO](https://windows-2048.github.io/es/).
+
+#### 2023 is the project's 7th anniversary
 
 Hi! My name is Masha Novedad. I am open source programmer since 2016. I write in vanilla C++.
 I am an author of {{ site.t['app_name'][page.lang] }}.
 All my applications are compact, standalone and statically-linked thus they have no external dependencies.
 Windows installers are made for your convenience by open source tool [Inno Setup](https://jrsoftware.org/isinfo.php){:target="_blank"}.
+
+In 2023 my flagman project {{ site.t['title'][page.lang] }} celebrates the 7th anniversary! You can download and install
+the anniversary re-release
+at [GitHub](https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows/releases/tag/v2.6.1.0-7th-anniversary){:target="_blank"}.
 
 ## My Projects
 

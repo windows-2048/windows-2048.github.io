@@ -6,7 +6,13 @@ i18n-link: the-fastest-mouse-clicker-for-windows
 
 ### {{ site.t['description_rich'][page.lang] }}
 
-> Updated : May 04 2023. Spanish localization of the site is READY | La localización en español del sitio está [LISTO](https://windows-2048.github.io/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/).
+> Updated : May 10 2023. Spanish localization of the site is READY | La localización en español del sitio está [LISTO](https://windows-2048.github.io/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/).
+
+#### 2023 is the project's 7th anniversary
+
+In 2023 my flagman project {{ site.t['title'][page.lang] }} celebrates the 7th anniversary! You can download and install
+the anniversary re-release
+at [GitHub](https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows/releases/tag/v2.6.1.0-7th-anniversary){:target="_blank"}.
 
 <a name="QuickStart"></a>
 ## Quick Start
