@@ -6,7 +6,7 @@ i18n-link: the-fastest-mouse-clicker-for-windows
 
 ### {{ site.t['description_rich'][page.lang] }}
 
-> Actualizado: 10 de Mayo de 2023. La localización en español del sitio está LISTO.
+> Actualizado: 19 de Mayo de 2023. La localización en español del sitio está LISTO.
 
 #### 2023 es el 7º aniversario del proyecto
 
