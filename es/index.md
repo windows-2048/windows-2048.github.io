@@ -6,7 +6,7 @@ i18n-link: index
 
 ### {{ site.t['description_rich'][page.lang] }}
 
-> Actualizado: 19 de Mayo de 2023. La localización en español del sitio está LISTO.
+> Actualizado: 17 de Junio de 2023. La localización en español del sitio está LISTO.
 
 #### 2023 es el 7º aniversario del proyecto
 
