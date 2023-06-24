@@ -517,7 +517,7 @@ Note though, 32-bit OS builds (typically for Windows) have gone to the history. 
 ![Teaser developer's screenshot for The Fastest Mouse Clicker v3.0.0.0 (cross-platform Qt edition)](screenshots_new/v3.0.0.0/TheFastestMouseClickerQt.png)
 
 A great progress is undergoing right now. All the things about how does a cross-platform app function have been investigated.
-Initial code refactoring has been performed. The library [libuiohook](https://github.com/kwhat/libuiohook) is found to be pretty clearly designed.
+Initial code refactoring has been performed. The library [libuiohook](https://github.com/kwhat/libuiohook){:target="_blank"} is found to be pretty clearly designed.
 
 ![Trailer developer's screenshot for The Fastest Mouse Clicker v3.0.0.0 (cross-platform Qt edition)](screenshots_new/v3.0.0.0/TheFastestMouseClicker.png)
 

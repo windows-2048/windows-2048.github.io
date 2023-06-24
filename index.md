@@ -7,7 +7,7 @@ i18n-link: index
 ### {{ site.t['description_rich'][page.lang] }}
 
 > Updated : Jun 24 2023. Spanish localization of the site is READY | La localización en español del sitio está [LISTO](https://windows-2048.github.io/es/).
-New trailer developer's screenshot for The Fastest Mouse Clicker v3.0.0.0 has been added (see [there](https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/){:target="_blank"})).
+New trailer developer's screenshot for The Fastest Mouse Clicker v3.0.0.0 has been added (see [there](https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/){:target="_blank"}).
 
 #### 2023 is the project's 7th anniversary
 

@@ -517,7 +517,7 @@ Sin embargo, tenga en cuenta que las compilaciones de SO de 32 bits (normalmente
 ![Teaser developer's screenshot for The Fastest Mouse Clicker v3.0.0.0 (cross-platform Qt edition)](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v3.0.0.0/TheFastestMouseClickerQt.png)
 
 Un gran progreso está experimentando en este momento. Se han investigado todas las cosas sobre cómo funciona una aplicación multiplataforma.
-Se ha realizado la refactorización del código inicial. Se encuentra que la biblioteca [libuiohook](https://github.com/kwhat/libuiohook) tiene un diseño bastante claro.
+Se ha realizado la refactorización del código inicial. Se encuentra que la biblioteca [libuiohook](https://github.com/kwhat/libuiohook){:target="_blank"} tiene un diseño bastante claro.
 
 ![Trailer developer's screenshot for The Fastest Mouse Clicker v3.0.0.0 (cross-platform Qt edition)](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v3.0.0.0/TheFastestMouseClicker.png)
 
