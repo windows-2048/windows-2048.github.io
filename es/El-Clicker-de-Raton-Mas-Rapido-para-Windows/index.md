@@ -6,7 +6,8 @@ i18n-link: the-fastest-mouse-clicker-for-windows
 
 ### {{ site.t['description_rich'][page.lang] }}
 
-> Actualizado: 17 de Junio de 2023. La localización en español del sitio está LISTO.
+> Actualizado: 24 de Junio de 2023. La localización en español del sitio está LISTO.
+Se ha agregado una nueva captura de pantalla del desarrollador del tráiler para The Fastest Mouse Clicker v3.0.0.0 (ver allí).
 
 #### 2023 es el 7º aniversario del proyecto
 
@@ -514,6 +515,11 @@ requiere DLL de terceros o componente de sistema operativo. Mientras tanto, entr
 Sin embargo, tenga en cuenta que las compilaciones de SO de 32 bits (normalmente para Windows) han pasado a la historia. La nueva aplicación será solo de 64 bits para todas las plataformas. ¡Apoyar!
 
 ![Teaser developer's screenshot for The Fastest Mouse Clicker v3.0.0.0 (cross-platform Qt edition)](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v3.0.0.0/TheFastestMouseClickerQt.png)
+
+Un gran progreso está experimentando en este momento. Se han investigado todas las cosas sobre cómo funciona una aplicación multiplataforma.
+Se ha realizado la refactorización del código inicial. Se encuentra que la biblioteca [libuiohook](https://github.com/kwhat/libuiohook) tiene un diseño bastante claro.
+
+![Trailer developer's screenshot for The Fastest Mouse Clicker v3.0.0.0 (cross-platform Qt edition)](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v3.0.0.0/TheFastestMouseClicker.png)
 
 ### Gran actualización 01 de Marzo de 2023
 
