@@ -6,7 +6,7 @@ i18n-link: the-fastest-mouse-clicker-for-windows
 
 ### {{ site.t['description_rich'][page.lang] }}
 
-> Actualizado: 24 de Junio de 2023. La localización en español del sitio está LISTO.
+> Actualizado: 08 de Julio de 2023. La localización en español del sitio está LISTO.
 Se ha agregado una nueva captura de pantalla del desarrollador del tráiler para The Fastest Mouse Clicker v3.0.0.0 (ver [allí](index.html#TheFastestMouseClickerQt)).
 
 #### 2023 es el 7º aniversario del proyecto
