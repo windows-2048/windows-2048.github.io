@@ -6,8 +6,9 @@ i18n-link: the-fastest-mouse-clicker-for-windows
 
 ### {{ site.t['description_rich'][page.lang] }}
 
-> Updated : Jul 19 2023. Spanish localization of the site is READY | La localización en español del sitio está [LISTO](https://windows-2048.github.io/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/).
+> Updated : Aug 16 2023. Spanish localization of the site is READY | La localización en español del sitio está [LISTO](https://windows-2048.github.io/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/).
 New trailer developer's screenshot for The Fastest Mouse Clicker v3.0.0.0 has been added (see [below](index.html#TheFastestMouseClickerQt)).
+What do our partners [tell](index.html#Partners) about the famous software tool.
 
 #### 2023 is the project's 7th anniversary
 
@@ -749,25 +750,51 @@ ADDITIONAL BUTTONS AND FEATURES.
 <a name="Partners"></a>
 ## Partners
 
+What do our partners tell about The Fastest Mouse Clicker for Windows? Here are their reviews about my legendary software tool.
+
 * [Bytesin](https://www.bytesin.com/software/The-Fastest-Mouse-Clicker-for-Windows/){:target="_blank"}, Your Daily Dose of Bytes
+
+> The Fastest Mouse Clicker for Windows is a practical software tool designed to help you automate your clicks, thus eliminating repetitive manual tasks and saving time otherwise spent performing them.
 
 * [Chocolatey](https://chocolatey.org/packages/fastest-mouse-clicker){:target="_blank"}, The Package Manager for Windows
 
+> To install The Fastest Mouse Clicker for Windows, run the following command from the command line or from PowerShell: choco install fastest-mouse-clicker.
+
 * [Github](https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows){:target="_blank"}, Built for Developers
+
+> In 2023, my flagship project celebrates the 7th anniversary! You can download and install the anniversary re-release at GitHub.
 
 * [Gitlab](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows){:target="_blank"}, Simplify Your Workflows
 
+> All future versions of The Fastest Mouse Clicker for Windows will be cross-platform and made with Qt.
+
 * [Lamerkomp](https://lamerkomp.ru/load/sistemnye_utility/avtoklikery/the_fastest_mouse_clicker_for_windows/56-1-0-6328){:target="_blank"}, Download Freeware without Registration
+
+> The autoclicker interface is simple, but it is recommended to read the Help before using it. You can select the mouse button for automatic clicks (left, right or middle), specify the frequency and the total number of clicks.
 
 * [Majorgeeks](http://m.majorgeeks.com/files/details/the_fastest_mouse_clicker_for_windows.html){:target="_blank"}, It's Geekalicious
 
+> The Fastest Mouse Clicker for Windows permits repetitive tasks to be carried out with the possibility of customization via the GUI or the Command Line. This little utility has one of the best click rates, with rates pushing 100k clicks per second.
+
 * [OSDN](https://osdn.net/projects/fastest-clicker/){:target="_blank"}, Develop and Download Open Source Software
+
+> In few words, the application is ready for auto-clicking IMMEDIATELY, once you run it and press the trigger key that defaults to scan code 13, i.e. the key is ENTER (RETURN).
 
 * [Softpedia](https://www.softpedia.com/get/System/OS-Enhancements/The-Fastest-Mouse-Clicker-for-Windows.shtml){:target="_blank"}, Free Downloads Encyclopedia
 
+> There are certain activities people would dispose of as soon as possible, and the thing is it usually has something to do not with the difficulty level but with the repetitive nature of the task, which makes it outright unbearable. It’s no surprise then that software utilities to help them avoid this kind of operations have been developed, with one example in this regard being The Fastest Mouse Clicker for Windows.
+
 * [all-mouse-auto-clickers.software](https://all-mouse-auto-clickers.software/){:target="_blank"}, The Most Honest Rating of Existing Autoclickers
 
-* [Uptodown](https://the-fastest-mouse-clicker-for-windows.en.uptodown.com/windows/download){:target="_blank"}, Download Discover Share
+> There are more than 100 different mouse auto-clicker apps are known as far. Few of them are really useful and safe to use in practice. Some apps are clones or forks of each other. Many projects are frozen and abandoned by their authors years ago. The Fastest Mouse Clicker for Windows is our top 1 mouse autoclicker.
+
+* [Uptodown](https://the-fastest-mouse-clicker-for-windows.en.uptodown.com/windows){:target="_blank"}, Download Discover Share
+
+> The Fastest Mouse Clicker for Windows is exactly what its name suggests: a program emulates many clicks automatically. With this program, you can emulate more than one hundred thousand clicks in one second. And of course, you can choose any of your mouse's buttons.
+
+* [Softlay](https://www.softlay.com/downloads/the-fastest-mouse-clicker){:target="_blank"}, Emulate Endless Clicks
+
+> The Fastest Mouse Clicker for Windows is specifically designed to enable users to click more than one hundred thousand times in one second. This useful automatic mouse clicker for Windows eliminates the need to click again and again. Quite useful in gaming, this free auto clicker software utility is very easy to customize and has the right set of tools to automate repetitive tasks for your Windows PC.
 
 <a name="Reviews_from_our_users"></a>
 ## Video reviews from our users
