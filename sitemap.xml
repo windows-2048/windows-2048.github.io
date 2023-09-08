@@ -24,4 +24,10 @@
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
    </url>
+   <url>
+      <loc>https://windows-2048.github.io/resume/</loc>
+      <lastmod>2023-09-08</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
 </urlset>

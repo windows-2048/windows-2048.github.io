@@ -12,7 +12,8 @@ Se ha agregado una nueva captura de pantalla del desarrollador del tráiler para
 
 #### 2023 es el 7º aniversario del proyecto
 
-¡Hola! Mi nombre es Masha Novedad. Soy programador de código abierto desde 2016. Escribo en Vanilla C++.
+¡Hola! Mi nombre es [Masha Novedad](https://windows-2048.github.io/resume/){:target="_blank"}. Soy programador de código abierto desde 2016.
+Escribo en Vanilla C++.
 Soy autor de {{ site.t['app_name'][page.lang] }}.
 Todas mis aplicaciones son compactas, independientes y estáticamente vinculadas, por lo que no tienen dependencias externas.
 Los instaladores de Windows se crean para su comodidad mediante la herramienta de código abierto [Inno Setup](https://jrsoftware.org/isinfo.php){:target="_blank"}.
