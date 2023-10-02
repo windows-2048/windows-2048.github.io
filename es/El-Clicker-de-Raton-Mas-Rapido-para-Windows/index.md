@@ -6,7 +6,7 @@ i18n-link: the-fastest-mouse-clicker-for-windows
 
 ### {{ site.t['description_rich'][page.lang] }}
 
-> Actualizado: 16 de Agosto de 2023. La localización en español del sitio está LISTO.
+Actualizado: 2 de octubre de 2023. Se agregaron nuevas capturas de pantalla de Windows 11. La localización en español del sitio está LISTO.
 Se ha agregado una nueva captura de pantalla del desarrollador del tráiler para The Fastest Mouse Clicker v3.0.0.0 (ver [allí](index.html#TheFastestMouseClickerQt)).
 ¿Qué [dicen](index.html#Partners) nuestros socios sobre la famosa herramienta de software?
 
@@ -31,6 +31,7 @@ SHA256(Install_TheFastestMouseClicker_2.6.1.0.exe)= eb6a79fcecb598b626b10d34951d
 Aplicación "Única" | Aplicación "Grupo"
 ----- | -----
 ![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Aplicación "Única"](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/mw_v2.6.1.0.jpg) | ![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Aplicación "Grupo"](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/mw_groupapp_v2.6.1.0.jpg)
+![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Aplicación "Única" en Windows 11](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/win11-tfmcfw.jpg) | ![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Aplicación "Grupo" en Windows 11](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/win11-tfmcfw-ga.jpg)
 
 #### RegistroDeCambios
 
@@ -723,6 +724,14 @@ El botón <br/>\[Ayuda\] muestra esta ventana de ayuda.
 ## Capturas de Pantalla
 
 ### ¡Las capturas de pantalla de la última versión 2.6.1.0 están aquí!
+
+* {{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Nueva captura de pantalla de Windows 11.
+
+![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Nueva captura de pantalla de Windows 11](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/win11-tfmcfw.jpg)
+
+* {{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Nueva captura de pantalla de Windows 11 (solicitud de grupo).
+
+![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Nueva captura de pantalla de Windows 11 (solicitud de grupo)](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/win11-tfmcfw-ga.jpg)
 
 * {{ site.t['app_name'][page.lang] }} versión 2.6.1.0: presenta la función "CLIC EN POSICIÓN FIJA".
 
