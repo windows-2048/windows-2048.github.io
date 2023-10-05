@@ -733,6 +733,26 @@ El botón <br/>\[Ayuda\] muestra esta ventana de ayuda.
 
 ![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Nueva captura de pantalla de Windows 11 22H2 (solicitud de grupo)](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-gapp.jpg)
 
+* {{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Nueva captura de pantalla de Windows 11 22H2 (instalar paso 1).
+
+![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Nueva captura de pantalla de Windows 11 22H2 (instalar paso 1)](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-install.jpg)
+
+* {{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Nueva captura de pantalla de Windows 11 22H2 (instalar paso 2).
+
+![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Nueva captura de pantalla de Windows 11 22H2 (instalar paso 2)](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-install-2.jpg)
+
+* {{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Nueva captura de pantalla de Windows 11 22H2 (instalar paso 3).
+
+![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Nueva captura de pantalla de Windows 11 22H2 (instalar paso 3)](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-install-3.jpg)
+
+* {{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Nueva captura de pantalla de Windows 11 22H2 (instalar paso 4).
+
+![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Nueva captura de pantalla de Windows 11 22H2 (instalar paso 4)](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-install-4.jpg)
+
+* {{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Nueva captura de pantalla de Windows 11 22H2 (instalar paso 5).
+
+![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Nueva captura de pantalla de Windows 11 22H2 (instalar paso 5)](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-install-5.jpg)
+
 * {{ site.t['app_name'][page.lang] }} versión 2.6.1.0: presenta la función "CLIC EN POSICIÓN FIJA".
 
 ![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: presenta la función "CLIC EN POSICIÓN FIJA"](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_s1_1322x986.jpg)
