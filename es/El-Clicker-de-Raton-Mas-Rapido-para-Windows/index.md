@@ -725,13 +725,13 @@ El botón <br/>\[Ayuda\] muestra esta ventana de ayuda.
 
 ### ¡Las capturas de pantalla de la última versión 2.6.1.0 están aquí!
 
-* {{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Nueva captura de pantalla de Windows 11.
+* {{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Nueva captura de pantalla de Windows 11 22H2.
 
-![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Nueva captura de pantalla de Windows 11](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-sapp.jpg)
+![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Nueva captura de pantalla de Windows 11 22H2](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-sapp.jpg)
 
-* {{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Nueva captura de pantalla de Windows 11 (solicitud de grupo).
+* {{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Nueva captura de pantalla de Windows 11 22H2 (solicitud de grupo).
 
-![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Nueva captura de pantalla de Windows 11 (solicitud de grupo)](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-gapp.jpg)
+![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Nueva captura de pantalla de Windows 11 22H2 (solicitud de grupo)](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-gapp.jpg)
 
 * {{ site.t['app_name'][page.lang] }} versión 2.6.1.0: presenta la función "CLIC EN POSICIÓN FIJA".
 

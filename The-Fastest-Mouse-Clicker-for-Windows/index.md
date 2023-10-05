@@ -724,13 +724,13 @@ ADDITIONAL BUTTONS AND FEATURES.
 
 ### Screenshots for the latest version 2.6.1.0 are here!
 
-* The Fastest Mouse Clicker for Windows version 2.6.1.0 - Brand new Windows 11 screenshot.
+* The Fastest Mouse Clicker for Windows version 2.6.1.0 - Brand new Windows 11 22H2 screenshot.
 
-![The Fastest Mouse Clicker for Windows version 2.6.1.0 - Brand new Windows 11 screenshot.](screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-sapp.jpg)
+![The Fastest Mouse Clicker for Windows version 2.6.1.0 - Brand new Windows 11 22H2 screenshot.](screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-sapp.jpg)
 
-* The Fastest Mouse Clicker for Windows version 2.6.1.0 - Brand new Windows 11 screenshot (group application).
+* The Fastest Mouse Clicker for Windows version 2.6.1.0 - Brand new Windows 11 22H2 screenshot (group application).
 
-![The Fastest Mouse Clicker for Windows version 2.6.1.0 - Brand new Windows 11 screenshot (group application).](screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-gapp.jpg)
+![The Fastest Mouse Clicker for Windows version 2.6.1.0 - Brand new Windows 11 22H2 screenshot (group application).](screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-gapp.jpg)
 
 * The Fastest Mouse Clicker for Windows version 2.6.1.0: introduce the "FIXED POSITION CLICKING" feature.
 
