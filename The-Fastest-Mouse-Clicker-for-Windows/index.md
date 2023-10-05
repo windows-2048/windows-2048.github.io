@@ -6,7 +6,7 @@ i18n-link: the-fastest-mouse-clicker-for-windows
 
 ### {{ site.t['description_rich'][page.lang] }}
 
-> Updated: Oct 02 2023. Brand new Windows 11 screenshots have been added. Spanish localization of the site is READY | La localización en español del sitio está [LISTO](https://windows-2048.github.io/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/).
+> Updated: Oct 05 2023. Brand new Windows 11 22H2 screenshots have been added. Spanish localization of the site is READY | La localización en español del sitio está [LISTO](https://windows-2048.github.io/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/).
 New trailer developer's screenshot for The Fastest Mouse Clicker v3.0.0.0 has been added (see [below](index.html#TheFastestMouseClickerQt)).
 What do our partners [tell](index.html#Partners) about the famous software tool.
 
@@ -31,7 +31,7 @@ SHA256(Install_TheFastestMouseClicker_2.6.1.0.exe)= eb6a79fcecb598b626b10d34951d
 "Single" application | "Group" application
 ----- | -----
 ![{{ site.t['app_name'][page.lang] }} version 2.6.1.0: "Single" application](screenshots_new/v2.6.1.0/mw_v2.6.1.0.jpg) | ![{{ site.t['app_name'][page.lang] }} version 2.6.1.0: "Group" application](screenshots_new/v2.6.1.0/mw_groupapp_v2.6.1.0.jpg)
-![{{ site.t['app_name'][page.lang] }} version 2.6.1.0: "Single" application on Windows 11](screenshots_new/v2.6.1.0/win11-tfmcfw.jpg) | ![{{ site.t['app_name'][page.lang] }} version 2.6.1.0: "Group" application on Windows 11](screenshots_new/v2.6.1.0/win11-tfmcfw-ga.jpg)
+![{{ site.t['app_name'][page.lang] }} version 2.6.1.0: "Single" application on Windows 11](screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-sapp.jpg) | ![{{ site.t['app_name'][page.lang] }} version 2.6.1.0: "Group" application on Windows 11](screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-gapp.jpg)
 
 #### ChangeLog
 
@@ -726,11 +726,11 @@ ADDITIONAL BUTTONS AND FEATURES.
 
 * The Fastest Mouse Clicker for Windows version 2.6.1.0 - Brand new Windows 11 screenshot.
 
-![The Fastest Mouse Clicker for Windows version 2.6.1.0 - Brand new Windows 11 screenshot.](screenshots_new/v2.6.1.0/win11-tfmcfw.jpg)
+![The Fastest Mouse Clicker for Windows version 2.6.1.0 - Brand new Windows 11 screenshot.](screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-sapp.jpg)
 
 * The Fastest Mouse Clicker for Windows version 2.6.1.0 - Brand new Windows 11 screenshot (group application).
 
-![The Fastest Mouse Clicker for Windows version 2.6.1.0 - Brand new Windows 11 screenshot (group application).](screenshots_new/v2.6.1.0/win11-tfmcfw-ga.jpg)
+![The Fastest Mouse Clicker for Windows version 2.6.1.0 - Brand new Windows 11 screenshot (group application).](screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-gapp.jpg)
 
 * The Fastest Mouse Clicker for Windows version 2.6.1.0: introduce the "FIXED POSITION CLICKING" feature.
 

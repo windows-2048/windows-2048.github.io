@@ -6,7 +6,7 @@ i18n-link: index
 
 ### {{ site.t['description_rich'][page.lang] }}
 
-Actualizado: 2 de octubre de 2023. Se agregaron nuevas capturas de pantalla de Windows 11. La localización en español del sitio está LISTO.
+Actualizado: 5 de octubre de 2023. Se agregaron nuevas capturas de pantalla de Windows 11 22H2. La localización en español del sitio está LISTO.
 Se ha agregado una nueva captura de pantalla del desarrollador del tráiler para El Clicker de Raton Mas Rapido v3.0.0.0 (ver [allí](https://windows-2048.github.io/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/index.html#TheFastestMouseClickerQt){:target="_blank"}).
 ¿Qué [dicen](https://windows-2048.github.io/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/index.html#Partners){:target="_blank"} nuestros socios sobre la famosa herramienta de software?
 
