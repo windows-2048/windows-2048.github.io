@@ -3,9 +3,9 @@ encoding: UTF-8
 
 prod-url: https://windows-2048.github.io
 
-github_star_counter: 136
-github_fork_counter: 28
-total_download_counter: 25530873
+github_star_counter: 137
+github_fork_counter: 29
+total_download_counter: 26639719
 total_rating_counter: 4.7
 upd_day_year: 05 2024
 
@@ -75,8 +75,8 @@ t:
         en: Updated
         es: Actualizado
     updated_month:
-        en: Feb
-        es: Febrero
+        en: Mar
+        es: Marzo
     lang_countries:
         en:
             -
