@@ -46,4 +46,4 @@ SHA256(Install_TheFastestMouseClicker_2.6.1.0.exe)= eb6a79fcecb598b626b10d34951d
 
 ## Derechos de autor
 
-Derechos de autor (c) 2016-2023 de {{ site.t['author_name'][page.lang] }}.
+Derechos de autor (c) 2016-2024 de {{ site.t['author_name'][page.lang] }}.

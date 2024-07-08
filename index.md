@@ -46,4 +46,4 @@ SHA256(Install_TheFastestMouseClicker_2.6.1.0.exe)= eb6a79fcecb598b626b10d34951d
 
 ## Copyright
 
-Copyright (c) 2016-2023 by Open Source Developer Masha Novedad.
+Copyright (c) 2016-2024 by Open Source Developer Masha Novedad.
