@@ -6,11 +6,11 @@ i18n-link: index
 
 ### {{ site.t['description_rich'][page.lang] }}
 
-> Updated: Jul 01 2024. Brand new Windows 11 22H2 screenshots have been added. Spanish localization of the site is READY | La localización en español del sitio está [LISTO](https://windows-2048.github.io/es/).
+> Updated: Jul 11 2024. Brand new Windows 11 22H2 screenshots have been added. Spanish localization of the site is READY | La localización en español del sitio está [LISTO](https://windows-2048.github.io/es/).
 New trailer developer's screenshot for The Fastest Mouse Clicker v3.0.0.0 has been added (see [there](https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/index.html#TheFastestMouseClickerQt){:target="_blank"}).
 What do our partners [tell](https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/index.html#Partners){:target="_blank"} about the famous software tool.
 
-#### 2023 is the project's 7th anniversary
+#### 2024 is the project's 8th anniversary
 
 Hi! My name is [Masha Novedad](https://windows-2048.github.io/resume/){:target="_blank"}. I am open source programmer since 2016.
 I write in vanilla C++.
@@ -18,9 +18,9 @@ I am an author of {{ site.t['app_name'][page.lang] }}.
 All my applications are compact, standalone and statically-linked thus they have no external dependencies.
 Windows installers are made for your convenience by open source tool [Inno Setup](https://jrsoftware.org/isinfo.php){:target="_blank"}.
 
-In 2023 my flagman project {{ site.t['title'][page.lang] }} celebrates the 7th anniversary! You can download and install
+In 2024 my flagman project {{ site.t['title'][page.lang] }} celebrates the 8th anniversary! You can download and install
 the anniversary re-release
-at [GitHub](https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows/releases/tag/v2.6.1.0-7th-anniversary){:target="_blank"}.
+at [GitHub](https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows/releases/tag/v2.6.1.0-8th-anniversary){:target="_blank"}.
 
 ## My Projects
 
@@ -31,15 +31,15 @@ at [GitHub](https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Window
 
 <a href="{{ site.download_link_main }}" class="btn btn--stripe">Download {{ site.t['app_name'][page.lang] }} version {{ site.app_version }}</a>
 
-SHA256(Install_TheFastestMouseClicker_2.6.1.0.exe)= eb6a79fcecb598b626b10d34951d6b51b7c56af25c340a59c208b879f3d2e151
+SHA256(Install_TheFastestMouseClicker_2.6.1.0.exe)= 47dc03699996c1b5f19b5dd332d9a3c342b6fbc226a3e8d52ae34e90645ebb36
 
 <a name="ChangeLog"></a>
 ### What's New - The latest version&nbsp;{{site.app_version}}
 
 #### ChangeLog
 
+* Live current mouse position indicator gets light green color.
 * Long waiting new feature FIXED POSITION CLICKING.
-* Live current mouse position indicator.
 * Fixed blurred GUI texts on 4K screens.
 * Fixed wrong question about close old application during installation.
 * Few minor bug fixes.
