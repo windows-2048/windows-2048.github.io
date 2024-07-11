@@ -20,7 +20,7 @@ Los instaladores de Windows se crean para su comodidad mediante la herramienta d
 
 ¡En 2024, mi proyecto flagman {{ site.t['title'][page.lang] }} celebra el 8° aniversario! Puede descargar e instalar
 relanzamiento del aniversario
-en [GitHub](https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows/releases/tag/v2.6.1.0-8th-anniversary){:target="_blank"}.
+en [GitHub](https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows/releases/tag/2.6.1.0-8th-anniversary){:target="_blank"}.
 
 ## Mis Proyectos
 
