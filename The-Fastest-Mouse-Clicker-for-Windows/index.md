@@ -30,7 +30,7 @@ SHA256(Install_TheFastestMouseClicker_2.6.1.1.exe)= 00a4a30e3017d19904a6b2c7ac4c
 
 "Single" application | "Group" application
 ----- | -----
-![{{ site.t['app_name'][page.lang] }} version 2.6.1.1: "Single" application](screenshots_new/v2.6.1.1/tfmcfw_singleapp_v2.6.1.1.png) | ![{{ site.t['app_name'][page.lang] }} version 2.6.1.1: "Group" application](screenshots_new/v2.6.1.0/tfmcfw_groupapp_v2.6.1.1.png)
+![{{ site.t['app_name'][page.lang] }} version 2.6.1.1: "Single" application](screenshots_new/v2.6.1.1/tfmcfw_singleapp_v2.6.1.1.png) | ![{{ site.t['app_name'][page.lang] }} version 2.6.1.1: "Group" application](screenshots_new/v2.6.1.1/tfmcfw_groupapp_v2.6.1.1.png)
 ![{{ site.t['app_name'][page.lang] }} version 2.6.1.0: "Single" application on Windows 11](screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-sapp.jpg) | ![{{ site.t['app_name'][page.lang] }} version 2.6.1.0: "Group" application on Windows 11](screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-gapp.jpg)
 
 #### ChangeLog
