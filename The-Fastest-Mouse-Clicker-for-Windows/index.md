@@ -6,7 +6,7 @@ i18n-link: the-fastest-mouse-clicker-for-windows
 
 ### {{ site.t['description_rich'][page.lang] }}
 
-> Updated: Jul 11 2024. Brand new Windows 11 22H2 screenshots have been added. Spanish localization of the site is READY | La localización en español del sitio está [LISTO](https://windows-2048.github.io/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/).
+> Updated: Jul 22 2024. Brand new Windows 11 22H2 screenshots have been added. Spanish localization of the site is READY | La localización en español del sitio está [LISTO](https://windows-2048.github.io/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/).
 New trailer developer's screenshot for The Fastest Mouse Clicker v3.0.0.0 has been added (see [below](index.html#TheFastestMouseClickerQt)).
 What do our partners [tell](index.html#Partners) about the famous software tool.
 
@@ -23,19 +23,19 @@ at [GitHub](https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Window
 
 <a href="{{ site.download_link_main }}" class="btn btn--stripe">Download {{ site.t['app_name'][page.lang] }} version {{ site.app_version }}</a>
 
-SHA256(Install_TheFastestMouseClicker_2.6.1.0.exe)= 47dc03699996c1b5f19b5dd332d9a3c342b6fbc226a3e8d52ae34e90645ebb36
+SHA256(Install_TheFastestMouseClicker_2.6.1.1.exe)= 00a4a30e3017d19904a6b2c7ac4c64e54c1a6b4fb4e40359173b404cdd4b3e00
 
 <a name="ChangeLog"></a>
 ### What's New - The latest version&nbsp;{{ site.app_version }}
 
 "Single" application | "Group" application
 ----- | -----
-![{{ site.t['app_name'][page.lang] }} version 2.6.1.0: "Single" application](screenshots_new/v2.6.1.0/mw_v2.6.1.0.jpg) | ![{{ site.t['app_name'][page.lang] }} version 2.6.1.0: "Group" application](screenshots_new/v2.6.1.0/mw_groupapp_v2.6.1.0.jpg)
+![{{ site.t['app_name'][page.lang] }} version 2.6.1.1: "Single" application](screenshots_new/v2.6.1.1/tfmcfw_singleapp_v2.6.1.1.png) | ![{{ site.t['app_name'][page.lang] }} version 2.6.1.1: "Group" application](screenshots_new/v2.6.1.0/tfmcfw_groupapp_v2.6.1.1.png)
 ![{{ site.t['app_name'][page.lang] }} version 2.6.1.0: "Single" application on Windows 11](screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-sapp.jpg) | ![{{ site.t['app_name'][page.lang] }} version 2.6.1.0: "Group" application on Windows 11](screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-gapp.jpg)
 
 #### ChangeLog
 
-* Live current mouse position indicator gets light green color.
+* NEW VERSION 2.6.1.1 INCORPORATES LONG AWAITED COLORED MOUSE POSITION GUI FIELDS AND SMALL BUG FIXES.
 * Long waiting new feature FIXED POSITION CLICKING.
 * Fixed blurred GUI texts on 4K screens.
 * Fixed wrong question about close old application during installation.

@@ -6,7 +6,7 @@ i18n-link: the-fastest-mouse-clicker-for-windows
 
 ### {{ site.t['description_rich'][page.lang] }}
 
-Actualizado: 11 de Julio de 2024. Se agregaron nuevas capturas de pantalla de Windows 11 22H2. La localización en español del sitio está LISTO.
+Actualizado: 22 de Julio de 2024. Se agregaron nuevas capturas de pantalla de Windows 11 22H2. La localización en español del sitio está LISTO.
 Se ha agregado una nueva captura de pantalla del desarrollador del tráiler para The Fastest Mouse Clicker v3.0.0.0 (ver [allí](index.html#TheFastestMouseClickerQt)).
 ¿Qué [dicen](index.html#Partners) nuestros socios sobre la famosa herramienta de software?
 
@@ -23,19 +23,19 @@ en [GitHub](https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Window
 
 <a href="{{ site.download_link_main }}" class="btn btn--stripe">Descargar {{ site.t['app_name'][page.lang] }} versión {{ site.app_version }}</a>
 
-SHA256(Install_TheFastestMouseClicker_2.6.1.0.exe)= 47dc03699996c1b5f19b5dd332d9a3c342b6fbc226a3e8d52ae34e90645ebb36
+SHA256(Install_TheFastestMouseClicker_2.6.1.1.exe)= 00a4a30e3017d19904a6b2c7ac4c64e54c1a6b4fb4e40359173b404cdd4b3e00
 
 <a name="ChangeLog"></a>
 ### Novedades - La última versión&nbsp;{{site.app_version}}
 
 Aplicación "Única" | Aplicación "Grupo"
 ----- | -----
-![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Aplicación "Única"](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/mw_v2.6.1.0.jpg) | ![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Aplicación "Grupo"](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/mw_groupapp_v2.6.1.0.jpg)
+![{{ site.t['app_name'][page.lang] }} versión 2.6.1.1: Aplicación "Única"](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.1/tfmcfw_singleapp_v2.6.1.1.png) | ![{{ site.t['app_name'][page.lang] }} versión 2.6.1.1: Aplicación "Grupo"](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.1/tfmcfw_groupapp_v2.6.1.1.png)
 ![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Aplicación "Única" en Windows 11](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-sapp.jpg) | ![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Aplicación "Grupo" en Windows 11](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-gapp.jpg)
 
 #### RegistroDeCambios
 
-* Larga espera nueva función CLIC DE POSICIÓN FIJA.
+* LA NUEVA VERSIÓN 2.6.1.1 INCORPORA LOS ESPERADOS CAMPOS GUI DE POSICIÓN DEL RATÓN DE COLORES Y PEQUEÑAS CORRECCIONES DE ERRORES.
 * Indicador de posición actual del mouse en vivo.
 * Se corrigieron los textos GUI borrosos en pantallas 4K.
 * Se corrigió la pregunta incorrecta sobre el cierre de la aplicación anterior durante la instalación.
