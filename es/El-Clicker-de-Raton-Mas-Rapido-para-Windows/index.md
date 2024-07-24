@@ -13,8 +13,8 @@ Se ha agregado una nueva captura de pantalla del desarrollador del tráiler para
 #### 2024 es el 8º aniversario del proyecto
 
 ¡En 2024, mi proyecto flagman {{ site.t['title'][page.lang] }} celebra el 8° aniversario! Puede descargar e instalar
-relanzamiento del aniversario
-en [GitHub](https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows/releases/tag/2.6.1.0-8th-anniversary){:target="_blank"}.
+relanzamiento 2.6.1.1 del aniversario
+en [GitHub](https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows/releases/tag/v2.6.1.1){:target="_blank"}.
 
 <a name="QuickStart"></a>
 ## Quick Start

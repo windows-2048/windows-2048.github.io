@@ -19,8 +19,8 @@ All my applications are compact, standalone and statically-linked thus they have
 Windows installers are made for your convenience by open source tool [Inno Setup](https://jrsoftware.org/isinfo.php){:target="_blank"}.
 
 In 2024 my flagman project {{ site.t['title'][page.lang] }} celebrates the 8th anniversary! You can download and install
-the anniversary re-release
-at [GitHub](https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows/releases/tag/2.6.1.0-8th-anniversary){:target="_blank"}.
+the new version 2.6.1.1
+at [GitHub](https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows/releases/tag/v2.6.1.1){:target="_blank"}.
 
 ## My Projects
 
