@@ -23,7 +23,7 @@ at [GitHub](https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Window
 
 <a href="{{ site.download_link_main }}" class="btn btn--stripe">Download {{ site.t['app_name'][page.lang] }} version {{ site.app_version }}</a>
 
-SHA256(Install_TheFastestMouseClicker_2.6.1.1.exe)= 00a4a30e3017d19904a6b2c7ac4c64e54c1a6b4fb4e40359173b404cdd4b3e00
+SHA256(Install_TheFastestMouseClicker_2.6.1.1.exe)= d9c80324b7994e86dcf3c6988008feca2e5e2fd164c2e9f09991ac772aebe2cf
 
 <a name="ChangeLog"></a>
 ### What's New - The latest version&nbsp;{{ site.app_version }}
