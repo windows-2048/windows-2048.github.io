@@ -82,7 +82,17 @@ En el video a continuación, TampaTec muestra la técnica de cómo se pueden log
   <source src="../../The-Fastest-Mouse-Clicker-for-Windows/videos/worlds-fastest-clicker-720p.mp4" type="video/mp4"/>
   Su navegador no soporta la etiqueta de vídeo.
 </video>
-<a href="https://www.youtube.com/watch?v=r8Tlb3FrmhQ" target="_blank">Mira el video original "El clicker de mouse más rápido del mundo - ¡Cómo ganar duelos de Gow Chainsaw!" en Youtube.</a>
+<a href="https://www.youtube.com/watch?v=r8Tlb3FrmhQ" target="_blank">Mira el video original "El clicker de mouse más rápido del mundo - ¡Cómo ganar duelos de Gow Chainsaw!" en Youtube (en inglés).</a>
+</p>
+
+<p>
+Sambucha, otro bloguero de YouTube en ascenso, afirma que en 2024 es el ser humano que hace clic con el mouse más rápido del mundo.
+En el video a continuación, Sambucha expresa su orgullo por ser el que hace clic con el mouse más rápido.
+ <video style="outline:none; width:100%; height:100%;" controls preload="none" poster="../../The-Fastest-Mouse-Clicker-for-Windows/videos/I-Became-The-Fastest-Clicker-UQAbGlKXvBQ-480p.jpg">
+  <source src="../../The-Fastest-Mouse-Clicker-for-Windows/videos/I-Became-The-Fastest-Clicker-UQAbGlKXvBQ-480p.mp4" type="video/mp4"/>
+  Su navegador no soporta la etiqueta de vídeo.
+</video>
+<a href="https://www.youtube.com/shorts/UQAbGlKXvBQ" target="_blank">Mira el vídeo corto original "Me convertí en el clicker de ratón más rápido del mundo" en Youtube (en inglés).</a>
 </p>
 
 ## Tabla de contenido

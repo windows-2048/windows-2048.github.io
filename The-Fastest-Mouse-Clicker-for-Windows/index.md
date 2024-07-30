@@ -85,6 +85,16 @@ In the video below, TampaTec shows the technique how that amazing results can be
 <a href="https://www.youtube.com/watch?v=r8Tlb3FrmhQ" target="_blank">Watch the original video "World's fastest mouse clicker- How to Win Gow Chainsaw duels!" in Youtube.</a>
 </p>
 
+<p>
+Sambucha, another raising Youtube blogger, claims in 2024, that he is now the fastest human being mouse clicker in the world.
+In the video below, Sambucha empresses his pride to be the fastest mouse clicker.
+ <video style="outline:none; width:100%; height:100%;" controls preload="none" poster="videos/I-Became-The-Fastest-Clicker-UQAbGlKXvBQ-480p.jpg">
+  <source src="videos/I-Became-The-Fastest-Clicker-UQAbGlKXvBQ-480p.mp4" type="video/mp4"/>
+  Your browser does not support the video tag.
+</video>
+<a href="https://www.youtube.com/shorts/UQAbGlKXvBQ" target="_blank">Watch the original short video "I became the fastest mouse clicker in the world" in Youtube.</a>
+</p>
+
 ## Table of Contents
 
 * [Introduction](index.html#Introduction)
