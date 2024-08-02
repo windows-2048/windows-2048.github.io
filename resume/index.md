@@ -4,9 +4,11 @@ i18n-link: resume
 
 ## RESUME __Open Source Developer Masha Novedad__
 
+[See at indeed.com...](https://profile.indeed.com/p/mashan-hc2ql7c)
+
 __Experienced software engineer for scalable high-load fault-tolerant systems with comprehensive formal verification in the fintech, health and military areas.__
 
-> Updated: Jul 29 2024.
+> Updated: Aug 02 2024.
 
 ---
 
