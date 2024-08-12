@@ -17,7 +17,7 @@ relanzamiento 2.6.1.1 del aniversario
 en [GitHub](https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows/releases/tag/v2.6.1.1){:target="_blank"}.
 
 <a name="QuickStart"></a>
-## Quick Start
+## Inicio Rápido
 
 ### ¡Bienvenido a descargar e instalar mi producto estrella!
 
@@ -27,6 +27,15 @@ SHA256(Install_TheFastestMouseClicker_2.6.1.1.exe)= d9c80324b7994e86dcf3c6988008
 
 <a name="ChangeLog"></a>
 ### Novedades - La última versión&nbsp;{{site.app_version}}
+
+<p>
+Aquí hay un breve video de introducción que explica cómo descargar e instalar {{ site.t['app_name'][page.lang] }} en 2024-2025.
+ <video style="outline:none; width:100%; height:100%;" controls preload="none" poster="../../The-Fastest-Mouse-Clicker-for-Windows/videos/TFMCfW_intro_2024.jpg">
+  <source src="../../The-Fastest-Mouse-Clicker-for-Windows/videos/TFMCfW_intro_2024.mp4" type="video/mp4"/>
+  Su navegador no soporta la etiqueta de video.
+</video>
+<a href="https://youtu.be/BwB65SpH3-I" target="_blank">Mire la introducción a {{ site.t['app_name'][page.lang] }} en Youtube.</a>
+</p>
 
 Aplicación "Única" | Aplicación "Grupo"
 ----- | -----

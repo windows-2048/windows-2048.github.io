@@ -6,7 +6,7 @@ i18n-link: the-fastest-mouse-clicker-for-windows
 
 ### {{ site.t['description_rich'][page.lang] }}
 
-> Updated: Aug 07 2024. Brand new Windows 11 22H2 screenshots have been added. Spanish localization of the site is READY | La localización en español del sitio está [LISTO](https://windows-2048.github.io/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/).
+> Updated: Aug 12 2024. Brand new Windows 11 22H2 screenshots have been added. Spanish localization of the site is READY | La localización en español del sitio está [LISTO](https://windows-2048.github.io/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/).
 New trailer developer's screenshot for The Fastest Mouse Clicker v3.0.0.0 has been added (see [below](index.html#TheFastestMouseClickerQt)).
 What do our partners [tell](index.html#Partners) about the famous software tool.
 
@@ -27,6 +27,15 @@ SHA256(Install_TheFastestMouseClicker_2.6.1.1.exe)= d9c80324b7994e86dcf3c6988008
 
 <a name="ChangeLog"></a>
 ### What's New - The latest version&nbsp;{{ site.app_version }}
+
+<p>
+Here is a short intro video that tells how to download and install {{ site.t['app_name'][page.lang] }} in 2024-2025.
+ <video style="outline:none; width:100%; height:100%;" controls preload="none" poster="videos/TFMCfW_intro_2024.jpg">
+  <source src="videos/TFMCfW_intro_2024.mp4" type="video/mp4"/>
+  Your browser does not support the video tag.
+</video>
+<a href="https://youtu.be/BwB65SpH3-I" target="_blank">Watch intro to {{ site.t['app_name'][page.lang] }} in Youtube.</a>
+</p>
 
 "Single" application | "Group" application
 ----- | -----
