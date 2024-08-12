@@ -8,7 +8,7 @@ i18n-link: resume
 
 __Experienced software engineer for scalable high-load fault-tolerant systems with comprehensive formal verification in the fintech, health and military areas.__
 
-> Updated: Aug 07 2024.
+> Updated: Aug 12 2024.
 
 ---
 
