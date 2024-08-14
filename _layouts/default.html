@@ -131,7 +131,7 @@
 <br/>
         <h1><img class="mylogo" src="/assets/images/favicon_large.png" alt="Logo" /><a href="{{ site.base-url }}{{ page.url }}">{{ page.title | site.t['title'][page.lang] }}</a></h1>
 
-        <p>{{ site.t['description_rich'][page.lang] }}</p>
+        <p>{{ page.description_rich | site.t['description_rich'][page.lang] }}</p>
 
         <p class="view"><a href="{{ site.download_link_main }}">{{ site.t['download_the_latest_version'][page.lang] }} : {{ site.app_version }}</a>
         <br/>( <a href="{{ site.download_link_mirror }}">{{ site.t['mirror_text'][page.lang] }}</a> ) - {{ site.t['read_text'][page.lang] }} <a href="index.html#ChangeLog">{{ site.t['changelog_text'][page.lang] }}</a>
