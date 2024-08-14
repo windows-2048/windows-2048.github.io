@@ -1,5 +1,6 @@
 ---
 i18n-link: index
+title: windows-2048
 ---
 
 ## {{ site.t['title'][page.lang] }}
