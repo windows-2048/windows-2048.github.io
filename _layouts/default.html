@@ -11,20 +11,20 @@
 <!-- Begin formerly Jekyll SEO tag v2.6.1 -->
 <meta name="generator" content="Jekyll v3.8.7" />
 <meta property="og:type" content="website" />
-<meta property="og:title" content="{{ site.t['title'][page.lang] }}" />
+<meta property="og:title" content="{{ page.title | site.t['title'][page.lang] }}" />
 <meta name="author" content="{{ site.t['author_name'][page.lang] }}" />
 <meta property="og:locale" content="{{ site.t['html_lang'][page.lang] }}" />
-<meta name="description" content="{{ site.t['description'][page.lang] }}" />
-<meta property="og:description" content="{{ site.t['description'][page.lang] }}" />
+<meta name="description" content="{{ page.description | site.t['description'][page.lang] }}" />
+<meta property="og:description" content="{{ page.description | site.t['description'][page.lang] }}" />
 <link rel="canonical" href="{{ site.prod-url }}{{ site.base-url }}{{ page.url }}" />
 <meta property="og:url" content="{{ site.prod-url }}{{ site.base-url }}{{ page.url }}" />
-<meta property="og:site_name" content="{{ site.t['title'][page.lang] }}" />
+<meta property="og:site_name" content="{{ page.title | site.t['title'][page.lang] }}" />
 <meta property="og:image" content="{{ site.prod-url }}/The-Fastest-Mouse-Clicker-for-Windows/og_thumb_1200x630.png" />
 <meta property="twitter:image" content="{{ site.prod-url }}/The-Fastest-Mouse-Clicker-for-Windows/og_thumb_1200x630.png" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:url" content="{{ site.prod-url }}{{ site.base-url }}{{ page.url }}" />
-<meta property="twitter:title" content="{{ site.t['title'][page.lang] }}" />
-<meta property="twitter:description" content="{{ site.t['description'][page.lang] }}" />
+<meta property="twitter:title" content="{{ page.title | site.t['title'][page.lang] }}" />
+<meta property="twitter:description" content="{{ page.description | site.t['description'][page.lang] }}" />
 <meta property="twitter:image" content="{{ site.prod-url }}/The-Fastest-Mouse-Clicker-for-Windows/og_thumb_1200x630.png" />
 <script type="application/ld+json">
 {
@@ -39,7 +39,7 @@
 "@type":"SoftwareApplication",
 "name":"{{ site.t['app_name'][page.lang] }}",
 "url":"{{ site.prod-url }}{{ site.t['home_app'][page.lang] }}",
-"description":"{{ site.t['description'][page.lang] }}",
+"description":"{{ page.description | site.t['description'][page.lang] }}",
 "image": "{{ site.prod-url }}/The-Fastest-Mouse-Clicker-for-Windows/og_thumb_1200x630.png",
 "operatingSystem":"Windows",
 "softwareVersion":"{{ site.app_version }}",
@@ -71,11 +71,11 @@
 "screenshot":[
 {
 "@type": "ImageObject",
-"url":"{{ site.prod-url }}/The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/mw_v2.6.1.0.jpg"
+"url":"{{ site.prod-url }}/The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.1/tfmcfw_singleapp_v2.6.1.1.png"
 },
 {
 "@type": "ImageObject",
-"url":"{{ site.prod-url }}/The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/mw_groupapp_v2.6.1.0.jpg"
+"url":"{{ site.prod-url }}/The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.1/tfmcfw_groupapp_v2.6.1.1.png"
 },
 {
 "@type": "ImageObject",
@@ -129,7 +129,7 @@
     {% endfor %}
   </ul>
 <br/>
-        <h1><img class="mylogo" src="/assets/images/favicon_large.png" alt="Logo" /><a href="{{ site.base-url }}{{ page.url }}">{{ site.t['title'][page.lang] }}</a></h1>
+        <h1><img class="mylogo" src="/assets/images/favicon_large.png" alt="Logo" /><a href="{{ site.base-url }}{{ page.url }}">{{ page.title | site.t['title'][page.lang] }}</a></h1>
 
         <p>{{ site.t['description_rich'][page.lang] }}</p>
 
