@@ -1,5 +1,8 @@
 ---
 i18n-link: the-fastest-mouse-clicker-for-windows
+title: The Fastest Mouse Clicker for Windows | Official Download
+description: The fastest auto-clicker for Windows PC. 100000 clicks per second reached by arrayed Win32 SendInput(). GUI, command line, record/play sequences of clicks
+description_rich: The fastest auto-clicker for Windows PC. 100000 clicks per second reached by arrayed Win32 <a href="https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a>. GUI, command line, random clicks, and record/play sequences of clicks
 ---
 
 ## {{ page.title | default: site.t['title'][page.lang] }}
