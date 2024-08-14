@@ -7,24 +7,24 @@
 
 <link rel="icon" href="/assets/images/favicon_large.png"/>
 
-<title>{{ page.title | site.t['title'][page.lang] }}</title>
+<title>{{ page.title | default: site.t['title'][page.lang] }}</title>
 <!-- Begin formerly Jekyll SEO tag v2.6.1 -->
 <meta name="generator" content="Jekyll v3.8.7" />
 <meta property="og:type" content="website" />
-<meta property="og:title" content="{{ page.title | site.t['title'][page.lang] }}" />
+<meta property="og:title" content="{{ page.title | default: site.t['title'][page.lang] }}" />
 <meta name="author" content="{{ site.t['author_name'][page.lang] }}" />
 <meta property="og:locale" content="{{ site.t['html_lang'][page.lang] }}" />
-<meta name="description" content="{{ page.description | site.t['description'][page.lang] }}" />
-<meta property="og:description" content="{{ page.description | site.t['description'][page.lang] }}" />
+<meta name="description" content="{{ page.description | default: site.t['description'][page.lang] }}" />
+<meta property="og:description" content="{{ page.description | default: site.t['description'][page.lang] }}" />
 <link rel="canonical" href="{{ site.prod-url }}{{ site.base-url }}{{ page.url }}" />
 <meta property="og:url" content="{{ site.prod-url }}{{ site.base-url }}{{ page.url }}" />
-<meta property="og:site_name" content="{{ page.title | site.t['title'][page.lang] }}" />
+<meta property="og:site_name" content="{{ page.title | default: site.t['title'][page.lang] }}" />
 <meta property="og:image" content="{{ site.prod-url }}/The-Fastest-Mouse-Clicker-for-Windows/og_thumb_1200x630.png" />
 <meta property="twitter:image" content="{{ site.prod-url }}/The-Fastest-Mouse-Clicker-for-Windows/og_thumb_1200x630.png" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:url" content="{{ site.prod-url }}{{ site.base-url }}{{ page.url }}" />
-<meta property="twitter:title" content="{{ page.title | site.t['title'][page.lang] }}" />
-<meta property="twitter:description" content="{{ page.description | site.t['description'][page.lang] }}" />
+<meta property="twitter:title" content="{{ page.title | default: site.t['title'][page.lang] }}" />
+<meta property="twitter:description" content="{{ page.description | default: site.t['description'][page.lang] }}" />
 <meta property="twitter:image" content="{{ site.prod-url }}/The-Fastest-Mouse-Clicker-for-Windows/og_thumb_1200x630.png" />
 <script type="application/ld+json">
 {
@@ -39,7 +39,7 @@
 "@type":"SoftwareApplication",
 "name":"{{ site.t['app_name'][page.lang] }}",
 "url":"{{ site.prod-url }}{{ site.t['home_app'][page.lang] }}",
-"description":"{{ page.description | site.t['description'][page.lang] }}",
+"description":"{{ page.description | default: site.t['description'][page.lang] }}",
 "image": "{{ site.prod-url }}/The-Fastest-Mouse-Clicker-for-Windows/og_thumb_1200x630.png",
 "operatingSystem":"Windows",
 "softwareVersion":"{{ site.app_version }}",
@@ -129,9 +129,9 @@
     {% endfor %}
   </ul>
 <br/>
-        <h1><img class="mylogo" src="/assets/images/favicon_large.png" alt="Logo" /><a href="{{ site.base-url }}{{ page.url }}">{{ page.title | site.t['title'][page.lang] }}</a></h1>
+        <h1><img class="mylogo" src="/assets/images/favicon_large.png" alt="Logo" /><a href="{{ site.base-url }}{{ page.url }}">{{ page.title | default: site.t['title'][page.lang] }}</a></h1>
 
-        <p>{{ page.description_rich | site.t['description_rich'][page.lang] }}</p>
+        <p>{{ page.description_rich | default: site.t['description_rich'][page.lang] }}</p>
 
         <p class="view"><a href="{{ site.download_link_main }}">{{ site.t['download_the_latest_version'][page.lang] }} : {{ site.app_version }}</a>
         <br/>( <a href="{{ site.download_link_mirror }}">{{ site.t['mirror_text'][page.lang] }}</a> ) - {{ site.t['read_text'][page.lang] }} <a href="index.html#ChangeLog">{{ site.t['changelog_text'][page.lang] }}</a>
