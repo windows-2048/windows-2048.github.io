@@ -9,7 +9,7 @@ description_rich: El clicker automático más rápido para Windows PC. 100000 cl
 
 ### {{ page.description_rich | default: site.t['description_rich'][page.lang] }}
 
-Actualizado: 07 de Noviembre de 2024. Se agregaron nuevas capturas de pantalla de Windows 11 22H2. La localización en español del sitio está LISTO.
+Actualizado: 05 de Diciembre de 2024. Se agregaron nuevas capturas de pantalla de Windows 11 22H2. La localización en español del sitio está LISTO.
 Se ha agregado una nueva captura de pantalla del desarrollador del tráiler para The Fastest Mouse Clicker v3.0.0.0 (ver [allí](index.html#TheFastestMouseClickerQt)).
 ¿Qué [dicen](index.html#Partners) nuestros socios sobre la famosa herramienta de software?
 
@@ -836,9 +836,9 @@ El botón <br/>\[Ayuda\] muestra esta ventana de ayuda.
 
 > Hay ciertas actividades de las que la gente se desharía lo antes posible, y es que suele tener algo que ver no con el nivel de dificultad sino con la naturaleza repetitiva de la tarea, que la hace totalmente insoportable. No sorprende entonces que se hayan desarrollado utilidades de software para ayudarlos a evitar este tipo de operaciones, con un ejemplo en este sentido es The Fastest Mouse Clicker para Windows.
 
-* [all-mouse-auto-clickers.software](https://all-mouse-auto-clickers.software/){:target="_blank"}, The Most Honest Rating of Existing Autoclickers
+* [mouse-auto-clickers.online](https://mouse-auto-clickers.online/){:target="_blank"}, Un centro de información global dedicado a los clics automáticos del mouse para Windows, Linux, macOS, PC, iPhone y Android
 
-> Hasta ahora se conocen más de 100 aplicaciones diferentes de clic automático del mouse. Pocos de ellos son realmente útiles y seguros de usar en la práctica. Algunas aplicaciones son clones o bifurcaciones entre sí. Muchos proyectos son congelados y abandonados por sus autores hace años. El Clicker de mouse más rápido para Windows es nuestro mejor clicker automático de mouse.
+> El Clicker de Ratón Más Rápido para Windows es una práctica herramienta de software diseñada para ayudarle a automatizar sus clics, eliminando así tareas repetitivas y ahorrando tiempo que de otro modo perdería realizándolas.
 
 * [Uptodown](https://the-fastest-mouse-clicker-for-windows.en.uptodown.com/windows/download){:target="_blank"}, Download Discover Share
 
