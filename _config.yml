@@ -5,9 +5,9 @@ prod-url: https://windows-2048.github.io
 
 github_star_counter: 160
 github_fork_counter: 31
-total_download_counter: 39862685
+total_download_counter: 40592548
 total_rating_counter: 4.8
-upd_day_year: 05 2024
+upd_day_year: 19 2024
 
 download_link_main: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/The-Fastest-Mouse-Clicker-for-Windows/Install_TheFastestMouseClicker_2.6.1.1.exe
 download_link_mirror: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/The-Fastest-Mouse-Clicker-for-Windows/Install_TheFastestMouseClicker_2.6.1.1.exe
@@ -30,53 +30,74 @@ defaults:
      values:
          lang: es
          base-url: "/es/"
+    -
+     scope:
+         path: "pt"
+     values:
+         lang: pt
+         base-url: "/pt/"
 
 t:
     app_name:
         en: The Fastest Mouse Clicker for Windows
         es: El Clicker de Ratón Más Rápido para Windows
+        pt: O Mais Rápido Mouse Clicker para Windows
     home:
         en: "/"
         es: "/es/"
+        pt: "/pt/"
     home_app:
         en: "/The-Fastest-Mouse-Clicker-for-Windows/"
         es: "/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/"
+        pt: "/pt/O-Mais-Rapido-Mouse-Clicker-para-Windows/"
     author_name:
         en: Open Source Developer Masha Novedad, the author of The Fastest Mouse Clicker for Windows
         es: Masha Novedad, desarrolladora de código abierto, autora de El Clicker de Ratón Más Rápido para Windows
+        pt: Desenvolvedor de código aberto Masha Novedad, o autor do Mais Rápido Mouse Clicker para Windows
     title:
         en: The Fastest Mouse Clicker for Windows | Official Download
         es: El Clicker de Ratón Más Rápido para Windows | Descarga Oficial
+        pt: O Mais Rápido Mouse Clicker para Windows | Download oficial
     description:
         en: The fastest auto-clicker for Windows PC. 100000 clicks per second reached by arrayed Win32 SendInput(). GUI, command line, record/play sequences of clicks
         es: El clicker automático más rápido para Windows PC. 100000 clics por segundo por Win32 SendInput(). GUI, línea de comandos, secuencias de grabación/reproducción
+        pt: O clique automático mais rápido para Windows PC. 100000 cliques por segundo alcançado por Win32 SendInput(arrayed). GUI, linha de comando, sequências de registro/jogo de cliques
     description_rich:
         en: The fastest auto-clicker for Windows PC. 100000 clicks per second reached by arrayed Win32 <a href="https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a>. GUI, command line, random clicks, and record/play sequences of clicks
         es: El clicker automático más rápido para Windows PC. 100000 clics por segundo alcanzados por Win32 <a href="https://learn.microsoft.com/es-es/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a> en matriz. GUI, línea de comandos, clics aleatorios y secuencias de clics de grabación/reproducción
+        pt: O clique automático mais rápido para Windows PC. 100000 cliques por segundo alcançado por Win32 <a href="https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput(arrayed)</a>. GUI, linha de comando, sequências de registro/jogo de cliques
     download_the_latest_version:
         en: Download the latest version
         es: Descarga la última versión
+        pt: Baixe a versão mais recente
     html_lang:
         en: en-US
         es: es-ES
+        pt: pt-PT
     read_text:
         en: read
         es: lee
+        pt: ler
     mirror_text:
         en: mirror
         es: espejo
+        pt: espelho
     follow_text:
         en: Follow
-        es: Seguir
+        es: Sigue
+        pt: Siga
     changelog_text:
         en: ChangeLog
         es: RegistroDeCambios
+        pt: AlterarORegisto
     updated_text:
         en: Updated
         es: Actualizado
+        pt: Atualizado
     updated_month:
         en: Dec
         es: Diciembre
+        pt: Dezembro
     lang_countries:
         en:
             -
@@ -98,3 +119,8 @@ t:
                 name: co
             -
                 name: cl
+        pt:
+            -
+                name: pt
+            -
+                name: br
