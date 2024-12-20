@@ -9,7 +9,7 @@ description_rich: Desenvolvedor do mais rápido mouse Clicker para Windows PC qu
 
 ### {{ page.description_rich | default: site.t['description_rich'][page.lang] }}
 
-> Atualizado: Dezembro 19 2024. As novas capturas de tela do Windows 11 22H2 foram adicionadas. Espanhol, localização [Espanhola](https://windows-2048.github.io/es/), [Portuguesa](https://windows-2048.github.io/pt/) do site está pronto. A captura de tela do novo desenvolvedor do trailer para o Fastest Mouse Clicker v3.0.0.0 foi adicionada (veja [ali](https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/index.html#TheFastestMouseClickerQt){:target="_blank"}). O que os nossos parceiros [dizem](https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/index.html#Partners){:target="_blank"} sobre a famosa ferramenta de software.
+> Atualizado: Dezembro 20 2024. As novas capturas de tela do Windows 11 22H2 foram adicionadas. Espanhol, localização [Espanhola](https://windows-2048.github.io/es/), [Portuguesa](https://windows-2048.github.io/pt/) do site está pronto. A captura de tela do novo desenvolvedor do trailer para o Fastest Mouse Clicker v3.0.0.0 foi adicionada (veja [ali](https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/index.html#TheFastestMouseClickerQt){:target="_blank"}). O que os nossos parceiros [dizem](https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/index.html#Partners){:target="_blank"} sobre a famosa ferramenta de software.
 
 #### 2024 é o 8o aniversário do projeto
 
@@ -25,7 +25,7 @@ em [GitHub](https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Window
 
 ## Meus Projetos
 
-* [{{ site.t['app_name'][page.lang] }} (em Espanhol)](https://windows-2048.github.io/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/){:target="_blank"}
+* [{{ site.t['app_name'][page.lang] }}](https://windows-2048.github.io/pt/O-Mais-Rapido-Mouse-Clicker-para-Windows/){:target="_blank"}
 * [2048 Profissional de jogo para Windows (em Inglês)](https://github.com/windows-2048/2048-Game-Professional-for-Windows){:target="_blank"}
 
 ### Bem-vindo ao download e instalar meu produto principal!
