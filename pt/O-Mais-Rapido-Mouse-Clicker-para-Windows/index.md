@@ -1,6 +1,6 @@
 ---
 i18n-link: the-fastest-mouse-clicker-for-windows
-title: O Mais Rápido Mouse Clicker para Windows | Download oficial
+title: O Mais Rápido Mouse Clicker para Windows | Baixar oficial
 description: O clique automático mais rápido para Windows PC. 100000 cliques por segundo alcançado por Win32 SendInput(arrayed). GUI, linha de comando, sequências de registro/jogo de cliques
 description_rich: O clique automático mais rápido para Windows PC. 100000 cliques por segundo alcançado por Win32 <a href="https://learn.microsoft.com/pt-br/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a>. GUI, linha de comando, sequências de registro/jogo de cliques
 ---
