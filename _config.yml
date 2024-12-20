@@ -65,7 +65,7 @@ t:
     description_rich:
         en: The fastest auto-clicker for Windows PC. 100000 clicks per second reached by arrayed Win32 <a href="https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a>. GUI, command line, random clicks, and record/play sequences of clicks
         es: El clicker automático más rápido para Windows PC. 100000 clics por segundo alcanzados por Win32 <a href="https://learn.microsoft.com/es-es/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a> en matriz. GUI, línea de comandos, clics aleatorios y secuencias de clics de grabación/reproducción
-        pt: O clique automático mais rápido para Windows PC. 100000 cliques por segundo alcançado por Win32 <a href="https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput(arrayed)</a>. GUI, linha de comando, sequências de registro/jogo de cliques
+        pt: O clique automático mais rápido para Windows PC. 100000 cliques por segundo alcançado por Win32 <a href="https://learn.microsoft.com/pt-br/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a>. GUI, linha de comando, sequências de registro/jogo de cliques
     download_the_latest_version:
         en: Download the latest version
         es: Descarga la última versión
