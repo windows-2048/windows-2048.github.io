@@ -1,15 +1,15 @@
 ---
 i18n-link: the-fastest-mouse-clicker-for-windows
 title: O Mais Rápido Mouse Clicker para Windows | Baixar oficial
-description: O clique automático mais rápido para Windows PC. 100000 cliques por segundo alcançado por Win32 SendInput(arrayed). GUI, linha de comando, sequências de registro/jogo de cliques
-description_rich: O clique automático mais rápido para Windows PC. 100000 cliques por segundo alcançado por Win32 <a href="https://learn.microsoft.com/pt-br/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a>. GUI, linha de comando, sequências de registro/jogo de cliques
+description: O clique automático mais rápido para Windows PC. 100000 cliques por segundo alcançado por Win32 array-SendInput(). GUI, linha de comando, outros recursos
+description_rich: O clique automático mais rápido para Windows PC. 100000 cliques por segundo alcançado por Win32 array-<a href="https://learn.microsoft.com/pt-br/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a>. GUI, linha de comando, outros recursos
 ---
 
 ## {{ page.title | default: site.t['title'][page.lang] }}
 
 ### {{ page.description_rich | default: site.t['description_rich'][page.lang] }}
 
-> Atualizado: Dezembro 20 2024. As novas capturas de tela do Windows 11 22H2 foram adicionadas. Espanhol, localização [Espanhola](https://windows-2048.github.io/es/), [Portuguesa](https://windows-2048.github.io/pt/) do site está pronto. A captura de tela do novo desenvolvedor do trailer para o Fastest Mouse Clicker v3.0.0.0 foi adicionada (veja [ali](https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/index.html#TheFastestMouseClickerQt){:target="_blank"}). O que os nossos parceiros [dizem](https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/index.html#Partners){:target="_blank"} sobre a famosa ferramenta de software.
+> Atualizado: Dezembro 24 2024. As novas capturas de tela do Windows 11 22H2 foram adicionadas. Espanhol, localização [Espanhola](https://windows-2048.github.io/es/), [Portuguesa](https://windows-2048.github.io/pt/) do site está pronto. A captura de tela do novo desenvolvedor do trailer para o Fastest Mouse Clicker v3.0.0.0 foi adicionada (veja [ali](https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/index.html#TheFastestMouseClickerQt){:target="_blank"}). O que os nossos parceiros [dizem](https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/index.html#Partners){:target="_blank"} sobre a famosa ferramenta de software.
 
 Em 2024 meu projeto flagman {{ site.t['title'][page.lang] }} celebra o 8o aniversário! Você pode baixar e instalar
 a nova versão 2.6.1.1
@@ -75,6 +75,18 @@ Os aplicativos de auto clicker de mouse automatizam tarefas repetitivas e são u
 - **Uso em Nível Empresarial**: Empresas utilizam auto clickers para tarefas como testes automatizados e marketing digital, integrando-os em estratégias de automação mais amplas.
 
 Essas diferenças regionais destacam como contextos culturais e econômicos influenciam a adoção e utilização de aplicativos de auto clicker em todo o mundo.
+
+### Todas as versões futuras do Mouse Mais Rápido Clicker para Windows será cross-platform e feito com Qt
+
+Primeiro, eu compilei uma construção de tempo de execução minimalista, estática de 64 bits de Qt v5.15.5 (LTS) feita para Windows 7 a 11 sob o compilador MSVC 2019.
+
+Definir opções:
+
+```
+C:\qt-src-5.15.5\configure -static -static-runtime -qt-zlib -qt-libjpeg -qt-libpng -qt-freetype -qt-pcre -qt-harfbuzz -no-sse4.1 -no-sse4.2 -no-avx2 -no-avx512 -no-pch -no-ssl -no-openssl -no-opengl -qpa windows -confirm-license -opensource -release -make libs -make tools -prefix c:/qt-5.15.5-static
+```
+
+Faça o download [qt-5.15.5-static.zip](https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/qt-5.15.5-static.zip).
 
 ## Direitos autorais
 

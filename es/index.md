@@ -9,7 +9,7 @@ description_rich: Desarrollador del clicker de ratón más rápido para PC con W
 
 ### {{ page.description_rich | default: site.t['description_rich'][page.lang] }}
 
-> Actualizado: Diciembre 20 2024. Nuevas capturas de pantalla de Windows 11 22H2 se han añadido. La localización [Española](https://windows-2048.github.io/es/), [Portuguesa](https://windows-2048.github.io/pt/) del sitio está lista. Se ha añadido la captura de pantalla del nuevo desarrollador de remolque para The Fastest Mouse Clicker v3.0.0.0 (mira [ahí](https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/index.html#TheFastestMouseClickerQt){:target="_blank"}). ¿Qué hacen nuestros socios [dicen](https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/index.html#Partners){:target="_blank"} sobre la famosa herramienta de software.
+> Actualizado: Diciembre 24 2024. Nuevas capturas de pantalla de Windows 11 22H2 se han añadido. La localización [Española](https://windows-2048.github.io/es/), [Portuguesa](https://windows-2048.github.io/pt/) del sitio está lista. Se ha añadido la captura de pantalla del nuevo desarrollador de remolque para The Fastest Mouse Clicker v3.0.0.0 (mira [ahí](https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/index.html#TheFastestMouseClickerQt){:target="_blank"}). ¿Qué hacen nuestros socios [dicen](https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/index.html#Partners){:target="_blank"} sobre la famosa herramienta de software.
 
 #### 2024 es el 8º aniversario del proyecto
 
