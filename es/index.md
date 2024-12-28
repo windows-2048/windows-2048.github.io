@@ -9,7 +9,7 @@ description_rich: Desarrollador del clicker de ratón más rápido para PC con W
 
 ### {{ page.description_rich | default: site.t['description_rich'][page.lang] }}
 
-> Actualizado: Diciembre 24 2024. Nuevas capturas de pantalla de Windows 11 22H2 se han añadido. La localización [Española](https://windows-2048.github.io/es/), [Portuguesa](https://windows-2048.github.io/pt/) del sitio está lista. Se ha añadido la captura de pantalla del nuevo desarrollador de remolque para The Fastest Mouse Clicker v3.0.0.0 (mira [ahí](https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/index.html#TheFastestMouseClickerQt){:target="_blank"}). ¿Qué hacen nuestros socios [dicen](https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/index.html#Partners){:target="_blank"} sobre la famosa herramienta de software.
+Actualizado: 28 de Diciembre 2024. Añadido largo esperado puntas de herramientas para las teclas de activación: ahora se muestran los códigos clave virtuales y sus nombres.
 
 #### 2024 es el 8º aniversario del proyecto
 
@@ -32,13 +32,14 @@ en [GitHub](https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Window
 
 <a href="{{ site.download_link_main }}" class="btn btn--stripe">Descargar {{ site.t['app_name'][page.lang] }} versión {{ site.app_version }}</a>
 
-SHA256(Install_TheFastestMouseClicker_2.6.1.1.exe)= d9c80324b7994e86dcf3c6988008feca2e5e2fd164c2e9f09991ac772aebe2cf
+SHA256(Install_TheFastestMouseClicker_2.6.2.0.exe)= 7ef7b0bfe1bebbe67aad88b183dc45487cc3036f9c98c35aff72b45d170cfebf
 
 <a name="ChangeLog"></a>
 ### Novedades - La última versión&nbsp;{{ site.app_version }}
 
 #### RegistroDeCambios
 
+* Añadido largo esperado puntas de herramientas para las teclas de activación.
 * Indicador de posición actual del ratón obtiene color verde claro.
 * Larga espera nueva función CLIC DE POSICIÓN FIJA.
 * Se corrigieron los textos GUI borrosos en pantallas 4K.
@@ -77,4 +78,4 @@ Estas diferencias regionales reflejan cómo la tecnología se adapta a contextos
 
 ## Derechos de autor
 
-Derechos de autor (c) 2016-2024 por {{ site.t['author_name'][page.lang] }}.
+Derechos de autor (c) 2016-2025 por {{ site.t['author_name'][page.lang] }}.

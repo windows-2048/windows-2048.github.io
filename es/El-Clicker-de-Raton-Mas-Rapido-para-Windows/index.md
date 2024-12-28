@@ -9,15 +9,9 @@ description_rich: El clicker automático más rápido para Windows PC. 100000 cl
 
 ### {{ page.description_rich | default: site.t['description_rich'][page.lang] }}
 
-Actualizado: 24 de Diciembre de 2024. Se agregaron nuevas capturas de pantalla de Windows 11 22H2. La localización en español del sitio está LISTO.
-Se ha agregado una nueva captura de pantalla del desarrollador del tráiler para The Fastest Mouse Clicker v3.0.0.0 (ver [allí](index.html#TheFastestMouseClickerQt)).
-¿Qué [dicen](index.html#Partners) nuestros socios sobre la famosa herramienta de software?
+Actualizado: 28 de Diciembre 2024. Añadido largo esperado puntas de herramientas para las teclas de activación: ahora se muestran los códigos clave virtuales y sus nombres.
 
 #### 2024 es el 8º aniversario del proyecto
-
-¡En 2024, mi proyecto flagman {{ site.t['title'][page.lang] }} celebra el 8° aniversario! Puede descargar e instalar
-relanzamiento 2.6.1.1 del aniversario
-en [GitHub](https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows/releases/tag/v2.6.1.1){:target="_blank"}.
 
 <a name="QuickStart"></a>
 ## Inicio Rápido
@@ -26,34 +20,35 @@ en [GitHub](https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Window
 
 <a href="{{ site.download_link_main }}" class="btn btn--stripe">Descargar {{ site.t['app_name'][page.lang] }} versión {{ site.app_version }}</a>
 
-SHA256(Install_TheFastestMouseClicker_2.6.1.1.exe)= d9c80324b7994e86dcf3c6988008feca2e5e2fd164c2e9f09991ac772aebe2cf
+SHA256(Install_TheFastestMouseClicker_2.6.2.0.exe)= 7ef7b0bfe1bebbe67aad88b183dc45487cc3036f9c98c35aff72b45d170cfebf
 
 <a name="ChangeLog"></a>
 ### Novedades - La última versión&nbsp;{{site.app_version}}
 
-<p>
-Aquí hay un breve video de introducción que explica cómo descargar e instalar {{ site.t['app_name'][page.lang] }} en 2024-2025.
- <video style="outline:none; width:100%; height:100%;" controls preload="none" poster="../../The-Fastest-Mouse-Clicker-for-Windows/videos/TFMCfW_intro_2024.jpg">
-  <source src="../../The-Fastest-Mouse-Clicker-for-Windows/videos/TFMCfW_intro_2024.mp4" type="video/mp4"/>
-  Su navegador no soporta la etiqueta de video.
-</video>
-<a href="https://youtu.be/BwB65SpH3-I" target="_blank">Mire la introducción a {{ site.t['app_name'][page.lang] }} en Youtube.</a>
-</p>
-
 Aplicación "Única" | Aplicación "Grupo"
 ----- | -----
-![{{ site.t['app_name'][page.lang] }} versión 2.6.1.1: Aplicación "Única"](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.1/tfmcfw_singleapp_v2.6.1.1.png) | ![{{ site.t['app_name'][page.lang] }} versión 2.6.1.1: Aplicación "Grupo"](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.1/tfmcfw_groupapp_v2.6.1.1.png)
+![{{ site.t['app_name'][page.lang] }} versión 2.6.2.0: Aplicación "Única"](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.2.0/TFMCfW_v2.6.2.0.png) | ![{{ site.t['app_name'][page.lang] }} versión 2.6.2.0: Aplicación "Grupo"](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.2.0/TFMCfW_g_v2.6.2.0.png)
 ![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Aplicación "Única" en Windows 11](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-sapp.jpg) | ![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Aplicación "Grupo" en Windows 11](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-gapp.jpg)
 
 #### RegistroDeCambios
 
-* LA NUEVA VERSIÓN 2.6.1.1 INCORPORA LOS ESPERADOS CAMPOS GUI DE POSICIÓN DEL RATÓN DE COLORES Y PEQUEÑAS CORRECCIONES DE ERRORES.
-* Indicador de posición actual del mouse en vivo.
+* Añadido largo esperado puntas de herramientas para las teclas de activación.
+* Indicador de posición actual del ratón obtiene color verde claro.
+* Larga espera nueva función CLIC DE POSICIÓN FIJA.
 * Se corrigieron los textos GUI borrosos en pantallas 4K.
 * Se corrigió la pregunta incorrecta sobre el cierre de la aplicación anterior durante la instalación.
 * Algunas correcciones de errores menores.
 
 ¿Encontraste un error o quieres una nueva función? ¡Cree el [problema]({{ site.source_issues_url }}){:target="_blank"}!
+
+<p>
+Aquí hay un breve video de introducción que explica cómo descargar e instalar {{ site.t['app_name'][page.lang] }} en 2024-2025.
+ <video style="outline:none; width:100%; height:100%;" controls preload="none" poster="/The-Fastest-Mouse-Clicker-for-Windows/videos/TFMCfW_intro_2024.jpg">
+  <source src="/The-Fastest-Mouse-Clicker-for-Windows/videos/TFMCfW_intro_2024.mp4" type="video/mp4"/>
+  Su navegador no soporta la etiqueta de video.
+</video>
+<a href="https://youtu.be/BwB65SpH3-I" target="_blank">Mire la introducción a {{ site.t['app_name'][page.lang] }} en Youtube.</a>
+</p>
 
 ### Advertencia
 
@@ -943,4 +938,4 @@ SHA256(Install_TheFastestMouseClicker_2.0.0.0.exe)= c12fbeee1a12ce598bcd1f6b3987
 <a name="Contacts"></a>
 ## Contactos
 
-#### Derechos de autor (c) 2016-2024 de [{{ site.t['author_name'][page.lang] }}]({{ site.prod-url }}{{ site.t['home'][page.lang] }}){:target="_blank"}
+#### Derechos de autor (c) 2016-2025 de [{{ site.t['author_name'][page.lang] }}]({{ site.prod-url }}{{ site.t['home'][page.lang] }}){:target="_blank"}

@@ -9,15 +9,9 @@ description_rich: The fastest auto-clicker for Windows PC. 100000 clicks per sec
 
 ### {{ page.description_rich | default: site.t['description_rich'][page.lang] }}
 
-> Updated: Dec 24 2024. Brand new Windows 11 22H2 screenshots have been added. Spanish localization of the site is READY | La localización en español del sitio está [LISTO](https://windows-2048.github.io/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/).
-New trailer developer's screenshot for The Fastest Mouse Clicker v3.0.0.0 has been added (see [below](index.html#TheFastestMouseClickerQt)).
-What do our partners [tell](index.html#Partners) about the famous software tool.
+> Updated: Dec 28 2024. Added long-awaited tooltips for the trigger keys: now both virtual key codes and their names are displayed.
 
 #### 2024 is the project's 8th anniversary
-
-In 2024 my flagman project {{ site.t['title'][page.lang] }} celebrates the 8th anniversary! You can download and install
-the new version 2.6.1.1
-at [GitHub](https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows/releases/tag/v2.6.1.1){:target="_blank"}.
 
 <a name="QuickStart"></a>
 ## Quick Start
@@ -26,34 +20,35 @@ at [GitHub](https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Window
 
 <a href="{{ site.download_link_main }}" class="btn btn--stripe">Download {{ site.t['app_name'][page.lang] }} version {{ site.app_version }}</a>
 
-SHA256(Install_TheFastestMouseClicker_2.6.1.1.exe)= d9c80324b7994e86dcf3c6988008feca2e5e2fd164c2e9f09991ac772aebe2cf
+SHA256(Install_TheFastestMouseClicker_2.6.2.0.exe)= 7ef7b0bfe1bebbe67aad88b183dc45487cc3036f9c98c35aff72b45d170cfebf
 
 <a name="ChangeLog"></a>
 ### What's New - The latest version&nbsp;{{ site.app_version }}
 
-<p>
-Here is a short intro video that tells how to download and install {{ site.t['app_name'][page.lang] }} in 2024-2025.
- <video style="outline:none; width:100%; height:100%;" controls preload="none" poster="videos/TFMCfW_intro_2024.jpg">
-  <source src="videos/TFMCfW_intro_2024.mp4" type="video/mp4"/>
-  Your browser does not support the video tag.
-</video>
-<a href="https://youtu.be/BwB65SpH3-I" target="_blank">Watch intro to {{ site.t['app_name'][page.lang] }} in Youtube.</a>
-</p>
-
 "Single" application | "Group" application
 ----- | -----
-![{{ site.t['app_name'][page.lang] }} version 2.6.1.1: "Single" application](screenshots_new/v2.6.1.1/tfmcfw_singleapp_v2.6.1.1.png) | ![{{ site.t['app_name'][page.lang] }} version 2.6.1.1: "Group" application](screenshots_new/v2.6.1.1/tfmcfw_groupapp_v2.6.1.1.png)
+![{{ site.t['app_name'][page.lang] }} version 2.6.2.0: "Single" application](screenshots_new/v2.6.2.0/TFMCfW_v2.6.2.0.png) | ![{{ site.t['app_name'][page.lang] }} version 2.6.2.0: "Group" application](screenshots_new/v2.6.2.0/TFMCfW_g_v2.6.2.0.png)
 ![{{ site.t['app_name'][page.lang] }} version 2.6.1.0: "Single" application on Windows 11](screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-sapp.jpg) | ![{{ site.t['app_name'][page.lang] }} version 2.6.1.0: "Group" application on Windows 11](screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-gapp.jpg)
 
 #### ChangeLog
 
-* NEW VERSION 2.6.1.1 INCORPORATES LONG AWAITED COLORED MOUSE POSITION GUI FIELDS AND SMALL BUG FIXES.
+* Added long-awaited tooltips for the trigger keys.
+* Live current mouse position indicator gets light green color.
 * Long waiting new feature FIXED POSITION CLICKING.
 * Fixed blurred GUI texts on 4K screens.
 * Fixed wrong question about close old application during installation.
 * Few minor bug fixes.
 
 Found a bug or want a new feature? Create the [issue]({{ site.source_issues_url }}){:target="_blank"}!
+
+<p>
+Here is a short intro video that tells how to download and install {{ site.t['app_name'][page.lang] }} in 2024-2025.
+ <video style="outline:none; width:100%; height:100%;" controls preload="none" poster="/The-Fastest-Mouse-Clicker-for-Windows/videos/TFMCfW_intro_2024.jpg">
+  <source src="/The-Fastest-Mouse-Clicker-for-Windows/videos/TFMCfW_intro_2024.mp4" type="video/mp4"/>
+  Your browser does not support the video tag.
+</video>
+<a href="https://youtu.be/BwB65SpH3-I" target="_blank">Watch intro to {{ site.t['app_name'][page.lang] }} in Youtube.</a>
+</p>
 
 ### Warning
 
@@ -942,4 +937,4 @@ SHA256(Install_TheFastestMouseClicker_2.0.0.0.exe)= c12fbeee1a12ce598bcd1f6b3987
 <a name="Contacts"></a>
 ## Contacts
 
-#### Copyright (c) 2016-2024 by [{{ site.t['author_name'][page.lang] }}]({{ site.prod-url }}{{ site.t['home'][page.lang] }}){:target="_blank"}
+#### Copyright (c) 2016-2025 by [{{ site.t['author_name'][page.lang] }}]({{ site.prod-url }}{{ site.t['home'][page.lang] }}){:target="_blank"}
