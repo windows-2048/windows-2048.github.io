@@ -28,7 +28,7 @@ Os instaladores do Windows são feitos para sua conveniência por ferramenta ope
 
 <a href="{{ site.download_link_main }}" class="btn btn--stripe">Baixar {{ site.t['app_name'][page.lang] }} versão {{ site.app_version }}</a>
 
-SHA256(Install_TheFastestMouseClicker_2.6.2.0.exe)= 7ef7b0bfe1bebbe67aad88b183dc45487cc3036f9c98c35aff72b45d170cfebf
+SHA256({{ site.download_exe_name }})= {{ site.download_exe_sha256 }}
 
 <a name="ChangeLog"></a>
 ### O que há de novo? A versão mais recente&nbsp;{{ site.app_version }}

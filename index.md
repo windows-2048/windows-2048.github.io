@@ -28,7 +28,7 @@ Windows installers are made for your convenience by open source tool [Inno Setup
 
 <a href="{{ site.download_link_main }}" class="btn btn--stripe">Download {{ site.t['app_name'][page.lang] }} version {{ site.app_version }}</a>
 
-SHA256(Install_TheFastestMouseClicker_2.6.2.0.exe)= 7ef7b0bfe1bebbe67aad88b183dc45487cc3036f9c98c35aff72b45d170cfebf
+SHA256({{ site.download_exe_name }})= {{ site.download_exe_sha256 }}
 
 <a name="ChangeLog"></a>
 ### What's New - The latest version&nbsp;{{site.app_version}}

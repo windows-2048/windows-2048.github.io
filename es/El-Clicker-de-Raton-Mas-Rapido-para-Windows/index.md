@@ -20,7 +20,7 @@ Actualizado: 28 de Diciembre 2024. Añadido largo esperado puntas de herramienta
 
 <a href="{{ site.download_link_main }}" class="btn btn--stripe">Descargar {{ site.t['app_name'][page.lang] }} versión {{ site.app_version }}</a>
 
-SHA256(Install_TheFastestMouseClicker_2.6.2.0.exe)= 7ef7b0bfe1bebbe67aad88b183dc45487cc3036f9c98c35aff72b45d170cfebf
+SHA256({{ site.download_exe_name }})= {{ site.download_exe_sha256 }}
 
 <a name="ChangeLog"></a>
 ### Novedades - La última versión&nbsp;{{site.app_version}}
