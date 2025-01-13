@@ -11,7 +11,7 @@ description_rich: El clicker automático más rápido para Windows PC. 100000 cl
 
 Actualizado: 13 de Enero 2025. Añadido largo esperado puntas de herramientas para las teclas de activación: ahora se muestran los códigos clave virtuales y sus nombres.
 
-#### 2024 es el 8º aniversario del proyecto
+#### 2025 es el 9º aniversario del proyecto
 
 <a name="QuickStart"></a>
 ## Inicio Rápido

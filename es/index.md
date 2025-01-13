@@ -11,17 +11,13 @@ description_rich: Desarrollador del clicker de ratón más rápido para PC con W
 
 Actualizado: 13 de Enero 2025. Añadido largo esperado puntas de herramientas para las teclas de activación: ahora se muestran los códigos clave virtuales y sus nombres.
 
-#### 2024 es el 8º aniversario del proyecto
+#### 2025 es el 9º aniversario del proyecto
 
 ¡Hola! Mi nombre es [Masha Novedad](https://windows-2048.github.io/resume/){:target="_blank"}. Soy programador de código abierto desde 2016.
 Escribo en Vanilla C++.
 Soy autor de {{ site.t['app_name'][page.lang] }}.
 Todas mis aplicaciones son compactas, independientes y estáticamente vinculadas, por lo que no tienen dependencias externas.
 Los instaladores de Windows se crean para su comodidad mediante la herramienta de código abierto [Inno Setup](https://jrsoftware.org/isinfo.php){:target="_blank"}.
-
-¡En 2024, mi proyecto flagman {{ site.t['title'][page.lang] }} celebra el 8° aniversario! Puede descargar e instalar
-relanzamiento 2.6.1.1 del aniversario
-en [GitHub](https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows/releases/tag/v2.6.1.1){:target="_blank"}.
 
 ## Mis Proyectos
 

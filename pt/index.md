@@ -11,7 +11,7 @@ description_rich: Desenvolvedor do mais rápido mouse Clicker para Windows PC qu
 
 Atualizado: 13 de Janeiro de 2025. Adicionado pontas de ferramenta esperada longas para as chaves do gatilho: agora ambos os códigos de chave virtual e seus nomes são exibidos.
 
-#### 2024 é o 8o aniversário do projeto
+#### 2025 é o 9o aniversário do projeto
 
 Olá! Meu nome é [Masha Novedad](https://windows-2048.github.io/resume/){:target="_blank"}. Sou programador de código aberto desde 2016.
 Escrevo em baunilha C++.

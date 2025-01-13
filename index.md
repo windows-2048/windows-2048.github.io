@@ -11,7 +11,7 @@ description_rich: Developer of The Fastest Mouse Clicker for Windows PC that ach
 
 > Updated: Jan 13 2025. Added long-awaited tooltips for the trigger keys: now both virtual key codes and their names are displayed.
 
-#### 2024 is the project's 8th anniversary
+#### 2025 is the project's 9th anniversary
 
 Hi! My name is [Masha Novedad](https://windows-2048.github.io/resume/){:target="_blank"}. I am open source programmer since 2016.
 I write in vanilla C++.

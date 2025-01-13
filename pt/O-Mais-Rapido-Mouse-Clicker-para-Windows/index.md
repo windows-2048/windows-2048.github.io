@@ -11,10 +11,12 @@ description_rich: O clique automático mais rápido para Windows PC. 100000 cliq
 
 Atualizado: 13 de Janeiro de 2025. Adicionado pontas de ferramenta esperada longas para as chaves do gatilho: agora ambos os códigos de chave virtual e seus nomes são exibidos.
 
+#### 2025 é o 9o aniversário do projeto
+
 <a name="QuickStart"></a>
 ## Início Rápido
 
-## Bem-vindo ao download e instalar meu produto principal!
+### Bem-vindo ao download e instalar meu produto principal!
 
 <a href="{{ site.download_link_main }}" class="btn btn--stripe">Baixar {{ site.t['app_name'][page.lang] }} versão {{ site.app_version }}</a>
 
