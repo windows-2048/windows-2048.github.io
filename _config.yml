@@ -3,18 +3,18 @@ encoding: UTF-8
 
 prod-url: https://windows-2048.github.io
 
-github_star_counter: 161
+github_star_counter: 166
 github_fork_counter: 32
-total_download_counter: 41081680
-total_rating_counter: 4.8
-upd_day_year: 28 2024
+total_download_counter: 41984637
+total_rating_counter: 4.7
+upd_day_year: 13 2025
 
 download_link_main: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/The-Fastest-Mouse-Clicker-for-Windows/Install_TFMCfW_v2.6.2.0.exe
 download_link_mirror: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/The-Fastest-Mouse-Clicker-for-Windows/Install_TFMCfW_v2.6.2.0.exe
 download_exe_name: Install_TFMCfW_v2.6.2.0.exe
 download_exe_sha256: cc9f2fd7323d65a2d3b8b8dfc3ef1c5d223ae6f7756795708d18f5edb066d079
 app_version: 2.6.2.0
-date_published: 2024-12-28
+date_published: 2025-01-13
 source_issues_url: https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows/issues/
 
 defaults:
@@ -97,9 +97,9 @@ t:
         es: Actualizado
         pt: Atualizado
     updated_month:
-        en: Dec
-        es: Diciembre
-        pt: Dezembro
+        en: Jan
+        es: Enero
+        pt: Janeiro
     lang_countries:
         en:
             -

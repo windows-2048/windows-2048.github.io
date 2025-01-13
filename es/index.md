@@ -9,7 +9,7 @@ description_rich: Desarrollador del clicker de ratón más rápido para PC con W
 
 ### {{ page.description_rich | default: site.t['description_rich'][page.lang] }}
 
-Actualizado: 28 de Diciembre 2024. Añadido largo esperado puntas de herramientas para las teclas de activación: ahora se muestran los códigos clave virtuales y sus nombres.
+Actualizado: 13 de Enero 2025. Añadido largo esperado puntas de herramientas para las teclas de activación: ahora se muestran los códigos clave virtuales y sus nombres.
 
 #### 2024 es el 8º aniversario del proyecto
 

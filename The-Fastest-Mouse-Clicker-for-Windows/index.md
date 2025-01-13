@@ -9,7 +9,7 @@ description_rich: The fastest auto-clicker for Windows PC. 100000 clicks per sec
 
 ### {{ page.description_rich | default: site.t['description_rich'][page.lang] }}
 
-> Updated: Dec 28 2024. Added long-awaited tooltips for the trigger keys: now both virtual key codes and their names are displayed.
+> Updated: Jan 13 2025. Added long-awaited tooltips for the trigger keys: now both virtual key codes and their names are displayed.
 
 #### 2024 is the project's 8th anniversary
 

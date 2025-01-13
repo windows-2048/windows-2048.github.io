@@ -9,7 +9,7 @@ description_rich: Desenvolvedor do mais rápido mouse Clicker para Windows PC qu
 
 ### {{ page.description_rich | default: site.t['description_rich'][page.lang] }}
 
-Atualizado: 28 de Dezembro de 2024. Adicionado pontas de ferramenta esperada longas para as chaves do gatilho: agora ambos os códigos de chave virtual e seus nomes são exibidos.
+Atualizado: 13 de Janeiro de 2025. Adicionado pontas de ferramenta esperada longas para as chaves do gatilho: agora ambos os códigos de chave virtual e seus nomes são exibidos.
 
 #### 2024 é o 8o aniversário do projeto
 

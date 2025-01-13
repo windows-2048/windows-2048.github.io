@@ -9,7 +9,7 @@ description_rich: O clique automático mais rápido para Windows PC. 100000 cliq
 
 ### {{ page.description_rich | default: site.t['description_rich'][page.lang] }}
 
-Atualizado: 28 de Dezembro de 2024. Adicionado pontas de ferramenta esperada longas para as chaves do gatilho: agora ambos os códigos de chave virtual e seus nomes são exibidos.
+Atualizado: 13 de Janeiro de 2025. Adicionado pontas de ferramenta esperada longas para as chaves do gatilho: agora ambos os códigos de chave virtual e seus nomes são exibidos.
 
 <a name="QuickStart"></a>
 ## Início Rápido
