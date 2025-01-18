@@ -9,7 +9,7 @@ description_rich: Developer of The Fastest Mouse Clicker for Windows PC that ach
 
 ### {{ page.description_rich | default: site.t['description_rich'][page.lang] }}
 
-> Updated: Jan 13 2025. Added long-awaited tooltips for the trigger keys: now both virtual key codes and their names are displayed.
+> Updated: Jan 17 2025. Added long-awaited tooltips for the trigger keys: now both virtual key codes and their names are displayed.
 
 #### 2025 is the project's 9th anniversary
 
