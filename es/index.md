@@ -9,7 +9,7 @@ description_rich: Desarrollador del clicker de ratón más rápido para PC con W
 
 ### {{ page.description_rich | default: site.t['description_rich'][page.lang] }}
 
-Actualizado: 17 de Enero 2025. Añadido largo esperado puntas de herramientas para las teclas de activación: ahora se muestran los códigos clave virtuales y sus nombres.
+Actualizado: 31 de Enero 2025. Añadido largo esperado puntas de herramientas para las teclas de activación: ahora se muestran los códigos clave virtuales y sus nombres.
 
 #### 2025 es el 9º aniversario del proyecto
 
@@ -28,7 +28,7 @@ Los instaladores de Windows se crean para su comodidad mediante la herramienta d
 
 <a href="{{ site.download_link_main }}" class="btn btn--stripe">Descargar {{ site.t['app_name'][page.lang] }} versión {{ site.app_version }}</a>
 
-SHA256({{ site.download_exe_name }})= {{ site.download_exe_sha256 }}
+
 
 <a name="ChangeLog"></a>
 ### Novedades - La última versión&nbsp;{{ site.app_version }}

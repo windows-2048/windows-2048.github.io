@@ -9,7 +9,7 @@ description_rich: O clique automático mais rápido para Windows PC. 100000 cliq
 
 ### {{ page.description_rich | default: site.t['description_rich'][page.lang] }}
 
-Atualizado: 17 de Janeiro de 2025. Adicionado pontas de ferramenta esperada longas para as chaves do gatilho: agora ambos os códigos de chave virtual e seus nomes são exibidos.
+Atualizado: 31 de Janeiro de 2025. Adicionado pontas de ferramenta esperada longas para as chaves do gatilho: agora ambos os códigos de chave virtual e seus nomes são exibidos.
 
 #### 2025 é o 9o aniversário do projeto
 
@@ -20,7 +20,7 @@ Atualizado: 17 de Janeiro de 2025. Adicionado pontas de ferramenta esperada long
 
 <a href="{{ site.download_link_main }}" class="btn btn--stripe">Baixar {{ site.t['app_name'][page.lang] }} versão {{ site.app_version }}</a>
 
-SHA256({{ site.download_exe_name }})= {{ site.download_exe_sha256 }}
+
 
 Aplicação "Única" | Aplicação "de Grupo"
 ----- | -----

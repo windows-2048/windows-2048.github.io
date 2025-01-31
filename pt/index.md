@@ -9,7 +9,7 @@ description_rich: Desenvolvedor do mais rápido mouse Clicker para Windows PC qu
 
 ### {{ page.description_rich | default: site.t['description_rich'][page.lang] }}
 
-Atualizado: 17 de Janeiro de 2025. Adicionado pontas de ferramenta esperada longas para as chaves do gatilho: agora ambos os códigos de chave virtual e seus nomes são exibidos.
+Atualizado: 31 de Janeiro de 2025. Adicionado pontas de ferramenta esperada longas para as chaves do gatilho: agora ambos os códigos de chave virtual e seus nomes são exibidos.
 
 #### 2025 é o 9o aniversário do projeto
 
@@ -28,7 +28,7 @@ Os instaladores do Windows são feitos para sua conveniência por ferramenta ope
 
 <a href="{{ site.download_link_main }}" class="btn btn--stripe">Baixar {{ site.t['app_name'][page.lang] }} versão {{ site.app_version }}</a>
 
-SHA256({{ site.download_exe_name }})= {{ site.download_exe_sha256 }}
+
 
 <a name="ChangeLog"></a>
 ### O que há de novo? A versão mais recente&nbsp;{{ site.app_version }}
