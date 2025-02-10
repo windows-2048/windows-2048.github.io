@@ -9,7 +9,8 @@ description_rich: Desenvolvedor do mais rápido mouse Clicker para Windows PC qu
 
 ### {{ page.description_rich | default: site.t['description_rich'][page.lang] }}
 
-Atualizado: 31 de Janeiro de 2025. Adicionado pontas de ferramenta esperada longas para as chaves do gatilho: agora ambos os códigos de chave virtual e seus nomes são exibidos.
+Atualizado: 10 de Fevereiro de 2025. Adicionado pontas de ferramenta esperada longas para as chaves do gatilho: agora ambos os códigos de chave virtual e seus nomes são exibidos.
+Adicionado o NOVO projeto de modelo MSI do instalador de exemplo.
 
 #### 2025 é o 9o aniversário do projeto
 
@@ -22,6 +23,7 @@ Os instaladores do Windows são feitos para sua conveniência por ferramenta ope
 ## Meus Projetos
 
 * [{{ site.t['app_name'][page.lang] }}](https://windows-2048.github.io/pt/O-Mais-Rapido-Mouse-Clicker-para-Windows/){:target="_blank"}
+* NOVO [Example Installer MSI Template (em Inglês)](https://github.com/windows-2048/Example-Installer-MSI-Template){:target="_blank"}
 * [2048 Profissional de jogo para Windows (em Inglês)](https://github.com/windows-2048/2048-Game-Professional-for-Windows){:target="_blank"}
 
 ### Bem-vindo ao download e instalar meu produto principal!
