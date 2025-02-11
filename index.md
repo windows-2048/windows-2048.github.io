@@ -9,7 +9,7 @@ description_rich: Developer of The Fastest Mouse Clicker for Windows PC that ach
 
 ### {{ page.description_rich | default: site.t['description_rich'][page.lang] }}
 
-> Updated: Feb 10 2025. Added long-awaited tooltips for the trigger keys: now both virtual key codes and their names are displayed.
+> Updated: Feb 11 2025. Added long-awaited tooltips for the trigger keys: now both virtual key codes and their names are displayed.
 Added NEW Example Installer MSI Template project.
 
 #### 2025 is the project's 9th anniversary
@@ -22,8 +22,12 @@ Windows installers are made for your convenience by open source tool [Inno Setup
 
 ## My Projects
 
+<div style="flex: 1; text-align: right;">
+    <img src="screenshot-welcome.png" alt="Magic MSI Installer Template: screenshot-welcome" style="width: 25%; height: auto;" />
+</div>
+
 * [The Fastest Mouse Clicker for Windows](https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/){:target="_blank"}
-* NEW [Example Installer MSI Template](https://github.com/windows-2048/Example-Installer-MSI-Template){:target="_blank"}
+* NEW [Magic MSI Installer Template](https://github.com/windows-2048/Magic-MSI-Installer-Template){:target="_blank"}
 * [2048 Game Professional for Windows](https://github.com/windows-2048/2048-Game-Professional-for-Windows){:target="_blank"}
 
 ### Welcome to download and install my flagship product!

@@ -9,7 +9,7 @@ description_rich: Desarrollador del clicker de ratón más rápido para PC con W
 
 ### {{ page.description_rich | default: site.t['description_rich'][page.lang] }}
 
-Actualizado: 10 de Febrero 2025. Añadido largo esperado puntas de herramientas para las teclas de activación: ahora se muestran los códigos clave virtuales y sus nombres.
+Actualizado: 11 de Febrero 2025. Añadido largo esperado puntas de herramientas para las teclas de activación: ahora se muestran los códigos clave virtuales y sus nombres.
 Se agregó NUEVO proyecto de plantilla MSI de instalador de ejemplo.
 
 #### 2025 es el 9º aniversario del proyecto
@@ -23,7 +23,7 @@ Los instaladores de Windows se crean para su comodidad mediante la herramienta d
 ## Mis Proyectos
 
 * [{{ site.t['app_name'][page.lang] }}](https://windows-2048.github.io/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/){:target="_blank"}
-* NUEVO [Example Installer MSI Template (en Inglés)](https://github.com/windows-2048/Example-Installer-MSI-Template){:target="_blank"}
+* NUEVO [Plantilla de instalación MSI mágica (en Inglés)](https://github.com/windows-2048/Magic-MSI-Installer-Template){:target="_blank"}
 * [2048 Juego Professional para Windows (en Inglés)](https://github.com/windows-2048/2048-Game-Professional-for-Windows){:target="_blank"}
 
 ### ¡Bienvenido a descargar e instalar mi producto estrella!
