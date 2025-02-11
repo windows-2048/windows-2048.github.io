@@ -5,9 +5,9 @@ prod-url: https://windows-2048.github.io
 
 github_star_counter: 169
 github_fork_counter: 33
-total_download_counter: 43087132
+total_download_counter: 43733873
 total_rating_counter: 4.7
-upd_day_year: 31 2025
+upd_day_year: 11 2025
 
 download_link_main: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/The-Fastest-Mouse-Clicker-for-Windows/Jan_31/Install_TFMCfW_rar_sfx_v2.6.2.0.exe
 download_link_mirror: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/The-Fastest-Mouse-Clicker-for-Windows/Jan_31/Install_TFMCfW_rar_sfx_v2.6.2.0.exe
@@ -75,7 +75,7 @@ t:
     html_lang:
         en: en-US
         es: es-ES
-        pt: pt-PT
+        pt: pt-BR
     read_text:
         en: read
         es: lee
@@ -97,9 +97,9 @@ t:
         es: Actualizado
         pt: Atualizado
     updated_month:
-        en: Jan
-        es: Enero
-        pt: Janeiro
+        en: Feb
+        es: Febrero
+        pt: Fevereiro
     lang_countries:
         en:
             -

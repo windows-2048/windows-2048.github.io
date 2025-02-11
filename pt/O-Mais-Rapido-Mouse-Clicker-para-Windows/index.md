@@ -9,7 +9,7 @@ description_rich: O clique automático mais rápido para Windows PC. 100000 cliq
 
 ### {{ page.description_rich | default: site.t['description_rich'][page.lang] }}
 
-Atualizado: 31 de Janeiro de 2025. Adicionado pontas de ferramenta esperada longas para as chaves do gatilho: agora ambos os códigos de chave virtual e seus nomes são exibidos.
+Atualizado: 11 de Fevereiro de 2025. Adicionado pontas de ferramenta esperada longas para as chaves do gatilho: agora ambos os códigos de chave virtual e seus nomes são exibidos.
 
 #### 2025 é o 9o aniversário do projeto
 
@@ -89,6 +89,12 @@ C:\qt-src-5.15.5\configure -static -static-runtime -qt-zlib -qt-libjpeg -qt-libp
 ```
 
 Faça o download [qt-5.15.5-static.zip](https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/qt-5.15.5-static.zip).
+
+* NOVO [Modelo de instalador Magic MSI (em Inglês)](https://github.com/windows-2048/Magic-MSI-Installer-Template){:target="_blank"}
+
+<div style="flex: 1; text-align: left; margin-top: -2vmax;">
+    <img src="/screenshot-welcome.png" alt="Magic MSI Installer Template: screenshot-welcome" style="width: 25%; height: auto;" />
+</div>
 
 ## Direitos autorais
 

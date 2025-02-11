@@ -9,7 +9,7 @@ description_rich: The fastest auto-clicker for Windows PC. 100000 clicks per sec
 
 ### {{ page.description_rich | default: site.t['description_rich'][page.lang] }}
 
-> Updated: Jan 31 2025. Added long-awaited tooltips for the trigger keys: now both virtual key codes and their names are displayed.
+> Updated: Feb 11 2025. Added long-awaited tooltips for the trigger keys: now both virtual key codes and their names are displayed.
 
 #### 2025 is the project's 9th anniversary
 
@@ -69,6 +69,12 @@ C:\qt-src-5.15.5\configure -static -static-runtime -qt-zlib -qt-libjpeg -qt-libp
 ```
 
 Download [qt-5.15.5-static.zip](https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/qt-5.15.5-static.zip).
+
+* NEW [Magic MSI Installer Template](https://github.com/windows-2048/Magic-MSI-Installer-Template){:target="_blank"}
+
+<div style="flex: 1; text-align: left; margin-top: -2vmax;">
+    <img src="/screenshot-welcome.png" alt="Magic MSI Installer Template: screenshot-welcome" style="width: 25%; height: auto;" />
+</div>
 
 ### Disambiguation
 

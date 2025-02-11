@@ -9,7 +9,7 @@ description_rich: El clicker automático más rápido para Windows PC. 100000 cl
 
 ### {{ page.description_rich | default: site.t['description_rich'][page.lang] }}
 
-Actualizado: 31 de Enero 2025. Añadido largo esperado puntas de herramientas para las teclas de activación: ahora se muestran los códigos clave virtuales y sus nombres.
+Actualizado: 11 de Febrero 2025. Añadido largo esperado puntas de herramientas para las teclas de activación: ahora se muestran los códigos clave virtuales y sus nombres.
 
 #### 2025 es el 9º aniversario del proyecto
 
@@ -69,6 +69,12 @@ C:\qt-src-5.15.5\configure -static -static-runtime -qt-zlib -qt-libjpeg -qt-libp
 ```
 
 Descargar [qt-5.15.5-static.zip](https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/qt-5.15.5-static.zip).
+
+* NUEVO [Plantilla de instalación MSI mágica (en Inglés)](https://github.com/windows-2048/Magic-MSI-Installer-Template){:target="_blank"}
+
+<div style="flex: 1; text-align: left; margin-top: -2vmax;">
+    <img src="/screenshot-welcome.png" alt="Magic MSI Installer Template: screenshot-welcome" style="width: 25%; height: auto;" />
+</div>
 
 ### Desambiguación
 
