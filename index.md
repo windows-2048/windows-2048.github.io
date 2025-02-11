@@ -22,7 +22,7 @@ Windows installers are made for your convenience by open source tool [Inno Setup
 
 ## My Projects
 
-<div style="flex: 1; text-align: right;">
+<div style="float: right;">
     <img src="screenshot-welcome.png" alt="Magic MSI Installer Template: screenshot-welcome" style="width: 25%; height: auto;" />
 </div>
 
