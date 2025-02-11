@@ -25,7 +25,7 @@ Los instaladores de Windows se crean para su comodidad mediante la herramienta d
 * [{{ site.t['app_name'][page.lang] }}](https://windows-2048.github.io/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/){:target="_blank"}
 * NUEVO [Plantilla de instalación MSI mágica (en Inglés)](https://github.com/windows-2048/Magic-MSI-Installer-Template){:target="_blank"}
 
-<div style="flex: 1; text-align: left;">
+<div style="flex: 1; text-align: left; margin-top: -2vmin;">
     <img src="/screenshot-welcome.png" alt="Magic MSI Installer Template: screenshot-welcome" style="width: 25%; height: auto;" />
 </div>
 
