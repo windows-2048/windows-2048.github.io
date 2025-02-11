@@ -25,7 +25,7 @@ Windows installers are made for your convenience by open source tool [Inno Setup
 * [The Fastest Mouse Clicker for Windows](https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/){:target="_blank"}
 * NEW [Magic MSI Installer Template](https://github.com/windows-2048/Magic-MSI-Installer-Template){:target="_blank"}
 
-<div style="flex: 1; text-align: left; margin-top: -2vmax;">
+<div style="flex: 1; text-align: left; margin-top: -1.8vmax;">
     <img src="/screenshot-welcome.png" alt="Magic MSI Installer Template: screenshot-welcome" style="width: 25%; height: auto;" />
 </div>
 
