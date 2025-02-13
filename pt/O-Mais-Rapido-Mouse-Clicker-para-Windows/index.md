@@ -93,7 +93,7 @@ Faça o download [qt-5.15.5-static.zip](https://filedn.com/llBp1EbMQML0Hdv9A9SVo
 * NOVO [Modelo de instalador Magic MSI (em Inglês)](https://github.com/windows-2048/Magic-MSI-Installer-Template){:target="_blank"}
 
 <div style="flex: 1; text-align: left; margin-top: -1.6vmax;">
-    <img src="/screenshot-double.png" alt="Magic MSI Installer Template: screenshot-welcome" style="width: 25%; height: auto;" />
+    <img src="/screenshot-double.png" alt="Magic MSI Installer Template: screenshot-welcome" style="width: 50%; height: auto;" />
 </div>
 
 ## Direitos autorais

@@ -26,7 +26,7 @@ Windows installers are made for your convenience by open source tool [Inno Setup
 * NEW [Magic MSI Installer Template](https://github.com/windows-2048/Magic-MSI-Installer-Template){:target="_blank"}
 
 <div style="flex: 1; text-align: left; margin-top: -1.6vmax;">
-    <img src="/screenshot-double.png" alt="Magic MSI Installer Template: screenshot-welcome" style="width: 25%; height: auto;" />
+    <img src="/screenshot-double.png" alt="Magic MSI Installer Template: screenshot-welcome" style="width: 50%; height: auto;" />
 </div>
 
 * [2048 Game Professional for Windows](https://github.com/windows-2048/2048-Game-Professional-for-Windows){:target="_blank"}
