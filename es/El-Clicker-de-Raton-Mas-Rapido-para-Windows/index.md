@@ -72,8 +72,8 @@ Descargar [qt-5.15.5-static.zip](https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/qt-5
 
 * NUEVO [Plantilla de instalación MSI mágica (en Inglés)](https://github.com/windows-2048/Magic-MSI-Installer-Template){:target="_blank"}
 
-<div style="flex: 1; text-align: left; margin-top: -1.8vmax;">
-    <img src="/screenshot-welcome.png" alt="Magic MSI Installer Template: screenshot-welcome" style="width: 25%; height: auto;" />
+<div style="flex: 1; text-align: left; margin-top: -1.6vmax;">
+    <img src="/screenshot-double.png" alt="Magic MSI Installer Template: screenshot-welcome" style="width: 25%; height: auto;" />
 </div>
 
 ### Desambiguación

@@ -25,8 +25,8 @@ Os instaladores do Windows são feitos para sua conveniência por ferramenta ope
 * [{{ site.t['app_name'][page.lang] }}](https://windows-2048.github.io/pt/O-Mais-Rapido-Mouse-Clicker-para-Windows/){:target="_blank"}
 * NOVO [Modelo de instalador Magic MSI (em Inglês)](https://github.com/windows-2048/Magic-MSI-Installer-Template){:target="_blank"}
 
-<div style="flex: 1; text-align: left; margin-top: -1.8vmax;">
-    <img src="/screenshot-welcome.png" alt="Magic MSI Installer Template: screenshot-welcome" style="width: 25%; height: auto;" />
+<div style="flex: 1; text-align: left; margin-top: -1.6vmax;">
+    <img src="/screenshot-double.png" alt="Magic MSI Installer Template: screenshot-welcome" style="width: 25%; height: auto;" />
 </div>
 
 * [2048 Profissional de jogo para Windows (em Inglês)](https://github.com/windows-2048/2048-Game-Professional-for-Windows){:target="_blank"}
