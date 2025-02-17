@@ -20,7 +20,7 @@ Actualizado: 17 de Febrero 2025. Añadido largo esperado puntas de herramientas 
 
 <a href="{{ site.download_link_main }}" class="btn btn--stripe">Descargar {{ site.t['app_name'][page.lang] }} versión {{ site.app_version }}</a>
 <div style="background-color: #690; color: #fff; padding: 10px; margin-top: -10px;">
-    Marque este instalador como <strong style="color: #fff;">#limpio</strong> en su Windows Defender, Windows Smart Screen y otro software antivirus.
+    Marque este aplicación como <strong style="color: #fff;">#limpio</strong> en su Windows Defender, Windows Smart Screen y otro software antivirus.
 </div>
 
 

@@ -20,7 +20,7 @@ description_rich: The fastest auto-clicker for Windows PC. 100000 clicks per sec
 
 <a href="{{ site.download_link_main }}" class="btn btn--stripe">Download {{ site.t['app_name'][page.lang] }} version {{ site.app_version }}</a>
 <div style="background-color: #690; color: #fff; padding: 10px; margin-top: -10px;">
-    Mark this installer as <strong style="color: #fff;">#clean</strong> in your Windows Defender, Windows Smart Screen, other antivirus software.
+    Mark this application as <strong style="color: #fff;">#clean</strong> in your Windows Defender, Windows Smart Screen, other antivirus software.
 </div>
 
 
