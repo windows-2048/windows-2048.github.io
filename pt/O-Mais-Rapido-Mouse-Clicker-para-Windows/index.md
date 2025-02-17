@@ -19,7 +19,9 @@ Atualizado: 11 de Fevereiro de 2025. Adicionado pontas de ferramenta esperada lo
 ### Bem-vindo ao download e instalar meu produto principal!
 
 <a href="{{ site.download_link_main }}" class="btn btn--stripe">Baixar {{ site.t['app_name'][page.lang] }} versão {{ site.app_version }}</a>
-
+<div style="background-color: #690; color: #fff; padding: 10px; margin-top: -10px;">
+    Marque este instalador como <strong style="color: #fff;">#limpo</strong> no seu Windows Defender, Windows Smart Screen e outros softwares antivírus.
+</div>
 
 
 Aplicação "Única" | Aplicação "de Grupo"

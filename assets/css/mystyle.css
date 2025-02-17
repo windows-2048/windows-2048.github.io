@@ -426,6 +426,7 @@ header {
     float: left;
     position: fixed;
     -webkit-font-smoothing: subpixel-antialiased;
+        background-color: #efd;
 }
 ul.downloads {
     list-style: none;
@@ -588,7 +589,7 @@ pre {
     font-size: 12px;
 }
 header {
-    background-color: #efe;
+    background-color: #efd;
     padding: 2px;
     border-radius: 4px;
 }
