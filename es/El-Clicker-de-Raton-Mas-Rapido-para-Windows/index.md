@@ -9,7 +9,7 @@ description_rich: El clicker automático más rápido para Windows PC. 100000 cl
 
 ### {{ page.description_rich | default: site.t['description_rich'][page.lang] }}
 
-Actualizado: 11 de Febrero 2025. Añadido largo esperado puntas de herramientas para las teclas de activación: ahora se muestran los códigos clave virtuales y sus nombres.
+Actualizado: 17 de Febrero 2025. Añadido largo esperado puntas de herramientas para las teclas de activación: ahora se muestran los códigos clave virtuales y sus nombres.
 
 #### 2025 es el 9º aniversario del proyecto
 
