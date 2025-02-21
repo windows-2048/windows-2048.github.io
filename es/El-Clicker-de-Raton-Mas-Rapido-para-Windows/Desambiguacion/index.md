@@ -2,8 +2,8 @@
 i18n-link: the-fastest-mouse-clicker-for-windows-disambiguation
 permalink: /es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/Desambiguacion/
 title: El Clicker de Ratón Más Rápido para Windows | Desambiguación
-description: El clicker automático más rápido para Windows PC. Desambiguación
-description_rich: El clicker automático más rápido para Windows PC. Desambiguación
+description: El clicker automático más rápido para Windows PC utilizando la API SendInput() de Win32 en matriz. Desambiguación
+description_rich: El clicker automático más rápido para Windows PC utilizando la API <a href="https://learn.microsoft.com/es-es/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a> de Win32 en matriz. Desambiguación
 ---
 
 ## {{ page.title | default: site.t['title'][page.lang] }}
