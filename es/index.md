@@ -1,6 +1,11 @@
 ---
 i18n-link: index
 permalink: /es/
+
+alternates:
+  en: /
+  pt: /pt/
+
 title: windows-2048 también conocido como Open Source Developer Masha Novedad
 description: Desarrollador del clicker de ratón más rápido para PC con Windows que alcanza los 100000 clics por segundo
 description_rich: Desarrollador del clicker de ratón más rápido para PC con Windows que alcanza los 100000 clics por segundo

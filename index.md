@@ -1,6 +1,11 @@
 ---
 i18n-link: index
 permalink: /
+
+alternates:
+  es: /es/
+  pt: /pt/
+
 title: windows-2048 aka Open Source Developer Masha Novedad
 description: Developer of The Fastest Mouse Clicker for Windows PC that achieves 100000 clicks per second
 description_rich: Developer of The Fastest Mouse Clicker for Windows PC that achieves 100000 clicks per second

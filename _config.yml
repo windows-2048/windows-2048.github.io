@@ -77,9 +77,9 @@ t:
         es: Descarga la última versión
         pt: Baixe a versão mais recente
     html_lang:
-        en: en-US
-        es: es-ES
-        pt: pt-BR
+        en: en
+        es: es
+        pt: pt
     read_text:
         en: read
         es: lee

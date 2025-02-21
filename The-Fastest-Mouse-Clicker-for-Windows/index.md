@@ -1,6 +1,11 @@
 ---
 i18n-link: the-fastest-mouse-clicker-for-windows
 permalink: /The-Fastest-Mouse-Clicker-for-Windows/
+
+alternates:
+  es: /es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/
+  pt: /pt/O-Mais-Rapido-Mouse-Clicker-para-Windows/
+
 title: The Fastest Mouse Clicker for Windows | Official Download
 description: The fastest auto-clicker for Windows PC. 100000 clicks per second reached by arrayed Win32 SendInput() API. GUI, command line, sequences of clicks
 description_rich: The fastest auto-clicker for Windows PC. 100000 clicks per second reached by arrayed Win32 <a href="https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a> API. GUI, command line, random clicks, sequences of clicks

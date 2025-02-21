@@ -17,6 +17,9 @@
 <meta name="description" content="{{ page.description | default: site.t['description'][page.lang] }}" />
 <meta property="og:description" content="{{ page.description | default: site.t['description'][page.lang] }}" />
 <link rel="canonical" href="{{ site.prod-url }}{{ site.base-url }}{{ page.url }}" />
+{% for alt in page.alternates %}
+<link rel="alternate" hreflang="{{ alt[0] }}" href="{{ site.prod-url }}{{ site.base-url }}{{ alt[1] }}" />
+{% endfor %}
 <meta property="og:url" content="{{ site.prod-url }}{{ site.base-url }}{{ page.url }}" />
 <meta property="og:site_name" content="{{ page.title | default: site.t['title'][page.lang] }}" />
 <meta property="og:image" content="{{ site.prod-url }}/The-Fastest-Mouse-Clicker-for-Windows/og_thumb_1200x630.png" />
