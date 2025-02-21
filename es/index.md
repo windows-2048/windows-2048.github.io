@@ -1,5 +1,6 @@
 ---
 i18n-link: index
+permalink: /es/
 title: windows-2048 también conocido como Open Source Developer Masha Novedad
 description: Desarrollador del clicker de ratón más rápido para PC con Windows que alcanza los 100.000 clics por segundo
 description_rich: Desarrollador del clicker de ratón más rápido para PC con Windows que alcanza los 100.000 clics por segundo
@@ -9,8 +10,7 @@ description_rich: Desarrollador del clicker de ratón más rápido para PC con W
 
 ### {{ page.description_rich | default: site.t['description_rich'][page.lang] }}
 
-Actualizado: 17 de Febrero 2025. Añadido largo esperado puntas de herramientas para las teclas de activación: ahora se muestran los códigos clave virtuales y sus nombres.
-Se agregó NUEVO proyecto de plantilla MSI de instalador de ejemplo.
+> {{ site.t['updated_text'][page.lang] }} : {{ site.t['updated_month'][page.lang] }} {{ site.upd_day_year }}.
 
 #### 2025 es el 9º aniversario del proyecto
 
@@ -22,7 +22,7 @@ Los instaladores de Windows se crean para su comodidad mediante la herramienta d
 
 ## Mis Proyectos
 
-* [{{ site.t['app_name'][page.lang] }}](https://windows-2048.github.io/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/){:target="_blank"}
+* [{{ site.t['app_name'][page.lang] }}](/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/){:target="_blank"}
 * NUEVO [Plantilla de instalación MSI mágica (en Inglés)](https://github.com/windows-2048/Magic-MSI-Installer-Template){:target="_blank"}
 
 <div style="flex: 1; text-align: left; margin-top: -1.6vmax;">

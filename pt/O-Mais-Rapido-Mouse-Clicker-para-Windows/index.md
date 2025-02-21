@@ -1,5 +1,6 @@
 ---
 i18n-link: the-fastest-mouse-clicker-for-windows
+permalink: /pt/O-Mais-Rapido-Mouse-Clicker-para-Windows/
 title: O Mais Rápido Mouse Clicker para Windows | Baixar oficial
 description: O clique automático mais rápido para Windows PC. 100000 cliques por segundo alcançado por Win32 array-SendInput(). GUI, linha de comando, outros recursos
 description_rich: O clique automático mais rápido para Windows PC. 100000 cliques por segundo alcançado por Win32 array-<a href="https://learn.microsoft.com/pt-br/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a>. GUI, linha de comando, outros recursos
@@ -9,7 +10,7 @@ description_rich: O clique automático mais rápido para Windows PC. 100000 cliq
 
 ### {{ page.description_rich | default: site.t['description_rich'][page.lang] }}
 
-Atualizado: 17 de Fevereiro de 2025. Adicionado pontas de ferramenta esperada longas para as chaves do gatilho: agora ambos os códigos de chave virtual e seus nomes são exibidos.
+> {{ site.t['updated_text'][page.lang] }} : {{ site.t['updated_month'][page.lang] }} {{ site.upd_day_year }}.
 
 #### 2025 é o 9o aniversário do projeto
 
@@ -80,7 +81,21 @@ Os aplicativos de auto clicker de mouse automatizam tarefas repetitivas e são u
 
 Essas diferenças regionais destacam como contextos culturais e econômicos influenciam a adoção e utilização de aplicativos de auto clicker em todo o mundo.
 
-### Todas as versões futuras do Mouse Mais Rápido Clicker para Windows será cross-platform e feito com Qt
+
+* NOVO [Modelo de instalador Magic MSI (em Inglês)](https://github.com/windows-2048/Magic-MSI-Installer-Template){:target="_blank"}
+
+<div style="flex: 1; text-align: left; margin-top: -1.6vmax;">
+    <img src="/screenshot-double.png" alt="Magic MSI Installer Template: screenshot-welcome" style="width: 50%; height: auto;" />
+</div>
+
+----
+
+## Índice
+
+* [Desambiguação](/pt/O-Mais-Rapido-Mouse-Clicker-para-Windows/Desambiguacao/){:target="_blank"}
+
+
+**Todas as versões futuras do Mouse Mais Rápido Clicker para Windows será cross-platform e feito com Qt.**
 
 Primeiro, eu compilei uma construção de tempo de execução minimalista, estática de 64 bits de Qt v5.15.5 (LTS) feita para Windows 7 a 11 sob o compilador MSVC 2019.
 
@@ -92,12 +107,8 @@ C:\qt-src-5.15.5\configure -static -static-runtime -qt-zlib -qt-libjpeg -qt-libp
 
 Faça o download [qt-5.15.5-static.zip](https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/qt-5.15.5-static.zip).
 
-* NOVO [Modelo de instalador Magic MSI (em Inglês)](https://github.com/windows-2048/Magic-MSI-Installer-Template){:target="_blank"}
 
-<div style="flex: 1; text-align: left; margin-top: -1.6vmax;">
-    <img src="/screenshot-double.png" alt="Magic MSI Installer Template: screenshot-welcome" style="width: 50%; height: auto;" />
-</div>
+<a name="Contacts"></a>
+## Contatos
 
-## Direitos autorais
-
-Direitos autorais (c) 2016-2025 de {{ site.t['author_name'][page.lang] }}.
+#### Direitos autorais (c) 2016-2025 de [{{ site.t['author_name'][page.lang] }}]({{ site.prod-url }}{{ site.t['home'][page.lang] }}){:target="_blank"}

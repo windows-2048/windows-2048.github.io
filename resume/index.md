@@ -1,5 +1,6 @@
 ---
 i18n-link: resume
+permalink: /resume/
 title: windows-2048 aka Open Source Developer Masha Novedad resume
 description: Developer of The Fastest Mouse Clicker for Windows PC that achieves 100000 clicks per second resume
 description_rich: Developer of The Fastest Mouse Clicker for Windows PC that achieves 100000 clicks per second resume
@@ -9,11 +10,12 @@ description_rich: Developer of The Fastest Mouse Clicker for Windows PC that ach
 
 ### {{ page.description_rich | default: site.t['description_rich'][page.lang] }}
 
+> {{ site.t['updated_text'][page.lang] }} : {{ site.t['updated_month'][page.lang] }} {{ site.upd_day_year }}.
+
 [See at indeed.com...](https://profile.indeed.com/p/mashan-hc2ql7c){:target="_blank"}
 
 __Experienced software engineer for scalable high-load fault-tolerant systems with comprehensive formal verification in the fintech, health and military areas.__
 
-> Updated: Feb 17 2025.
 
 ---
 

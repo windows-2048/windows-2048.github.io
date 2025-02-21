@@ -1,45 +1,17 @@
+---
+layout: null
+---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-   <url>
-      <loc>https://windows-2048.github.io/</loc>
-      <lastmod>2025-02-17</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://windows-2048.github.io/es/</loc>
-      <lastmod>2025-02-17</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://windows-2048.github.io/pt/</loc>
-      <lastmod>2025-02-17</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/</loc>
-      <lastmod>2025-02-17</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-   </url>
-   <url>
-      <loc>https://windows-2048.github.io/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/</loc>
-      <lastmod>2025-02-17</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-   </url>
-   <url>
-      <loc>https://windows-2048.github.io/pt/O-Mais-Rapido-Mouse-Clicker-para-Windows/</loc>
-      <lastmod>2025-02-17</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-   </url>
-   <url>
-      <loc>https://windows-2048.github.io/resume/</loc>
-      <lastmod>2025-02-17</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-   </url>
+    {% assign sorted_pages = site.pages | sort:"permalink" %}
+    {% for page in sorted_pages %}
+    {% if page.permalink %}
+    <url>
+        <loc>{{ site.burl }}{{ page.url | remove: 'index.html' }}</loc>
+        <lastmod>{{ site.bdate }}</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    {% endif %}
+    {% endfor %}
 </urlset>

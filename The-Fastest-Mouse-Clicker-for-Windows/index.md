@@ -1,5 +1,6 @@
 ---
 i18n-link: the-fastest-mouse-clicker-for-windows
+permalink: /The-Fastest-Mouse-Clicker-for-Windows/
 title: The Fastest Mouse Clicker for Windows | Official Download
 description: The fastest auto-clicker for Windows PC. 100000 clicks per second reached by arrayed Win32 SendInput(). GUI, command line, record/play sequences of clicks
 description_rich: The fastest auto-clicker for Windows PC. 100000 clicks per second reached by arrayed Win32 <a href="https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a>. GUI, command line, random clicks, and record/play sequences of clicks
@@ -9,7 +10,7 @@ description_rich: The fastest auto-clicker for Windows PC. 100000 clicks per sec
 
 ### {{ page.description_rich | default: site.t['description_rich'][page.lang] }}
 
-> Updated: Feb 17 2025. Added long-awaited tooltips for the trigger keys: now both virtual key codes and their names are displayed.
+> {{ site.t['updated_text'][page.lang] }} : {{ site.t['updated_month'][page.lang] }} {{ site.upd_day_year }}.
 
 #### 2025 is the project's 9th anniversary
 
@@ -60,17 +61,6 @@ Here is a short intro video that tells how to download and install {{ site.t['ap
 > <br/>are obsolete and points to the wrong locations.
 > <br/><span style="color:OliveDrab;"><b>Official site is here</b></span>.
 
-### All future versions of The Fastest Mouse Clicker for Windows will be cross-platform and made with Qt
-
-First, I have compiled a 64-bit minimalistic, static/static-runtime build of Qt v5.15.5 (LTS) made for Windows 7 to 11 under MSVC 2019 compiler.
-
-Configure options:
-
-```
-C:\qt-src-5.15.5\configure -static -static-runtime -qt-zlib -qt-libjpeg -qt-libpng -qt-freetype -qt-pcre -qt-harfbuzz -no-sse4.1 -no-sse4.2 -no-avx2 -no-avx512 -no-pch -no-ssl -no-openssl -no-opengl -qpa windows -confirm-license -opensource -release -make libs -make tools -prefix c:/qt-5.15.5-static
-```
-
-Download [qt-5.15.5-static.zip](https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/qt-5.15.5-static.zip).
 
 * NEW [Magic MSI Installer Template](https://github.com/windows-2048/Magic-MSI-Installer-Template){:target="_blank"}
 
@@ -78,40 +68,11 @@ Download [qt-5.15.5-static.zip](https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/qt-5.
     <img src="/screenshot-double.png" alt="Magic MSI Installer Template: screenshot-welcome" style="width: 50%; height: auto;" />
 </div>
 
-### Disambiguation
-
-Fast or fastest mouse clicker may refer to a man clicking a hardware mouse by his own hands.
-Typically such a man is called "quickest mouse clicker" or "quick mouse clicker".
-Thus "fastest" do typically refer to a PC program while "quickest" refers to a human being.
-Unprecedented record was done on May 6 2015, when Dylan A. from Las Vegas, Nevada, United States
-clicked his mouse a total of 1051 times in 10 seconds, according to
-[recordsetter.com](https://recordsetter.com/world-record/mouse-clicks-10/41199){:target="_blank"}.
-
-<p>
-TampaTec, famous Youtube blogger, has shown another real hardware mouse clicking, reaching clicking rate up to 16.5&nbsp;CPS (Clicks Per Second)!
-He described how to win Gow&nbsp;2&nbsp;3 chainsaw duels, World's Fastest mouse clicking, clicker King, urban75.com.
-His commenter Alexander Nielsen writes he achieves up to 100&nbsp;CPS consistently.
-Rather Troy Liebe asserts his personal best is 139&nbsp;CPS with one finger (Brain Bashers).
-In the video below, TampaTec shows the technique how that amazing results can be performed.
- <video style="outline:none; width:100%; height:100%;" controls preload="none" poster="videos/worlds-fastest-clicker-720p.jpg">
-  <source src="videos/worlds-fastest-clicker-720p.mp4" type="video/mp4"/>
-  Your browser does not support the video tag.
-</video>
-<a href="https://www.youtube.com/watch?v=r8Tlb3FrmhQ" target="_blank">Watch the original video "World's fastest mouse clicker- How to Win Gow Chainsaw duels!" in Youtube.</a>
-</p>
-
-<p>
-Sambucha, another raising Youtube blogger, claims in 2024, that he is now the fastest human being mouse clicker in the world.
-In the video below, Sambucha empresses his pride to be the fastest mouse clicker.
- <video style="outline:none; width:100%; height:100%;" controls preload="none" poster="videos/I-Became-The-Fastest-Clicker-UQAbGlKXvBQ-480p.jpg">
-  <source src="videos/I-Became-The-Fastest-Clicker-UQAbGlKXvBQ-480p.mp4" type="video/mp4"/>
-  Your browser does not support the video tag.
-</video>
-<a href="https://www.youtube.com/shorts/UQAbGlKXvBQ" target="_blank">Watch the original short video "I became the fastest mouse clicker in the world" in Youtube.</a>
-</p>
+----
 
 ## Table of Contents
 
+* [Disambiguation](/The-Fastest-Mouse-Clicker-for-Windows/Disambiguation/){:target="_blank"}
 * [Introduction](index.html#Introduction)
 * [Features](index.html#Features)
 * [Comparison](index.html#Comparison)
@@ -126,6 +87,7 @@ In the video below, Sambucha empresses his pride to be the fastest mouse clicker
 * [Frequently Asked Questions (FAQ)](index.html#FAQ)
 * [Downloads for all the versions](index.html#Downloads)
 * [Contacts](index.html#Contacts)
+
 
 <a name="Introduction"></a>
 ## Introduction
@@ -533,6 +495,18 @@ and [Gitlab](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windo
 
 <a name="TheFastestMouseClickerQt"></a>
 ## The Fastest Mouse Clicker v3.0.0.0 (cross-platform Qt edition)
+
+**All future versions of The Fastest Mouse Clicker for Windows will be cross-platform and made with Qt.**
+
+First, I have compiled a 64-bit minimalistic, static/static-runtime build of Qt v5.15.5 (LTS) made for Windows 7 to 11 under MSVC 2019 compiler.
+
+Configure options:
+
+```
+C:\qt-src-5.15.5\configure -static -static-runtime -qt-zlib -qt-libjpeg -qt-libpng -qt-freetype -qt-pcre -qt-harfbuzz -no-sse4.1 -no-sse4.2 -no-avx2 -no-avx512 -no-pch -no-ssl -no-openssl -no-opengl -qpa windows -confirm-license -opensource -release -make libs -make tools -prefix c:/qt-5.15.5-static
+```
+
+Download [qt-5.15.5-static.zip](https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/qt-5.15.5-static.zip).
 
 Migration to cross-platform Qt edition of {{ site.t['app_name'][page.lang] }} is in successive progress. New application will get version 3.0.0.0 and will be called
 "The Fastest Mouse Clicker for \<OS\> (cross-platform Qt edition)", where \<OS\> is "Windows", "Linux", "MacOS (M1)".

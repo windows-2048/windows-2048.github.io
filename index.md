@@ -1,5 +1,6 @@
 ---
 i18n-link: index
+permalink: /
 title: windows-2048 aka Open Source Developer Masha Novedad
 description: Developer of The Fastest Mouse Clicker for Windows PC that achieves 100000 clicks per second
 description_rich: Developer of The Fastest Mouse Clicker for Windows PC that achieves 100000 clicks per second
@@ -9,8 +10,7 @@ description_rich: Developer of The Fastest Mouse Clicker for Windows PC that ach
 
 ### {{ page.description_rich | default: site.t['description_rich'][page.lang] }}
 
-> Updated: Feb 17 2025. Added long-awaited tooltips for the trigger keys: now both virtual key codes and their names are displayed.
-Added NEW Example Installer MSI Template project.
+> {{ site.t['updated_text'][page.lang] }} : {{ site.t['updated_month'][page.lang] }} {{ site.upd_day_year }}.
 
 #### 2025 is the project's 9th anniversary
 
@@ -22,7 +22,7 @@ Windows installers are made for your convenience by open source tool [Inno Setup
 
 ## My Projects
 
-* [The Fastest Mouse Clicker for Windows](https://windows-2048.github.io/The-Fastest-Mouse-Clicker-for-Windows/){:target="_blank"}
+* [The Fastest Mouse Clicker for Windows](/The-Fastest-Mouse-Clicker-for-Windows/){:target="_blank"}
 * NEW [Magic MSI Installer Template](https://github.com/windows-2048/Magic-MSI-Installer-Template){:target="_blank"}
 
 <div style="flex: 1; text-align: left; margin-top: -1.6vmax;">

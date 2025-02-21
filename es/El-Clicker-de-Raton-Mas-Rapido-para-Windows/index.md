@@ -1,5 +1,6 @@
 ---
 i18n-link: the-fastest-mouse-clicker-for-windows
+permalink: /es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/
 title: El Clicker de Ratón Más Rápido para Windows | Descarga Oficial
 description: El clicker automático más rápido para Windows PC. 100000 clics por segundo por Win32 SendInput(). GUI, línea de comandos, secuencias de grabación/reproducción
 description_rich: El clicker automático más rápido para Windows PC. 100000 clics por segundo alcanzados por Win32 <a href="https://learn.microsoft.com/es-es/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a> en matriz. GUI, línea de comandos, clics aleatorios y secuencias de clics de grabación/reproducción
@@ -9,7 +10,7 @@ description_rich: El clicker automático más rápido para Windows PC. 100000 cl
 
 ### {{ page.description_rich | default: site.t['description_rich'][page.lang] }}
 
-Actualizado: 17 de Febrero 2025. Añadido largo esperado puntas de herramientas para las teclas de activación: ahora se muestran los códigos clave virtuales y sus nombres.
+> {{ site.t['updated_text'][page.lang] }} : {{ site.t['updated_month'][page.lang] }} {{ site.upd_day_year }}.
 
 #### 2025 es el 9º aniversario del proyecto
 
@@ -60,17 +61,6 @@ Aquí hay un breve video de introducción que explica cómo descargar e instalar
 > <br/>están obsoletos y apuntan a ubicaciones incorrectas.
 > <br/><span style="color:OliveDrab;"><b>El sitio oficial está aquí</b></span>.
 
-### Todas las versiones futuras de El Clicker de Ratón Más Rápido para Windows serán multiplataforma y se realizarán con Qt
-
-En primer lugar, compilé una compilación minimalista, estática/de tiempo de ejecución estático de 64 bits de Qt v5.15.5 (LTS) creada para Windows 7 a 11 con el compilador MSVC 2019.
-
-Configurar opciones:
-
-```
-C:\qt-src-5.15.5\configure -static -static-runtime -qt-zlib -qt-libjpeg -qt-libpng -qt-freetype -qt-pcre -qt-harfbuzz -no-sse4.1 -no-sse4.2 -no-avx2 -no-avx512 -no-pch -no-ssl -no-openssl -no-opengl -qpa windows -confirm-license -opensource -release -make libs -make tools -prefix c:/qt-5.15.5-static
-```
-
-Descargar [qt-5.15.5-static.zip](https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/qt-5.15.5-static.zip).
 
 * NUEVO [Plantilla de instalación MSI mágica (en Inglés)](https://github.com/windows-2048/Magic-MSI-Installer-Template){:target="_blank"}
 
@@ -78,40 +68,11 @@ Descargar [qt-5.15.5-static.zip](https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/qt-5
     <img src="/screenshot-double.png" alt="Magic MSI Installer Template: screenshot-welcome" style="width: 50%; height: auto;" />
 </div>
 
-### Desambiguación
-
-El clic del mouse rápido o más rápido puede referirse a un hombre que hace clic en un mouse de hardware con sus propias manos.
-Por lo general, a ese hombre se le llama "el que hace clic con el mouse más rápido" o "el que hace clic con el mouse más rápido".
-Por lo tanto, "más rápido" generalmente se refiere a un programa de PC, mientras que "más rápido" se refiere a un ser humano.
-Un récord sin precedentes se hizo el 6 de mayo de 2015, cuando Dylan A. de Las Vegas, Nevada, Estados Unidos
-hizo clic con el mouse un total de 1051 veces en 10 segundos, según
-[recordsetter.com](https://recordsetter.com/world-record/mouse-clicks-10/41199){:target="_blank"}.
-
-<p>
-¡TampaTec, el famoso blogger de Youtube, ha mostrado otro clic de mouse de hardware real, alcanzando una tasa de clics de hasta 16.5&nbsp;CPS (clics por segundo)!
-Describió cómo ganar duelos de motosierras de Gow&nbsp;2&nbsp;3, World's Fastest mouse clicking, clicker King, urban75.com.
-Su comentarista Alexander Nielsen escribe que logra hasta 100&nbsp;CPS constantemente.
-Más bien, Troy Liebe afirma que su mejor marca personal es 139&nbsp;CPS con un dedo (Brain Bashers).
-En el video a continuación, TampaTec muestra la técnica de cómo se pueden lograr resultados sorprendentes.
- <video style="outline:none; width:100%; height:100%;" controls preload="none" poster="../../The-Fastest-Mouse-Clicker-for-Windows/videos/worlds-fastest-clicker-720p.jpg">
-  <source src="../../The-Fastest-Mouse-Clicker-for-Windows/videos/worlds-fastest-clicker-720p.mp4" type="video/mp4"/>
-  Su navegador no soporta la etiqueta de vídeo.
-</video>
-<a href="https://www.youtube.com/watch?v=r8Tlb3FrmhQ" target="_blank">Mira el video original "El clicker de mouse más rápido del mundo - ¡Cómo ganar duelos de Gow Chainsaw!" en Youtube (en inglés).</a>
-</p>
-
-<p>
-Sambucha, otro bloguero de YouTube en ascenso, afirma que en 2024 es el ser humano que hace clic con el mouse más rápido del mundo.
-En el video a continuación, Sambucha expresa su orgullo por ser el que hace clic con el mouse más rápido.
- <video style="outline:none; width:100%; height:100%;" controls preload="none" poster="../../The-Fastest-Mouse-Clicker-for-Windows/videos/I-Became-The-Fastest-Clicker-UQAbGlKXvBQ-480p.jpg">
-  <source src="../../The-Fastest-Mouse-Clicker-for-Windows/videos/I-Became-The-Fastest-Clicker-UQAbGlKXvBQ-480p.mp4" type="video/mp4"/>
-  Su navegador no soporta la etiqueta de vídeo.
-</video>
-<a href="https://www.youtube.com/shorts/UQAbGlKXvBQ" target="_blank">Mira el vídeo corto original "Me convertí en el clicker de ratón más rápido del mundo" en Youtube (en inglés).</a>
-</p>
+----
 
 ## Tabla de contenido
 
+* [Desambiguación](/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/Desambiguacion/){:target="_blank"}
 * [Introducción](index.html#Introduction)
 * [Características](index.html#Features)
 * [Comparación](index.html#Comparison)
@@ -533,6 +494,18 @@ y [Gitlab](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows
 
 <a name="TheFastestMouseClickerQt"></a>
 ## El Clicker de Ratón Más Rápido v3.0.0.0 (edición Qt multiplataforma)
+
+**Todas las versiones futuras de El Clicker de Ratón Más Rápido para Windows serán multiplataforma y se realizarán con Qt.**
+
+En primer lugar, compilé una compilación minimalista, estática/de tiempo de ejecución estático de 64 bits de Qt v5.15.5 (LTS) creada para Windows 7 a 11 con el compilador MSVC 2019.
+
+Configurar opciones:
+
+```
+C:\qt-src-5.15.5\configure -static -static-runtime -qt-zlib -qt-libjpeg -qt-libpng -qt-freetype -qt-pcre -qt-harfbuzz -no-sse4.1 -no-sse4.2 -no-avx2 -no-avx512 -no-pch -no-ssl -no-openssl -no-opengl -qpa windows -confirm-license -opensource -release -make libs -make tools -prefix c:/qt-5.15.5-static
+```
+
+Descargar [qt-5.15.5-static.zip](https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/qt-5.15.5-static.zip).
 
 La migración a la edición Qt multiplataforma de {{ site.t['app_name'][page.lang] }} está en progreso sucesivo. La nueva aplicación obtendrá la versión 3.0.0.0 y se llamará
 "El clicker de mouse más rápido para \<OS\> (edición Qt multiplataforma)", donde \<OS\> es "Windows", "Linux", "MacOS (M1)".
