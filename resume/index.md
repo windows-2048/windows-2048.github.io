@@ -1,7 +1,7 @@
 ---
 i18n-link: resume
 permalink: /resume/
-title: windows-2048 aka Open Source Developer Masha Novedad | CV/Resume
+title: windows-2048 | CV/Resume
 description: Developer of The Fastest Mouse Clicker for Windows PC that achieves 100000 clicks per second. CV/Resume
 description_rich: Developer of The Fastest Mouse Clicker for Windows PC that achieves 100000 clicks per second. CV/Resume
 ---

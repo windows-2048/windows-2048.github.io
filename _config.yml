@@ -2,16 +2,16 @@ theme: jekyll-theme-minimal
 encoding: UTF-8
 
 burl: https://windows-2048.github.io
-bdate: 2025-02-25
+bdate: 2025-03-01
 
 
 prod-url: https://windows-2048.github.io
 
-github_star_counter: 169
+github_star_counter: 170
 github_fork_counter: 33
-total_download_counter: 44585277
+total_download_counter: 44890373
 total_rating_counter: 4.7
-upd_day_year: 25 2025
+upd_day_year: 01 2025
 
 download_link_main: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/The-Fastest-Mouse-Clicker-for-Windows/Jan_31/Install_TFMCfW_rar_sfx_v2.6.2.0.exe
 download_link_mirror: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/The-Fastest-Mouse-Clicker-for-Windows/Jan_31/Install_TFMCfW_rar_sfx_v2.6.2.0.exe
@@ -44,6 +44,10 @@ defaults:
          base-url: "/pt/"
 
 t:
+    sitemap_text:
+        en: Site map
+        es: Mapa del sitio
+        pt: Mapa do site
     app_name:
         en: The Fastest Mouse Clicker for Windows
         es: El Clicker de Ratón Más Rápido para Windows
@@ -61,9 +65,9 @@ t:
         es: Masha Novedad, desarrolladora de código abierto, autora de El Clicker de Ratón Más Rápido para Windows
         pt: Desenvolvedor de código aberto Masha Novedad, o autor do Mais Rápido Mouse Clicker para Windows
     title:
-        en: The Fastest Mouse Clicker for Windows | Official Download
-        es: El Clicker de Ratón Más Rápido para Windows | Descarga Oficial
-        pt: O Mais Rápido Mouse Clicker para Windows | Baixar oficial
+        en: The Fastest Mouse Clicker for Windows | Official Site
+        es: El Clicker de Ratón Más Rápido para Windows | Sitio Oficial
+        pt: O Mais Rápido Mouse Clicker para Windows | Site Oficial
     description:
         en: The fastest auto-clicker for Windows PC. 100000 clicks per second reached by arrayed Win32 SendInput(). GUI, command line, record/play sequences of clicks
         es: El clicker automático más rápido para Windows PC. 100000 clics por segundo por Win32 SendInput(). GUI, línea de comandos, secuencias de grabación/reproducción
@@ -101,9 +105,9 @@ t:
         es: Actualizado
         pt: Atualizado
     updated_month:
-        en: Feb
-        es: Febrero
-        pt: Fevereiro
+        en: Mar
+        es: Marzo
+        pt: Marchar
     lang_countries:
         en:
             -

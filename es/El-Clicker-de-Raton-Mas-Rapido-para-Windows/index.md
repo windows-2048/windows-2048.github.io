@@ -6,7 +6,7 @@ alternates:
   en: /The-Fastest-Mouse-Clicker-for-Windows/
   pt: /pt/O-Mais-Rapido-Mouse-Clicker-para-Windows/
 
-title: El Clicker de Ratón Más Rápido para Windows | Descarga Oficial
+title: El Clicker de Ratón Más Rápido para Windows
 description: El clicker automático más rápido para Windows PC. 100000 clics por segundo por Win32 SendInput() API. GUI, línea de comandos, secuencias de grabación/reproducción
 description_rich: El clicker automático más rápido para Windows PC. 100000 clics por segundo alcanzados por Win32 <a href="https://learn.microsoft.com/es-es/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a> API en matriz. GUI, línea de comandos, secuencias de grabación/reproducción
 ---
@@ -77,7 +77,7 @@ Aquí hay un breve video de introducción que explica cómo descargar e instalar
 
 ## Tabla de contenido
 
-* [Desambiguación](/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/Desambiguacion/){:target="_blank"}
+* [Desambiguación](/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/Desambiguacion/)
 * [Introducción](index.html#Introduction)
 * [Características](index.html#Features)
 * [Comparación](index.html#Comparison)
@@ -137,7 +137,7 @@ Usando las teclas del teclado (o los botones del mouse) como disparador, puede c
 Por supuesto, puede seleccionar teclas de activación de inicio y finalización arbitrarias.
 También tiene la opción de establecer una limitación del número de clics. El clicker automático del mouse se detiene automáticamente cuando se alcanza el número deseado de clics.
 
-Si desea realizar una prueba de velocidad de clic, vaya a la elegante [implementación](https://all-mouse-auto-clickers.software/){:target="_blank"} de código abierto que funciona directamente en su navegador web.
+Si desea realizar una prueba de velocidad de clic, vaya a la elegante [implementación](https://mouse-auto-clickers.online/){:target="_blank"} de código abierto que funciona directamente en su navegador web.
 La prueba de velocidad de clic es una prueba gratuita de clic por segundo, que mide la velocidad de clic del mouse en un período de tiempo determinado. Jugar a la prueba de velocidad de clic es fácil y divertido al mismo tiempo.
 La prueba es adecuada para todo tipo de software de clic automático, así como para pruebas directas en manos humanas en todos los grupos de edad, así que no se preocupe si es solo un estudiante de secundaria o una persona con un trabajo corporativo o un doctorado.
 Considera que la Prueba de velocidad de clic es una herramienta útil mientras busca formas de hacer clic repetidamente sin usar el mouse.
@@ -924,4 +924,4 @@ SHA256(Install_TheFastestMouseClicker_2.0.0.0.exe)= c12fbeee1a12ce598bcd1f6b3987
 <a name="Contacts"></a>
 ## Contactos
 
-#### Derechos de autor (c) 2016-2025 de [{{ site.t['author_name'][page.lang] }}]({{ site.prod-url }}{{ site.t['home'][page.lang] }}){:target="_blank"}
+#### Derechos de autor (c) 2016-2025 de [{{ site.t['author_name'][page.lang] }}]({{ site.prod-url }}{{ site.t['home'][page.lang] }})

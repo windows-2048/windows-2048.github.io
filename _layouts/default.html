@@ -127,14 +127,14 @@
     {% if post.lang == page.lang %}
       <li>{% for country in site.t['lang_countries'][page.lang] %}<span class="fi fi-{{ country.name }}"></span> {% endfor %}{{ page.lang }}</li>
     {% else %}
-      <li><a href="{{ site.base-url }}{{ post.url }}">{% for country in site.t['lang_countries'][post.lang] %}<span class="fi fi-{{ country.name }}"></span> {% endfor %}{{ post.lang }}</a></li>
+      <li><a href="{{ site.base-url }}{{ post.url }}" target="_blank">{% for country in site.t['lang_countries'][post.lang] %}<span class="fi fi-{{ country.name }}"></span> {% endfor %}{{ post.lang }}</a></li>
     {% endif %}
     {% endfor %}
   </ul>
 <br/>
-        <h1><img class="mylogo" src="/assets/images/favicon_large.png" alt="Logo" /><a href="{{ site.base-url }}{{ page.url }}">{{ page.title | default: site.t['title'][page.lang] }}</a></h1>
+        <h1><img class="mylogo" src="/assets/images/favicon_large.png" alt="Logo" /><a href="/{% if page.lang != 'en' %}{{ page.lang }}/{% endif %}">{{ site.t['title'][page.lang] }}</a></h1>
 
-        <p>{{ page.description_rich | default: site.t['description_rich'][page.lang] }}</p>
+        <p>{{ site.t['description_rich'][page.lang] }}</p>
 
         <p class="view"><a href="{{ site.download_link_main }}">{{ site.t['download_the_latest_version'][page.lang] }} : {{ site.app_version }}</a>
         <br/>( <a href="{{ site.download_link_mirror }}">{{ site.t['mirror_text'][page.lang] }}</a> ) - {{ site.t['read_text'][page.lang] }} <a href="index.html#ChangeLog">{{ site.t['changelog_text'][page.lang] }}</a>
@@ -226,6 +226,29 @@ mashanovedad@gmail.com
 
       </header>
       <section>
+
+        <hr />
+
+        <p><strong>{{ site.t['sitemap_text'][page.lang] }}</strong></p>
+
+        <ul>
+        {% assign sorted_pages = site.pages | sort:"permalink" %}
+        {% for curpage in sorted_pages %}
+        {% if curpage.permalink %}
+        {% if curpage.lang == page.lang %}
+        <li>
+            {% if curpage.permalink == page.permalink %}
+            <a name="{{ curpage.title }}" class="athisname">{{ curpage.title }}</a>
+            {% else %}
+            <a href="{{ curpage.url | remove: 'index.html' }}">{{ curpage.title }}</a>
+            {% endif %}
+        </li>
+        {% endif %}
+        {% endif %}
+        {% endfor %}
+        </ul>
+
+        <hr />
 
       {{ content }}
 

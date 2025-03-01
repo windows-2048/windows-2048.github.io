@@ -48,4 +48,4 @@ En el video a continuación, Sambucha expresa su orgullo por ser el que hace cli
 </p>
 
 
-#### Derechos de autor (c) 2016-2025 de [{{ site.t['author_name'][page.lang] }}]({{ site.prod-url }}{{ site.t['home'][page.lang] }}){:target="_blank"}
+#### Derechos de autor (c) 2016-2025 de [{{ site.t['author_name'][page.lang] }}]({{ site.prod-url }}{{ site.t['home'][page.lang] }})

@@ -6,7 +6,7 @@ alternates:
   es: /es/
   pt: /pt/
 
-title: windows-2048 aka Open Source Developer Masha Novedad
+title: windows-2048 | Home
 description: Developer of The Fastest Mouse Clicker for Windows PC that achieves 100000 clicks per second
 description_rich: Developer of The Fastest Mouse Clicker for Windows PC that achieves 100000 clicks per second
 ---
@@ -19,7 +19,7 @@ description_rich: Developer of The Fastest Mouse Clicker for Windows PC that ach
 
 #### 2025 is the project's 9th anniversary
 
-Hi! My name is [Masha Novedad](https://windows-2048.github.io/resume/){:target="_blank"}. I am open source programmer since 2016.
+Hi! My name is [Masha Novedad](https://windows-2048.github.io/resume/). I am open source programmer since 2016.
 I write in vanilla C++.
 I am an author of {{ site.t['app_name'][page.lang] }}.
 All my applications are compact, standalone and statically-linked thus they have no external dependencies.
@@ -27,7 +27,7 @@ Windows installers are made for your convenience by open source tool [Inno Setup
 
 ## My Projects
 
-* [The Fastest Mouse Clicker for Windows](/The-Fastest-Mouse-Clicker-for-Windows/){:target="_blank"}
+* [The Fastest Mouse Clicker for Windows](/The-Fastest-Mouse-Clicker-for-Windows/)
 * NEW [Magic MSI Installer Template](https://github.com/windows-2048/Magic-MSI-Installer-Template){:target="_blank"}
 
 <div style="flex: 1; text-align: left; margin-top: -1.6vmax;">

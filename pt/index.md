@@ -6,7 +6,7 @@ alternates:
   es: /es/
   en: /
 
-title: windows-2048 também conhecido como Open Source Developer Masha Novedad
+title: windows-2048 | Lar
 description: Desenvolvedor do mais rápido mouse Clicker para Windows PC que atinge 100000 cliques por segundo
 description_rich: Desenvolvedor do mais rápido mouse Clicker para Windows PC que atinge 100000 cliques por segundo
 ---
@@ -19,7 +19,7 @@ description_rich: Desenvolvedor do mais rápido mouse Clicker para Windows PC qu
 
 #### 2025 é o 9o aniversário do projeto
 
-Olá! Meu nome é [Masha Novedad](https://windows-2048.github.io/resume/){:target="_blank"}. Sou programador de código aberto desde 2016.
+Olá! Meu nome é [Masha Novedad (em Inglês)](https://windows-2048.github.io/resume/){:target="_blank"}. Sou programador de código aberto desde 2016.
 Escrevo em baunilha C++.
 Eu sou um autor de {{ site.t['app_name'][page.lang] }}.
 Todas as minhas aplicações são compactas, autônomas e estáticamente ligadas, portanto, não têm dependências externas.

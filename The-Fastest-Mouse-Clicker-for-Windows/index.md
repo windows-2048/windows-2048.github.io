@@ -6,7 +6,7 @@ alternates:
   es: /es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/
   pt: /pt/O-Mais-Rapido-Mouse-Clicker-para-Windows/
 
-title: The Fastest Mouse Clicker for Windows | Official Download
+title: The Fastest Mouse Clicker for Windows
 description: The fastest auto-clicker for Windows PC. 100000 clicks per second reached by arrayed Win32 SendInput() API. GUI, command line, sequences of clicks
 description_rich: The fastest auto-clicker for Windows PC. 100000 clicks per second reached by arrayed Win32 <a href="https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a> API. GUI, command line, random clicks, sequences of clicks
 ---
@@ -77,7 +77,7 @@ Here is a short intro video that tells how to download and install {{ site.t['ap
 
 ## Table of Contents
 
-* [Disambiguation](/The-Fastest-Mouse-Clicker-for-Windows/Disambiguation/){:target="_blank"}
+* [Disambiguation](/The-Fastest-Mouse-Clicker-for-Windows/Disambiguation/)
 * [Introduction](index.html#Introduction)
 * [Features](index.html#Features)
 * [Comparison](index.html#Comparison)
@@ -138,7 +138,7 @@ Using keyboard keys (or mouse buttons) as a trigger, you can position the mouse,
 Of course, you can select arbitrary Begin and End trigger keys.
 You also have the option to set a click number limitation. The mouse auto-clicker stops automatically when your desired number of clicks is reached.
 
-If you desire to perform a Click Speed Test, go to elegant open source [implementation](https://all-mouse-auto-clickers.software/){:target="_blank"} working right in your web browser.
+If you desire to perform a Click Speed Test, go to elegant open source [implementation](https://mouse-auto-clickers.online/){:target="_blank"} working right in your web browser.
 The Click Speed Test is a free click per second test, which measures your mouse clicking speed in given time frame. Playing the Click Speed Test is easy and fun at the same time.
 The test is suitable for all types of auto-clicking software as well as for direct human hands testing in all age groups, so do not worry if you are just a high school student or a person with a corporate job or PhD.
 You do find Click Speed Test to be a useful tool while searching for ways to repeatedly click without using the mouse.
@@ -924,4 +924,4 @@ SHA256(Install_TheFastestMouseClicker_2.0.0.0.exe)= c12fbeee1a12ce598bcd1f6b3987
 <a name="Contacts"></a>
 ## Contacts
 
-#### Copyright (c) 2016-2025 by [{{ site.t['author_name'][page.lang] }}]({{ site.prod-url }}{{ site.t['home'][page.lang] }}){:target="_blank"}
+#### Copyright (c) 2016-2025 by [{{ site.t['author_name'][page.lang] }}]({{ site.prod-url }}{{ site.t['home'][page.lang] }})

@@ -6,7 +6,13 @@ ul.lang {
     justify-content: space-between;
 }
 
+a.athisname {
+    color: #666;
+}
 
+a.athisname:hover {
+    color: #333;
+}
 
 @-webkit-keyframes stripe-slide {
   0% {
