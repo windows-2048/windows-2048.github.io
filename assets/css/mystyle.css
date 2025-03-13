@@ -317,7 +317,7 @@ body {
     background-color: #fff;
     padding: 50px;
     font: 14px/1.4 Helvetica, Arial, sans-serif;
-    color: #727272;
+    color: #333;
     font-weight: normal;
 }
 h1,
@@ -326,15 +326,18 @@ h3,
 h4,
 h5,
 h6 {
-    color: #222;
+    color: #333;
     margin: 0 0 20px;
 }
 p,
+strong,
+b,
 ul,
 ol,
 table,
 pre,
 dl {
+    color: #333;
     margin: 0 0 20px;
 }
 h1,
@@ -433,6 +436,20 @@ header {
     position: fixed;
     -webkit-font-smoothing: subpixel-antialiased;
         background-color: #efd;
+        border: none;
+        border-top: 1px dotted #999;
+        border-bottom: 1px dotted #999;
+}
+div.header {
+        background-color: #efd;
+        border: none;
+        border-top: 1px dotted #999;
+        border-bottom: 1px dotted #999;
+        margin-bottom: 20px;
+}
+div.header ul {
+    margin-top: -20px;
+    margin-bottom: 5px;
 }
 ul.downloads {
     list-style: none;
@@ -534,8 +551,6 @@ body {
         padding-right: 320px;
     }
     section {
-        border: 1px solid #e5e5e5;
-        border-width: 1px 0;
         padding: 20px 0;
         margin: 0 0 20px;
     }
@@ -597,7 +612,6 @@ pre {
 header {
     background-color: #efd;
     padding: 2px;
-    border-radius: 4px;
 }
 .mylogox05 {
     height: 20px;

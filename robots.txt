@@ -1,3 +1,4 @@
 User-agent: *
 Disallow:
+
 Sitemap: https://windows-2048.github.io/sitemap.xml

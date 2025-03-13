@@ -115,7 +115,8 @@
   </head>
   <body>
     <div class="wrapper">
-      <header>
+
+    <header>
 {% assign posts=site.posts | where:"i18n-link", page.i18n-link | sort: 'lang' %}
 
 {% if posts.size == 0 %}
@@ -168,7 +169,7 @@
 {{ site.t['updated_text'][page.lang] }} : {{ site.t['updated_month'][page.lang] }} {{ site.upd_day_year }}
 </p>
 
-<p class="view">
+<p class="view" style="margin-bottom: 0px;">
 <a href="https://www.facebook.com/groups/mashanovedad" target="_blank">
 <svg width="1.5em" height="1.5em" viewBox="0 0 408.788 408.788" class="bi bi-box-arrow-in-down" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
 <title>Developer's facebook</title>
@@ -223,11 +224,11 @@
 mashanovedad@gmail.com
 </a>
 </p>
+    </header>
 
-      </header>
-      <section>
+    <section>
 
-        <hr />
+        <div class="header">
 
         <p><strong>{{ site.t['sitemap_text'][page.lang] }}</strong></p>
 
@@ -248,11 +249,12 @@ mashanovedad@gmail.com
         {% endfor %}
         </ul>
 
-        <hr />
+        </div>
 
       {{ content }}
 
-      </section>
+    </section>
+
     </div>
 
     {% if site.google_analytics %}

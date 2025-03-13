@@ -10,7 +10,7 @@ layout: null
         <loc>{{ site.burl }}{{ page.url | remove: 'index.html' }}</loc>
         <lastmod>{{ site.bdate }}</lastmod>
         <changefreq>daily</changefreq>
-        <priority>0.8</priority>
+        <priority>0.9</priority>
     </url>
     {% endif %}
     {% endfor %}
