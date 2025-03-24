@@ -56,6 +56,6 @@ Windows installers are made for your convenience by open source tool [Inno Setup
 * Fixed wrong question about close old application during installation.
 * Few minor bug fixes.
 
-## Copyright
+## {{ site.t['copyright_header'][page.lang] }}
 
-Copyright (c) 2016-2025 by Open Source Developer Masha Novedad.
+{{ site.t['copyright_text'][page.lang] }} {{ site.t['author_name'][page.lang] }}.

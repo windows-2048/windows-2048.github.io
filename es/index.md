@@ -86,6 +86,6 @@ Las aplicaciones de auto clicker de ratón automatizan tareas repetitivas y se u
 
 Estas diferencias regionales reflejan cómo la tecnología se adapta a contextos culturales y económicos, creando casos de uso únicos en todo el mundo.
 
-## Derechos de autor
+## {{ site.t['copyright_header'][page.lang] }}
 
-Derechos de autor (c) 2016-2025 por {{ site.t['author_name'][page.lang] }}.
+{{ site.t['copyright_text'][page.lang] }} {{ site.t['author_name'][page.lang] }}.

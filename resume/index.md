@@ -1,5 +1,5 @@
 ---
-i18n-link: resume
+i18n-link: zresume
 permalink: /resume/
 title: windows-2048 | CV/Resume
 description: Developer of The Fastest Mouse Clicker for Windows PC that achieves 100000 clicks per second. CV/Resume

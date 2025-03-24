@@ -233,7 +233,7 @@ mashanovedad@gmail.com
         <p><strong>{{ site.t['sitemap_text'][page.lang] }}</strong></p>
 
         <ul>
-        {% assign sorted_pages = site.pages | sort:"permalink" %}
+        {% assign sorted_pages = site.pages | sort:"i18n-link" %}
         {% for curpage in sorted_pages %}
         {% if curpage.permalink %}
         {% if curpage.lang == page.lang %}

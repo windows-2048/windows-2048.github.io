@@ -86,6 +86,6 @@ Os aplicativos de auto clicker de mouse automatizam tarefas repetitivas e são u
 
 Essas diferenças regionais destacam como contextos culturais e econômicos influenciam a adoção e utilização de aplicativos de auto clicker em todo o mundo.
 
-## Direitos autorais
+## {{ site.t['copyright_header'][page.lang] }}
 
-Direitos autorais (c) 2016-2025 de {{ site.t['author_name'][page.lang] }}.
+{{ site.t['copyright_text'][page.lang] }} {{ site.t['author_name'][page.lang] }}.

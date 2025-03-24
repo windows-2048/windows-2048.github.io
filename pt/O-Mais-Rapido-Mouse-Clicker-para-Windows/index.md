@@ -127,4 +127,4 @@ Faça o download [qt-5.15.5-static.zip](https://filedn.com/llBp1EbMQML0Hdv9A9SVo
 <a name="Contacts"></a>
 ## Contatos
 
-#### Direitos autorais (c) 2016-2025 de [{{ site.t['author_name'][page.lang] }}]({{ site.prod-url }}{{ site.t['home'][page.lang] }})
+#### {{ site.t['copyright_text'][page.lang] }} [{{ site.t['author_name'][page.lang] }}]({{ site.prod-url }}{{ site.t['home'][page.lang] }})

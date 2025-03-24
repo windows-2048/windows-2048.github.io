@@ -48,4 +48,4 @@ No vídeo abaixo, Sambucha demonstra seu orgulho de ser o mais rápido a clicar 
 </p>
 
 
-#### Copyright (c) 2016-2025 by [{{ site.t['author_name'][page.lang] }}]({{ site.prod-url }}{{ site.t['home'][page.lang] }})
+#### {{ site.t['copyright_text'][page.lang] }} [{{ site.t['author_name'][page.lang] }}]({{ site.prod-url }}{{ site.t['home'][page.lang] }})
