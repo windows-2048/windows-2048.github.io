@@ -23,12 +23,14 @@ __Experienced software engineer for scalable high-load fault-tolerant systems wi
 
 ```
 Address  : Frutiger AG Weissweg 3 3006 Bern
-Phone    : iPhone 13 Pro Max 1Tb
+Phone    : iPhone 16 Pro Max 1Tb
 Email    : mashanovedad@gmail.com
 Facebook : facebook.com/groups/mashanovedad
-Twitter  : twitter.com/Fastest_Clicker
+Tumblr   : tumblr.com/fastest-mouse-clicker-windows
 Github   : github.com/windows-2048
 ```
+
+Preferable contact method: email to **mashanovedad@gmail.com**.
 
 ---
 

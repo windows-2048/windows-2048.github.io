@@ -33,4 +33,19 @@ A continuación, se muestra una tabla que resume la velocidad de clic recomendad
 | Otros juegos inactivos | 10-100 cps | Un clic | Atajo personalizado | Ajustar según la mecánica del juego |
 | Pruebas de software | 5-10 cps | Un clic/Doble clic | Atajo personalizado | Consulta también las pruebas de <a href="https://www.selenium.dev/" target="_blank">Selenium</a> para un software determinado |
 
+<div class="video-container">
+    <iframe 
+        width="560" 
+        height="315" 
+        src="https://www.youtube.com/embed/N0gOpVcgFaM?rel=0&modestbranding=1" 
+        title="Best Auto Clicker Settings for Popular Games - The Fastest Mouse Clicker for Windows" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen
+        loading="lazy" >
+    </iframe>
+</div>
+
+Hay un video de Youtube dedicado a las mejores configuraciones de clicker automático para los juegos más populares y diversas actividades de prueba (en Inglés).
+
 #### {{ site.t['copyright_text'][page.lang] }} [{{ site.t['author_name'][page.lang] }}]({{ site.prod-url }}{{ site.t['home'][page.lang] }})

@@ -34,4 +34,19 @@ aventuras de navegador e atividades de teste de software.
 | Outros jogos ociosos | 10-100 cps | Clique único | Tecla de atalho personalizada | Ajuste com base na mecânica do jogo |
 | Teste de software | 5-10 cps | Clique único/duplo | Tecla de atalho personalizada | Verifique também os testes <a href="https://www.selenium.dev/" target="_blank">Selenium</a> para um determinado software |
 
+<div class="video-container">
+    <iframe 
+        width="560" 
+        height="315" 
+        src="https://www.youtube.com/embed/N0gOpVcgFaM?rel=0&modestbranding=1" 
+        title="Best Auto Clicker Settings for Popular Games - The Fastest Mouse Clicker for Windows" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen
+        loading="lazy" >
+    </iframe>
+</div>
+
+Há um vídeo no YouTube dedicado às melhores configurações do auto clicker para os jogos mais populares e diversas atividades de teste (em Inglês).
+
 #### {{ site.t['copyright_text'][page.lang] }} [{{ site.t['author_name'][page.lang] }}]({{ site.prod-url }}{{ site.t['home'][page.lang] }})

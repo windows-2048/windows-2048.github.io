@@ -34,4 +34,19 @@ browser adventures and software testing activities.
 | Other Idle Games     | 10-100 cps              | Single Click          | Custom Hotkey    | Adjust based on game mechanics            |
 | Software Testing     | 5-10 cps                | Single/Double Click   | Custom Hotkey    | Check also the <a href="https://www.selenium.dev/" target="_blank">Selenium</a> tests for a given software |
 
+<div class="video-container">
+    <iframe 
+        width="560" 
+        height="315" 
+        src="https://www.youtube.com/embed/N0gOpVcgFaM?rel=0&modestbranding=1" 
+        title="Best Auto Clicker Settings for Popular Games - The Fastest Mouse Clicker for Windows" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen
+        loading="lazy" >
+    </iframe>
+</div>
+
+There is a Youtube video dedicated to the best auto clicker settings for most popular games and various testing activities.
+
 #### {{ site.t['copyright_text'][page.lang] }} [{{ site.t['author_name'][page.lang] }}]({{ site.prod-url }}{{ site.t['home'][page.lang] }})
