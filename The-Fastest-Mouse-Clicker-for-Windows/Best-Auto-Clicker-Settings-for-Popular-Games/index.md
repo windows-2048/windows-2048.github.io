@@ -7,8 +7,8 @@ alternates:
   pt: /pt/O-Mais-Rapido-Mouse-Clicker-para-Windows/Melhores-Configuracoes-de-Auto-Clicker-para-Jogos-Populares/
 
 title: The Fastest Mouse Clicker for Windows | Best Auto Clicker Settings for Popular Games
-description: The fastest auto-clicker for Windows PC using arrayed Win32 SendInput() API. Best Auto Clicker Settings for Popular Games
-description_rich: The fastest auto-clicker for Windows PC using arrayed Win32 <a href="https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a> API. Best Auto Clicker Settings for Popular Games
+description: The fastest auto-clicker for Windows PC. 100000 clicks per second. Best Auto Clicker Settings for Popular Games
+description_rich: The fastest auto-clicker for Windows PC. 100000 clicks per second. Best Auto Clicker Settings for Popular Games
 ---
 
 ## {{ page.title | default: site.t['title'][page.lang] }}

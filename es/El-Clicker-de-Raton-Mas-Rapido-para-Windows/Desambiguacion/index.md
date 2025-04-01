@@ -7,8 +7,8 @@ alternates:
   pt: /pt/O-Mais-Rapido-Mouse-Clicker-para-Windows/Desambiguacao/
 
 title: El Clicker de Ratón Más Rápido para Windows | Desambiguación
-description: El clicker automático más rápido para Windows PC utilizando la API SendInput() de Win32 en matriz. Desambiguación
-description_rich: El clicker automático más rápido para Windows PC utilizando la API <a href="https://learn.microsoft.com/es-es/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a> de Win32 en matriz. Desambiguación
+description: El autoclic más rápido para PC con Windows. 100000 clics por segundo. Desambiguación
+description_rich: El autoclic más rápido para PC con Windows. 100000 clics por segundo. Desambiguación
 ---
 
 ## {{ page.title | default: site.t['title'][page.lang] }}

@@ -79,7 +79,7 @@ Here is a short intro video that tells how to download and install {{ site.t['ap
 
 * [Disambiguation](/The-Fastest-Mouse-Clicker-for-Windows/Disambiguation/)
 * [Introduction](index.html#Introduction)
-* [Features](index.html#Features)
+* [Features](/The-Fastest-Mouse-Clicker-for-Windows/Features/)
 * [Comparison](index.html#Comparison)
 * [Technology](index.html#Technology)
 * [Mouse Polling Rate](index.html#Mouse_Polling_Rate)
@@ -90,7 +90,6 @@ Here is a short intro video that tells how to download and install {{ site.t['ap
 * [Partners](index.html#Partners)
 * [Video Reviews From Our Users](index.html#Reviews_from_our_users)
 * [Frequently Asked Questions (FAQ)](index.html#FAQ)
-* [Downloads for all the versions](index.html#Downloads)
 * [Contacts](index.html#Contacts)
 
 
@@ -180,46 +179,6 @@ There are a lot of use-cases of {{ site.t['app_name'][page.lang] }}.
 Amateurs can use it for cheating in various web sites or video games such as Counter-Strike: Global Offensive (CS:GO), Candy Crush Saga, Roblox games, etc.
 Professionals can use it for quality assistant and testing purposes because full support of command line in batch files, PowerShell scripts, etc.
 
-<a name="Features"></a>
-## Features
-
-This is not a complete list of all the features of the program. I have just selected several of them most important
-from the point of view of our users.
-Because the Help text is not yet complete and does not reflect all the features implemented, feel free to create
-an [issue]({{ site.source_issues_url }}){:target="_blank"} to request a feature of your desire.
-
-* The world's best click rate up to 100 000 clicks per second, increased by 10 times comparing with the predecessor application "Fast Mouse Clicker". The latest version with fixed performance issue is 100 times faster!
-
-* Utilizes batch-array feature of <code><a href="https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a></code> and manipulates with <code><a href="https://docs.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-sleep" target="_blank">Sleep()</a></code> to reach the ultimate possible performance of mouse clicks on Windows.
-
-* The Left, Middle, and Right mouse buttons are supported, they can be triggered for clicking by a key on the keyboard in a press or toggle mode.
-
-* Arbitrary keyboard key can be selected to trigger the clicking process. Furthermore, an another mouse button can play a role of a trigger key.
-
-* Different independent trigger keys to begin/end the clicking in toggle mode.
-
-* The program works fine even if it is minimized and also it operates on an arbitrary desktop area. The program can stop to click automatically, if a certain number of clicks is given by end-user.
-
-* This is free, open source application without ads, viruses, trojans, malware, etc. forever.
-
-* The program has built-in updater service under construction that may perform additional scientific tasks when your CPU is idle with very tiny CPU and Internet usage. See source code of the installer. The application uninstalls clearly and is NOT a virus or malware. You may switch to the installers without update service and back with [in any moment](https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows/blob/master/InnoSetupDownloader/README.md){:target="_blank"}.
-
-* The application can be used on a bare system, it does not depend on .NET Framework or any other external library as "Speed AutoClicker", "Fast Clicker", etc.
-
-* Command line has been supported: TheFastestMouseClicker.exe -c <clicks per second> -t <trigger key> -s <stop at> -m <trigger key mode> -b <mouse button to click>, where <trigger key mode> can be 'press' or'toggle' and <mouse button to click> can be 'left', 'middle', or 'right'. One may specify any part of arguments; unspecified or unrecognized values will be treated as defaults (see them by running the app and pressing 'Reset to defaults' button.
-
-* Button "Batch folder" has been added to open a directory with \*.bat files quickly; it simplifies command line usage a lot.
-
-* Fractional values for clicks/s parameter are supported. For example, 0.5 clicks/s equals to 1 click every 2 seconds.
-
-* Random clicking has been implemented. Just click the "Batch folder" button and see remarks in the \*.bat files reside there in order how to use command line arguments and to enable random clicking.
-
-* Group clicking (record/play the sequences of clicks) supported via additional application since v.2.5.3.2. You can quickly switch between the applications by clicking the "Run group app"/"Run single app" button.
-
-* Window Always Top checkbox to keep the app's window topmost.
-
-* Manual options/settings editing as a bonus to automatic saving: just open C: \ Users \ \<YourWindowsUser\> \ AppData \ Roaming \ TheFastestMouseClicker \ TheFastestMouseClicker \ settings.dat
-in any plain text editor (you might change sub-path TheFastestMouseClicker during installation).
 
 <a name="Comparison"></a>
 ## Comparison
@@ -894,32 +853,6 @@ I did that work essentially and have fixed that issue by adjusting font sizes on
 
 Oh no :) It has been just started. Feel free to ask your question via email. See the Contacts chapter below.
 
-<a name="Downloads"></a>
-## Downloads for all the versions
-
-* Version 2.6.1.0 Windows installer (32/64-bit): [Install_TheFastestMouseClicker_2.6.1.0.exe](https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/Install_TheFastestMouseClicker_2.6.1.0.exe) ( [mirror](https://ipfs.io/ipfs/QmP4v8nCnfbYzP643BmHeuYgiX1GhbiioiEu3zjzVnkgi1/Install_TheFastestMouseClicker_2.6.1.0.exe) )
-
-SHA256(Install_TheFastestMouseClicker_2.6.1.0.exe)= eb6a79fcecb598b626b10d34951d6b51b7c56af25c340a59c208b879f3d2e151
-
-* Version 2.5.4.0 Windows installer (32/64-bit): [Install_TheFastestMouseClicker_2.5.4.0.exe](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows/-/raw/master/WindowsInstaller/Install_TheFastestMouseClicker_2.5.4.0.exe?inline=false)
-
-SHA256(Install_TheFastestMouseClicker_2.5.4.0.exe)= 738058b7dc1e95b963860e5797bab5761a8801bda90feb0311c038e98477cc31
-
-* Version 2.5.3.3 Windows installer (32/64-bit): [Install_TheFastestMouseClicker_2.5.3.3.exe](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows/-/raw/master/WindowsInstaller/Install_TheFastestMouseClicker_2.5.3.3.exe?inline=false)
-
-SHA256(Install_TheFastestMouseClicker_2.5.3.3.exe)= 55bde08c90989d4dbeb9602d93b3c7bcb3645135281e1b64c32d59521799836b
-
-* Version 2.5.3.2 Windows installer (32/64-bit): [Install_TheFastestMouseClicker_2.5.3.2.exe](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows/-/raw/master/WindowsInstaller/Install_TheFastestMouseClicker_2.5.3.2.exe?inline=false)
-
-SHA256(Install_TheFastestMouseClicker_2.5.3.2.exe)= 58854af05b2024ce39078d828228d512548212fc3283c511c1a16c19c844bf06
-
-* Version 2.5.1.0 Windows installer (32/64-bit): [Install_TheFastestMouseClicker_2.5.1.0.exe](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows/-/raw/master/WindowsInstaller/Install_TheFastestMouseClicker_2.5.1.0.exe?inline=false)
-
-SHA256(Install_TheFastestMouseClicker_2.5.1.0.exe)= cb13c125212feb8241f4a4258919781d546084f0f19862ad11f07a3e95004577
-
-* Version 2.0.0.0 Windows installer (32/64-bit): [Install_TheFastestMouseClicker_2.0.0.0.exe](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows/-/raw/master/WindowsInstaller/Install_TheFastestMouseClicker_2.0.0.0.exe?inline=false)
-
-SHA256(Install_TheFastestMouseClicker_2.0.0.0.exe)= c12fbeee1a12ce598bcd1f6b39872abcbcfc89d2b21d235882ca479fd26a324a
 
 <a name="Contacts"></a>
 ## Contacts

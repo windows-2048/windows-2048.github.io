@@ -7,8 +7,8 @@ alternates:
   en: /The-Fastest-Mouse-Clicker-for-Windows/Disambiguation/
 
 title: O Mais Rápido Mouse Clicker para Windows | Desambiguação
-description: O clique automático mais rápido para Windows PC usando a API Win32 SendInput() em array. Desambiguação
-description_rich: O clique automático mais rápido para Windows PC usando a API Win32 <a href="https://learn.microsoft.com/pt-br/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a> em array. Desambiguação
+description: O auto-clicker mais rápido para PC Windows. 100000 cliques por segundo. Desambiguação
+description_rich: O auto-clicker mais rápido para PC Windows. 100000 cliques por segundo. Desambiguação
 ---
 
 ## {{ page.title | default: site.t['title'][page.lang] }}

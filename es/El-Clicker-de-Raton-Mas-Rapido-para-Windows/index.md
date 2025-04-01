@@ -79,7 +79,7 @@ Aquí hay un breve video de introducción que explica cómo descargar e instalar
 
 * [Desambiguación](/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/Desambiguacion/)
 * [Introducción](index.html#Introduction)
-* [Características](index.html#Features)
+* [Características](/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/Caracteristicas/)
 * [Comparación](index.html#Comparison)
 * [Tecnología](index.html#Technology)
 * [Tasa de Sondeo del Ratón](index.html#Mouse_Polling_Rate)
@@ -90,7 +90,6 @@ Aquí hay un breve video de introducción que explica cómo descargar e instalar
 * [Socios](index.html#Partners)
 * [Opiniones en Video de Nuestros Usuarios](index.html#Reviews_from_our_users)
 * [Preguntas Frecuentes (FAQ)](index.html#FAQ)
-* [Descargas para todas las versiones](index.html#Downloads)
 * [Contactos](index.html#Contacts)
 
 <a name="Introduction"></a>
@@ -179,46 +178,6 @@ Hay muchos casos de uso de {{ site.t['app_name'][page.lang] }}.
 Los aficionados pueden usarlo para hacer trampa en varios sitios web o videojuegos como Counter-Strike: Global Offensive (CS:GO), Candy Crush Saga, juegos de Roblox, etc.
 Los profesionales pueden utilizarlo como asistente de calidad y con fines de prueba porque es totalmente compatible con la línea de comandos en archivos por lotes, scripts de PowerShell, etc.
 
-<a name="Features"></a>
-## Características
-
-Esta no es una lista completa de todas las características del programa. Acabo de seleccionar varios de ellos los más importantes.
-desde el punto de vista de nuestros usuarios.
-Debido a que el texto de Ayuda aún no está completo y no refleja todas las funciones implementadas, siéntase libre de crear
-un [problema]({{ site.source_issues_url }}){:target="_blank"} para solicitar una característica de su deseo.
-
-* La mejor tasa de clics del mundo hasta 100 000 clics por segundo, multiplicada por 10 en comparación con la aplicación predecesora "Clicker de Ratón Rápido" ("Fast Mouse Clicker"). ¡La última versión con un problema de rendimiento solucionado es 100 veces más rápida!
-
-* Utiliza la función de matriz por lotes de <code><a href="https://learn.microsoft.com/es-es/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a></code> y manipula con <code><a href="https://learn.microsoft.com/es-es/windows/win32/api/synchapi/nf-synchapi-sleep" target= "_blank">Sleep()</a></code> para alcanzar el máximo rendimiento posible de los clics del mouse en Windows.
-
-* Se admiten los botones izquierdo, medio y derecho del mouse, se pueden activar al hacer clic con una tecla del teclado en un modo de presionar o alternar.
-
-* Se puede seleccionar una tecla arbitraria del teclado para activar el proceso de clic. Además, otro botón del mouse puede desempeñar el papel de una tecla de activación.
-
-* Distintas teclas de disparo independientes para comenzar/finalizar el clic en modo alternar.
-
-* El programa funciona bien incluso si está minimizado y también opera en un área de escritorio arbitraria. El programa puede dejar de hacer clic automáticamente, si el usuario final da una cierta cantidad de clics.
-
-* Esta es una aplicación gratuita de código abierto sin anuncios, virus, troyanos, malware, etc. para siempre.
-
-* El programa tiene un servicio de actualización incorporado en construcción que puede realizar tareas científicas adicionales cuando su CPU está inactiva con un uso muy pequeño de CPU e Internet. Ver código fuente del instalador. La aplicación se desinstala claramente y NO es un virus o malware. Puede cambiar a los instaladores sin el servicio de actualización y regresar con [en cualquier momento](https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows/blob/master/InnoSetupDownloader/README.md){:target="_blank"}.
-
-* La aplicación se puede utilizar en un sistema básico, no depende de .NET Framework ni de ninguna otra biblioteca externa como "Speed AutoClicker", "Fast Clicker", etc.
-
-* Se ha admitido la línea de comando: TheFastestMouseClicker.exe -c <clics por segundo> -t <tecla de activación> -s <detener en> -m <modo de tecla de activación> -b <botón del mouse para hacer clic>, donde <modo de tecla de activación> puede ser 'presionar' o 'alternar' y <botón del mouse para hacer clic> puede ser 'izquierda', 'centro' o 'derecha'. Uno puede especificar cualquier parte de los argumentos; los valores no especificados o no reconocidos se tratarán como valores predeterminados (véalos ejecutando la aplicación y presionando el botón 'Restablecer valores predeterminados').
-
-* Se agregó el botón "Carpeta por lotes" para abrir rápidamente un directorio con archivos \*.bat; simplifica mucho el uso de la línea de comandos.
-
-* Se admiten valores fraccionarios para el parámetro clics/s. Por ejemplo, 0,5 clics/s equivalen a 1 clic cada 2 segundos.
-
-* Se ha implementado el clic aleatorio. Simplemente haga clic en el botón "Carpeta por lotes" y vea los comentarios en los archivos \*.bat que residen allí para saber cómo usar los argumentos de la línea de comandos y habilitar los clics aleatorios.
-
-* Clic en grupo (grabar/reproducir las secuencias de clics) admitido a través de una aplicación adicional desde v.2.5.3.2. Puede cambiar rápidamente entre las aplicaciones haciendo clic en el botón "Ejecutar aplicación de grupo"/"Ejecutar aplicación individual".
-
-* Casilla de verificación Ventana siempre superior para mantener la ventana de la aplicación en la parte superior.
-
-* Edición manual de opciones/configuraciones como bonificación al guardado automático: simplemente abra C:\Users\\<YourWindowsUser\>\AppData\Roaming\TheFastestMouseClicker\TheFastestMouseClicker\settings.dat
-en cualquier editor de texto sin formato (puede cambiar la ruta secundaria TheFastestMouseClicker durante la instalación).
 
 <a name="Comparison"></a>
 ## Comparación
@@ -894,32 +853,6 @@ Hice ese trabajo esencialmente y solucioné ese problema ajustando los tamaños 
 
 Oh no :) Acaba de empezar. No dude en hacer su pregunta por correo electrónico. Consulte el capítulo Contactos a continuación.
 
-<a name="Downloads"></a>
-## Descargas para todas las versiones
-
-* Versión 2.6.1.0 Windows instalador (32/64-bit): [Install_TheFastestMouseClicker_2.6.1.0.exe](https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/Install_TheFastestMouseClicker_2.6.1.0.exe) ( [mirror](https://ipfs.io/ipfs/QmP4v8nCnfbYzP643BmHeuYgiX1GhbiioiEu3zjzVnkgi1/Install_TheFastestMouseClicker_2.6.1.0.exe) )
-
-SHA256(Install_TheFastestMouseClicker_2.6.1.0.exe)= eb6a79fcecb598b626b10d34951d6b51b7c56af25c340a59c208b879f3d2e151
-
-* Versión 2.5.4.0 Windows instalador (32/64-bit): [Install_TheFastestMouseClicker_2.5.4.0.exe](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows/-/raw/master/WindowsInstaller/Install_TheFastestMouseClicker_2.5.4.0.exe?inline=false)
-
-SHA256(Install_TheFastestMouseClicker_2.5.4.0.exe)= 738058b7dc1e95b963860e5797bab5761a8801bda90feb0311c038e98477cc31
-
-* Versión 2.5.3.3 Windows instalador (32/64-bit): [Install_TheFastestMouseClicker_2.5.3.3.exe](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows/-/raw/master/WindowsInstaller/Install_TheFastestMouseClicker_2.5.3.3.exe?inline=false)
-
-SHA256(Install_TheFastestMouseClicker_2.5.3.3.exe)= 55bde08c90989d4dbeb9602d93b3c7bcb3645135281e1b64c32d59521799836b
-
-* Versión 2.5.3.2 Windows instalador (32/64-bit): [Install_TheFastestMouseClicker_2.5.3.2.exe](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows/-/raw/master/WindowsInstaller/Install_TheFastestMouseClicker_2.5.3.2.exe?inline=false)
-
-SHA256(Install_TheFastestMouseClicker_2.5.3.2.exe)= 58854af05b2024ce39078d828228d512548212fc3283c511c1a16c19c844bf06
-
-* Versión 2.5.1.0 Windows instalador (32/64-bit): [Install_TheFastestMouseClicker_2.5.1.0.exe](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows/-/raw/master/WindowsInstaller/Install_TheFastestMouseClicker_2.5.1.0.exe?inline=false)
-
-SHA256(Install_TheFastestMouseClicker_2.5.1.0.exe)= cb13c125212feb8241f4a4258919781d546084f0f19862ad11f07a3e95004577
-
-* Versión 2.0.0.0 Windows instalador (32/64-bit): [Install_TheFastestMouseClicker_2.0.0.0.exe](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows/-/raw/master/WindowsInstaller/Install_TheFastestMouseClicker_2.0.0.0.exe?inline=false)
-
-SHA256(Install_TheFastestMouseClicker_2.0.0.0.exe)= c12fbeee1a12ce598bcd1f6b39872abcbcfc89d2b21d235882ca479fd26a324a
 
 <a name="Contacts"></a>
 ## Contactos
