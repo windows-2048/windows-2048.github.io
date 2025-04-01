@@ -1,10 +1,10 @@
 ---
 i18n-link: the-fastest-mouse-clicker-for-windows-features
-permalink: /pt/O-Mais-Rapido-Mouse-Clicker-para-Windows/Caracteristicos
+permalink: /pt/O-Mais-Rapido-Mouse-Clicker-para-Windows/Caracteristicos/
 
 alternates:
-  es: /es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/Caracteristicas
-  en: /The-Fastest-Mouse-Clicker-for-Windows/Features
+  es: /es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/Caracteristicas/
+  en: /The-Fastest-Mouse-Clicker-for-Windows/Features/
 
 title: O Mais Rápido Mouse Clicker para Windows | Característicos
 description: O auto-clicker mais rápido para PC Windows. 100000 cliques por segundo. Lista abrangente dos recursos do programa
