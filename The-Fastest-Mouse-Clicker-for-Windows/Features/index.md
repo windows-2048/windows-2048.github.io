@@ -34,7 +34,7 @@ an [issue]({{ site.source_issues_url }}){:target="_blank"} to request a feature 
 
 * The program works fine even if it is minimized and also it operates on an arbitrary desktop area. The program can stop to click automatically, if a certain number of clicks is given by end-user.
 
-* This is free, open source application without ads, viruses, trojans, malware, etc. forever.
+* This is a free, open source application without ads, viruses, trojans, malware, etc. forever.
 
 * The program has built-in updater service under construction that may perform additional scientific tasks when your CPU is idle with very tiny CPU and Internet usage. See source code of the installer. The application uninstalls clearly and is NOT a virus or malware. You may switch to the installers without update service and back with [in any moment](https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows/blob/master/InnoSetupDownloader/README.md){:target="_blank"}.
 

@@ -17,43 +17,43 @@ description_rich: El autoclic más rápido para PC con Windows. 100000 clics por
 
 > {{ site.t['updated_text'][page.lang] }} : {{ site.t['updated_month'][page.lang] }} {{ site.upd_day_year }}.
 
-This is not a complete list of all the features of the program. I have just selected several of them most important
-from the point of view of our users.
-Because the Help text is not yet complete and does not reflect all the features implemented, feel free to create
-an [issue]({{ site.source_issues_url }}){:target="_blank"} to request a feature of your desire.
+Esta no es una lista completa de todas las funciones del programa. Solo he seleccionado algunas de las más importantes desde el punto de vista de nuestros usuarios.
+Dado que el texto de ayuda aún no está completo
+y no refleja todas las funciones implementadas, no dude en crear
+un [issue]({{ site.source_issues_url }}){:target="_blank"} para solicitar la función que desee.
 
-* The world's best click rate up to 100 000 clicks per second, increased by 10 times comparing with the predecessor application "Fast Mouse Clicker". The latest version with fixed performance issue is 100 times faster!
+* La mejor tasa de clics del mundo: hasta 100 000 clics por segundo, 10 veces superior a la de su predecesora, "Fast Mouse Clicker". ¡La última versión, con un problema de rendimiento corregido, es 100 veces más rápida!
 
-* Utilizes batch-array feature of <code><a href="https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a></code> and manipulates with <code><a href="https://docs.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-sleep" target="_blank">Sleep()</a></code> to reach the ultimate possible performance of mouse clicks on Windows.
+* Utiliza la función de matriz por lotes de <code><a href="https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a></code> y manipula con <code><a href="https://docs.microsoft.com/en-us/windows/win32/api/syncchapi/nf-syncchapi-sleep" target="_blank">Sleep()</a></code> para alcanzar el máximo rendimiento posible de los clics del mouse en Windows.
 
-* The Left, Middle, and Right mouse buttons are supported, they can be triggered for clicking by a key on the keyboard in a press or toggle mode.
+* Se admiten los botones izquierdo, central y derecho del mouse, y se pueden activar para hacer clic con una tecla del teclado en modo de presión o alternancia.
 
-* Arbitrary keyboard key can be selected to trigger the clicking process. Furthermore, an another mouse button can play a role of a trigger key.
+* Se puede seleccionar cualquier tecla del teclado para activar el clic. Además, otro botón del ratón puede actuar como tecla de activación.
 
-* Different independent trigger keys to begin/end the clicking in toggle mode.
+* Diferentes teclas de activación independientes para iniciar/finalizar el clic en el modo de alternancia.
 
-* The program works fine even if it is minimized and also it operates on an arbitrary desktop area. The program can stop to click automatically, if a certain number of clicks is given by end-user.
+* El programa funciona correctamente incluso minimizado y opera en cualquier área del escritorio. Puede dejar de hacer clic automáticamente si el usuario final establece un número determinado de clics.
 
-* This is free, open source application without ads, viruses, trojans, malware, etc. forever.
+* Esta es una aplicación gratuita, de código abierto, sin anuncios, virus, troyanos, malware, etc. para siempre.
 
-* The program has built-in updater service under construction that may perform additional scientific tasks when your CPU is idle with very tiny CPU and Internet usage. See source code of the installer. The application uninstalls clearly and is NOT a virus or malware. You may switch to the installers without update service and back with [in any moment](https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows/blob/master/InnoSetupDownloader/README.md){:target="_blank"}.
+* El programa cuenta con un servicio de actualización integrado en desarrollo que puede realizar tareas científicas adicionales cuando la CPU está inactiva con un uso mínimo de la misma y de Internet. Consulte el código fuente del instalador. La aplicación se desinstala fácilmente y NO es un virus ni malware. Puede cambiar a los instaladores sin servicio de actualización y volver a [en cualquier momento](https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows/blob/master/InnoSetupDownloader/README.md){:target="_blank"}.
 
-* The application can be used on a bare system, it does not depend on .NET Framework or any other external library as "Speed AutoClicker", "Fast Clicker", etc.
+* La aplicación se puede utilizar en un sistema básico, no depende de .NET Framework ni de ninguna otra biblioteca externa como "Speed ​​AutoClicker", "Fast Clicker", etc.
 
-* Command line has been supported: TheFastestMouseClicker.exe -c <clicks per second> -t <trigger key> -s <stop at> -m <trigger key mode> -b <mouse button to click>, where <trigger key mode> can be 'press' or'toggle' and <mouse button to click> can be 'left', 'middle', or 'right'. One may specify any part of arguments; unspecified or unrecognized values will be treated as defaults (see them by running the app and pressing 'Reset to defaults' button.
+* Se ha admitido la línea de comandos: TheFastestMouseClicker.exe -c <clics por segundo> -t <tecla de activación> -s <detenerse en> -m <modo de la tecla de activación> -b <botón del ratón para hacer clic>, donde <modo de la tecla de activación> puede ser 'pulsar' o 'alternar' y <botón del ratón para hacer clic> puede ser 'izquierdo', 'central' o 'derecho'. Se puede especificar cualquier parte de los argumentos; los valores no especificados o no reconocidos se considerarán predeterminados (para consultarlos, ejecute la aplicación y pulse el botón "Restablecer valores predeterminados").
 
-* Button "Batch folder" has been added to open a directory with \*.bat files quickly; it simplifies command line usage a lot.
+* Se ha añadido el botón "Carpeta por lotes" para abrir rápidamente un directorio con archivos \*.bat; simplifica mucho el uso de la línea de comandos.
 
-* Fractional values for clicks/s parameter are supported. For example, 0.5 clicks/s equals to 1 click every 2 seconds.
+* Se admiten valores fraccionarios para el parámetro de clics/s. Por ejemplo, 0,5 clics/s equivalen a 1 clic cada 2 segundos.
 
-* Random clicking has been implemented. Just click the "Batch folder" button and see remarks in the \*.bat files reside there in order how to use command line arguments and to enable random clicking.
+* Se han implementado los clics aleatorios. Simplemente haga clic en el botón "Carpeta de lotes" y consulte las observaciones en los archivos \*.bat que se encuentran allí para saber cómo usar los argumentos de la línea de comandos y habilitar los clics aleatorios.
 
-* Group clicking (record/play the sequences of clicks) supported via additional application since v.2.5.3.2. You can quickly switch between the applications by clicking the "Run group app"/"Run single app" button.
+* La función de clics grupales (grabar/reproducir secuencias de clics) es compatible con aplicaciones adicionales desde la versión v.2.5.3.2. Puede cambiar rápidamente entre aplicaciones haciendo clic en el botón "Ejecutar aplicación grupal" o "Ejecutar aplicación individual".
 
-* Window Always Top checkbox to keep the app's window topmost.
+* Casilla de verificación Ventana siempre arriba para mantener la ventana de la aplicación en la parte superior.
 
-* Manual options/settings editing as a bonus to automatic saving: just open C: \ Users \ \<YourWindowsUser\> \ AppData \ Roaming \ TheFastestMouseClicker \ TheFastestMouseClicker \ settings.dat
-in any plain text editor (you might change sub-path TheFastestMouseClicker during installation).
+* Edición manual de opciones/configuraciones como beneficio adicional al guardado automático: simplemente abra C: \ Users \ \<YourWindowsUser \> \ AppData \ Roaming \ TheFastestMouseClicker \ TheFastestMouseClicker \ settings.dat
+en cualquier editor de texto simple (puede cambiar la subruta TheFastestMouseClicker durante la instalación).
 
 
 #### {{ site.t['copyright_text'][page.lang] }} [{{ site.t['author_name'][page.lang] }}]({{ site.prod-url }}{{ site.t['home'][page.lang] }})
