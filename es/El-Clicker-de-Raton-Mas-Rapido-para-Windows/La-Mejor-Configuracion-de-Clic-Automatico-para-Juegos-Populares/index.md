@@ -37,8 +37,8 @@ A continuación, se muestra una tabla que resume la velocidad de clic recomendad
     <iframe 
         width="560" 
         height="315" 
-        src="https://www.youtube.com/embed/N0gOpVcgFaM?rel=0&modestbranding=1" 
-        title="Best Auto Clicker Settings for Popular Games - The Fastest Mouse Clicker for Windows" 
+        src="https://www.youtube.com/embed/ySC1SRaNE0g?rel=0&modestbranding=1" 
+        title="La mejor configuración de clicker automático para Minecraft - El Clicker de Ratón Más Rápido para Windows" 
         frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
         allowfullscreen
@@ -46,6 +46,6 @@ A continuación, se muestra una tabla que resume la velocidad de clic recomendad
     </iframe>
 </div>
 
-Hay un video de Youtube dedicado a las mejores configuraciones de clicker automático para los juegos más populares y diversas actividades de prueba (en Inglés).
+Hay un video de Youtube dedicado a las mejores configuraciones de clicker automático para Minecraft.
 
 #### {{ site.t['copyright_text'][page.lang] }} [{{ site.t['author_name'][page.lang] }}]({{ site.prod-url }}{{ site.t['home'][page.lang] }})
