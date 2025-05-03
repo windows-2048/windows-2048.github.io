@@ -76,13 +76,17 @@ Las aplicaciones de auto clicker de ratón automatizan tareas repetitivas y se u
 
 - **Enfoque en la Accesibilidad**: Se prefieren aplicaciones ligeras compatibles con dispositivos más antiguos.
 
-#### Distinciones en el Mercado de Estados Unidos.
+#### Distinciones en el Mercado de Estados Unidos
 
 - **Preferencia por Funciones Premium**: Los usuarios suelen optar por aplicaciones de pago con funcionalidades avanzadas.
 
 - **Uso a Nivel Empresarial**: Empleadas en pruebas automatizadas, marketing digital y aseguramiento de calidad de software.
 
 - **Conciencia sobre Regulaciones**: Enfoque en consideraciones éticas y legales.
+
+#### Para España y toda Latinoamérica hispanohablante
+
+He creado un nuevo canal en TikTok: ¡disfruten de mi primer <a href="https://www.tiktok.com/@the.fastest.auto.clicker/video/7499334177901317422" target="_blank">video</a>!
 
 Estas diferencias regionales reflejan cómo la tecnología se adapta a contextos culturales y económicos, creando casos de uso únicos en todo el mundo.
 
