@@ -6,9 +6,9 @@ alternates:
   es: /es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/La-Mejor-Configuracion-de-Clic-Automatico-para-Juegos-Populares/
   en: /The-Fastest-Mouse-Clicker-for-Windows/Best-Auto-Clicker-Settings-for-Popular-Games/
 
-title: O Mais Rápido Mouse Clicker para Windows | Melhores Configurações de Auto Clicker para Jogos Populares
-description: O auto-clicker mais rápido para PC Windows. 100000 cliques por segundo. Melhores Configurações de Auto Clicker para Jogos Populares
-description_rich: O auto-clicker mais rápido para PC Windows. 100000 cliques por segundo. Melhores Configurações de Auto Clicker para Jogos Populares
+title: "O Mais Rápido Mouse Clicker para Windows | Melhores Configurações de Auto Clicker para Jogos Populares"
+description: "O auto-clicker mais rápido para PC com Windows. Melhores configurações de auto-clicker para jogos populares: Minecraft, Roblox, testes de software..."
+description_rich: "O auto-clicker mais rápido para PC com Windows. Melhores configurações de auto-clicker para jogos populares: Minecraft, Roblox, testes de software..."
 ---
 
 ## {{ page.title | default: site.t['title'][page.lang] }}

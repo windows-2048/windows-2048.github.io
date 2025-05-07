@@ -6,9 +6,9 @@ alternates:
   en: /The-Fastest-Mouse-Clicker-for-Windows/
   pt: /pt/O-Mais-Rapido-Mouse-Clicker-para-Windows/
 
-title: El Clicker de Ratón Más Rápido para Windows
-description: El clicker automático más rápido para Windows PC. 100000 clics por segundo por Win32 SendInput() API. GUI, línea de comandos, secuencias de grabación/reproducción
-description_rich: El clicker automático más rápido para Windows PC. 100000 clics por segundo alcanzados por Win32 <a href="https://learn.microsoft.com/es-es/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a> API en matriz. GUI, línea de comandos, secuencias de grabación/reproducción
+title: "El Clicker de Ratón Más Rápido para Windows"
+description: "El autoclic más rápido para PC con Windows. 100000 clics por segundo: matrices en la SendInput() de Win32. Línea de comandos, clics aleatorios, secuencias de clics"
+description_rich: 'El autoclic más rápido para PC con Windows. 100000 clics por segundo: matrices en la <a href="https://learn.microsoft.com/es-es/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a> de Win32. Línea de comandos, clics aleatorios, secuencias de clics'
 ---
 
 ## {{ page.title | default: site.t['title'][page.lang] }}

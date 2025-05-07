@@ -6,9 +6,9 @@ alternates:
   es: /es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/Configuraciones-de-Pantalla-Multiple/
   en: /The-Fastest-Mouse-Clicker-for-Windows/Multiple-Display-Setups/
 
-title: O Mais Rápido Mouse Clicker para Windows | Configurações de Exibição Múltipla
-description: O auto-clicker mais rápido para PC Windows. 100000 cliques por segundo. Configurações de Exibição Múltipla
-description_rich: O auto-clicker mais rápido para PC Windows. 100000 cliques por segundo. Configurações de Exibição Múltipla
+title: "O Mais Rápido Mouse Clicker para Windows | Configurações de Exibição Múltipla"
+description: "O auto-clicker mais rápido para PC com Windows. Múltiplos monitores: resoluções diferentes, coordenadas virtuais, erros de posicionamento, SendInput()"
+description_rich: "O auto-clicker mais rápido para PC com Windows. Múltiplos monitores: resoluções diferentes, coordenadas virtuais, erros de posicionamento, SendInput()"
 ---
 
 ## {{ page.title | default: site.t['title'][page.lang] }}

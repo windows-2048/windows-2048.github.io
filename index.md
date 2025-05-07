@@ -6,9 +6,9 @@ alternates:
   es: /es/
   pt: /pt/
 
-title: windows-2048 | Home
-description: Developer of The Fastest Mouse Clicker for Windows PC that achieves 100000 clicks per second
-description_rich: Developer of The Fastest Mouse Clicker for Windows PC that achieves 100000 clicks per second
+title: "windows-2048 | Home"
+description: "Developer of The Fastest Mouse Clicker for Windows PC, a software testing app that achieves 100000 clicks per second using arrays in Win32 SendInput() API"
+description_rich: "Developer of The Fastest Mouse Clicker for Windows PC, a software testing app that achieves 100000 clicks per second using arrays in Win32 SendInput() API"
 ---
 
 ## {{ page.title | default: site.t['title'][page.lang] }}

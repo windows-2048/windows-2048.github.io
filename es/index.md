@@ -6,9 +6,9 @@ alternates:
   en: /
   pt: /pt/
 
-title: windows-2048 | Hogar
-description: Desarrollador del clicker de ratón más rápido para PC con Windows que alcanza los 100000 clics por segundo
-description_rich: Desarrollador del clicker de ratón más rápido para PC con Windows que alcanza los 100000 clics por segundo
+title: "windows-2048 | Hogar"
+description: "Desarrollador de The Fastest Mouse Clicker para PC con Windows, que logra 100000 clics por segundo utilizando matrices en la API SendInput() de Win32"
+description_rich: "Desarrollador de The Fastest Mouse Clicker para PC con Windows, que logra 100000 clics por segundo utilizando matrices en la API SendInput() de Win32"
 ---
 
 ## {{ page.title | default: site.t['title'][page.lang] }}

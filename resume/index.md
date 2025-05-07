@@ -1,9 +1,9 @@
 ---
 i18n-link: zresume
 permalink: /resume/
-title: windows-2048 | CV/Resume
-description: Developer of The Fastest Mouse Clicker for Windows PC that achieves 100000 clicks per second. CV/Resume
-description_rich: Developer of The Fastest Mouse Clicker for Windows PC that achieves 100000 clicks per second. CV/Resume
+title: "windows-2048 | CV/Resume"
+description: "Experienced software engineer for scalable high-load fault-tolerant systems with comprehensive formal verification in the fintech, health and military areas"
+description_rich: "Experienced software engineer for scalable high-load fault-tolerant systems with comprehensive formal verification in the fintech, health and military areas"
 ---
 
 ## {{ page.title | default: site.t['title'][page.lang] }}
@@ -13,9 +13,6 @@ description_rich: Developer of The Fastest Mouse Clicker for Windows PC that ach
 > {{ site.t['updated_text'][page.lang] }} : {{ site.t['updated_month'][page.lang] }} {{ site.upd_day_year }}.
 
 [See at indeed.com...](https://profile.indeed.com/p/mashan-hc2ql7c){:target="_blank"}
-
-__Experienced software engineer for scalable high-load fault-tolerant systems with comprehensive formal verification in the fintech, health and military areas.__
-
 
 ---
 

@@ -6,9 +6,9 @@ alternates:
   es: /es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/
   en: /The-Fastest-Mouse-Clicker-for-Windows/
 
-title: O Mais Rápido Mouse Clicker para Windows
-description: O clique automático mais rápido para Windows PC. 100000 cliques por segundo alcançado por Win32 array-SendInput(). GUI, linha de comando, outros recursos
-description_rich: O clique automático mais rápido para Windows PC. 100000 cliques por segundo alcançado por Win32 array-<a href="https://learn.microsoft.com/pt-br/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a>. GUI, linha de comando, outros recursos
+title: "O Mais Rápido Mouse Clicker para Windows"
+description: "O auto-clicker mais rápido para PC com Windows. 100000 cliques por segundo: matrizes na SendInput() do Win32. Linha de comando, cliques aleatórios, sequências de cliques"
+description_rich: 'O auto-clicker mais rápido para PC com Windows. 100000 cliques por segundo: matrizes na <a href="https://learn.microsoft.com/pt-br/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a> do Win32. Linha de comando, cliques aleatórios, sequências de cliques'
 ---
 
 ## {{ page.title | default: site.t['title'][page.lang] }}

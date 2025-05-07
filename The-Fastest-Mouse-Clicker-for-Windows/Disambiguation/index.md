@@ -6,9 +6,9 @@ alternates:
   es: /es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/Desambiguacion/
   pt: /pt/O-Mais-Rapido-Mouse-Clicker-para-Windows/Desambiguacao/
 
-title: The Fastest Mouse Clicker for Windows | Disambiguation
-description: The fastest auto-clicker for Windows PC. 100000 clicks per second. Disambiguation
-description_rich: The fastest auto-clicker for Windows PC. 100000 clicks per second. Disambiguation
+title: "The Fastest Mouse Clicker for Windows | Disambiguation"
+description: "The fastest auto-clicker for Windows PC. Disambiguation: the meme may refer to a man with hardware mouse: Who became the fastest mouse clicker in the world"
+description_rich: "The fastest auto-clicker for Windows PC. Disambiguation: the meme may refer to a man with hardware mouse: Who became the fastest mouse clicker in the world"
 ---
 
 ## {{ page.title | default: site.t['title'][page.lang] }}

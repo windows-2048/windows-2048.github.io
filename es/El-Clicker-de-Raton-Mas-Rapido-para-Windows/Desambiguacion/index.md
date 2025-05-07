@@ -6,9 +6,9 @@ alternates:
   en: /The-Fastest-Mouse-Clicker-for-Windows/Disambiguation/
   pt: /pt/O-Mais-Rapido-Mouse-Clicker-para-Windows/Desambiguacao/
 
-title: El Clicker de Ratón Más Rápido para Windows | Desambiguación
-description: El autoclic más rápido para PC con Windows. 100000 clics por segundo. Desambiguación
-description_rich: El autoclic más rápido para PC con Windows. 100000 clics por segundo. Desambiguación
+title: "El Clicker de Ratón Más Rápido para Windows | Desambiguación"
+description: "El clicker automático más rápido para PC con Windows. Desambiguación: el meme podría referirse a un hombre con un ratón físico: ¿Quién es el más rápido?"
+description_rich: "El clicker automático más rápido para PC con Windows. Desambiguación: el meme podría referirse a un hombre con un ratón físico: ¿Quién es el más rápido?"
 ---
 
 ## {{ page.title | default: site.t['title'][page.lang] }}

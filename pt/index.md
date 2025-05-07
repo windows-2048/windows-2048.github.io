@@ -6,9 +6,9 @@ alternates:
   es: /es/
   en: /
 
-title: windows-2048 | Lar
-description: Desenvolvedor do mais rápido mouse Clicker para Windows PC que atinge 100000 cliques por segundo
-description_rich: Desenvolvedor do mais rápido mouse Clicker para Windows PC que atinge 100000 cliques por segundo
+title: "windows-2048 | Lar"
+description: "Desenvolvedor do The Fastest Mouse Clicker para Windows PC,  um aplicativo que atinge 100000 cliques por segundo usando matrizes na API Win32 SendInput()"
+description_rich: "Desenvolvedor do The Fastest Mouse Clicker para Windows PC,  um aplicativo que atinge 100000 cliques por segundo usando matrizes na API Win32 SendInput()"
 ---
 
 ## {{ page.title | default: site.t['title'][page.lang] }}

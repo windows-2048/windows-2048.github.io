@@ -6,9 +6,9 @@ alternates:
   en: /The-Fastest-Mouse-Clicker-for-Windows/Features/
   pt: /pt/O-Mais-Rapido-Mouse-Clicker-para-Windows/Caracteristicos/
 
-title: El Clicker de Ratón Más Rápido para Windows | Características
-description: El autoclic más rápido para PC con Windows. 100000 clics por segundo. Lista completa de funciones del programa
-description_rich: El autoclic más rápido para PC con Windows. 100000 clics por segundo. Lista completa de funciones del programa
+title: "El Clicker de Ratón Más Rápido para Windows | Características"
+description: "El autoclic más rápido para PC con Windows. Arrays por lotes en SendInput, línea de comandos, clics aleatorios y clics grupales, código en GitHub"
+description_rich: "El autoclic más rápido para PC con Windows. Arrays por lotes en SendInput, línea de comandos, clics aleatorios y clics grupales, código en GitHub"
 ---
 
 ## {{ page.title | default: site.t['title'][page.lang] }}
