@@ -17,6 +17,10 @@ description_rich: "The fastest auto-clicker for Windows PC. Best Auto Clicker Se
 
 > {{ site.t['updated_text'][page.lang] }} : {{ site.t['updated_month'][page.lang] }} {{ site.upd_day_year }}.
 
+It is the problem when you are a fan of different idle games simultaneously. Imagine you have already used a mouse auto-clicker app to speed-up your adventure.
+But can't a game developer detect and ban you because you are clicking too fast due to auto-clicker cheating? That's because careful tuning of your auto-clicker settings
+for every single game is a task of the critical importance.
+
 Optimizing auto clicker settings can significantly impact gaming performance. Setting the interval between clicks is crucial.
 While some games can handle rapid clicks (e.g., every 1-10 milliseconds or 100-1000 clicks per second), others may lag or have built-in detections against such speeds.
 It's advisable to start with a moderate setting, such as 100 milliseconds or 10 clicks per second, and adjust based on the game's responsiveness.

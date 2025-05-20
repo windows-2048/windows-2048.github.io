@@ -2,16 +2,17 @@ theme: jekyll-theme-minimal
 encoding: UTF-8
 
 burl: https://windows-2048.github.io
-bdate: 2025-05-07
+bdate: 2025-05-20
 
+real_www: windows-2048.github.io
 
 prod-url: https://windows-2048.github.io
 
 github_star_counter: 174
 github_fork_counter: 33
-total_download_counter: 49253708
+total_download_counter: 50102158
 total_rating_counter: 4.8
-upd_day_year: 07 2025
+upd_day_year: 20 2025
 
 download_link_main: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/The-Fastest-Mouse-Clicker-for-Windows/Jan_31/Install_TFMCfW_rar_sfx_v2.6.2.0.exe
 download_link_mirror: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/The-Fastest-Mouse-Clicker-for-Windows/Jan_31/Install_TFMCfW_rar_sfx_v2.6.2.0.exe

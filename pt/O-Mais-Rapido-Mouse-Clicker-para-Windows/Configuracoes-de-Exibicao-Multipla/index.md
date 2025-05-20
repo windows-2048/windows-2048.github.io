@@ -17,6 +17,11 @@ description_rich: "O auto-clicker mais rápido para PC com Windows. Múltiplos m
 
 > {{ site.t['updated_text'][page.lang] }} : {{ site.t['updated_month'][page.lang] }} {{ site.upd_day_year }}.
 
+Você pode ter uma dor de cabeça especial ao jogar seus jogos favoritos, como Minecraft ou Roblox, em um PC com vários monitores conectados.
+Cuidado, a maioria dos aplicativos de clique automático não consegue lidar com vários monitores simultaneamente, pois a simulação dos cliques do mouse em tal situação
+precisa de um cálculo sofisticado das coordenadas da tela virtual para cada monitor conectado ao seu PC.
+Eu projetei O Mais Rápido Mouse Clicker para Windows com vários monitores em mente, pois tenho dois monitores no meu PC desde o início.
+
 Aplicativos de clique automático de mouse são ferramentas poderosas para automatizar tarefas repetitivas de clique, seja para jogos, produtividade ou testes. No entanto, ao trabalhar com configurações de múltiplos monitores, as coisas podem ficar complicadas. Cada monitor pode ter diferentes resoluções, configurações de escala e dimensões de pixels X-Y, o que pode afetar o desempenho dos cliques automáticos.
 
 <img src="/assets/images/Multiple-Display-Setup.png" alt="The Fastest Mouse Clicker for Windows: Multiple-Display-Setup" />

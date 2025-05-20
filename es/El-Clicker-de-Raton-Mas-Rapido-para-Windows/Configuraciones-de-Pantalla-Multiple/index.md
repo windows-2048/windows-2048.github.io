@@ -17,6 +17,11 @@ description_rich: "El autoclic más rápido para PC con Windows. Múltiples pant
 
 > {{ site.t['updated_text'][page.lang] }} : {{ site.t['updated_month'][page.lang] }} {{ site.upd_day_year }}.
 
+Te da un dolor de cabeza especial jugar a tus juegos inactivos favoritos, como Minecraft o Roblox, en una PC con varias pantallas conectadas.
+Ten en cuenta que la mayoría de las aplicaciones de clic automático no pueden gestionar varias pantallas simultáneamente,
+ya que la simulación de los clics del ratón en tal situación requiere un cálculo sofisticado de las coordenadas de la pantalla virtual para cada monitor conectado a tu PC.
+Diseñé El Clicker de Ratón Más Rápido para Windows pensando en varias pantallas, ya que tengo dos en mi PC desde el principio.
+
 Las aplicaciones de clic automático para ratón son herramientas potentes para automatizar tareas repetitivas de clic, ya sea para juegos, productividad o pruebas. Sin embargo, al trabajar con varias configuraciones de pantalla, la situación puede complicarse. Cada monitor puede tener diferentes resoluciones, ajustes de escala y dimensiones de píxeles X-Y, lo que puede afectar el rendimiento de los clic automáticos.
 
 <img src="/assets/images/Multiple-Display-Setup.png" alt="The Fastest Mouse Clicker for Windows: Multiple-Display-Setup" />

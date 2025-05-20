@@ -22,6 +22,10 @@ description_rich: 'El autoclic más rápido para PC con Windows. 100000 clics po
 <a name="QuickStart"></a>
 ## Inicio Rápido
 
+Si juegas a Minecraft, Roblox o cualquier otro juego inactivo sin la ayuda de una aplicación de clic automático, surge el problema:
+el tiempo necesario para construir tu propio universo en tu juego favorito es comparable a la existencia de nuestro universo, metafóricamente.
+Por eso entra en escena El Clicker de Ratón Más Rápido para Windows.
+
 ### ¡Bienvenido a descargar e instalar mi producto estrella!
 
 <a href="{{ site.download_link_main }}" class="btn btn--stripe">Descargar {{ site.t['app_name'][page.lang] }} versión {{ site.app_version }}</a>
@@ -80,7 +84,7 @@ Aquí hay un breve video de introducción que explica cómo descargar e instalar
 * [Desambiguación](/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/Desambiguacion/)
 * [Introducción](index.html#Introduction)
 * [Características](/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/Caracteristicas/)
-* [Comparación](index.html#Comparison)
+* [Comparación](/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/Comparacion/)
 * [Tecnología](index.html#Technology)
 * [Tasa de Sondeo del Ratón](index.html#Mouse_Polling_Rate)
 * [Código Fuente](index.html#SourceCode)
@@ -178,31 +182,6 @@ Hay muchos casos de uso de {{ site.t['app_name'][page.lang] }}.
 Los aficionados pueden usarlo para hacer trampa en varios sitios web o videojuegos como Counter-Strike: Global Offensive (CS:GO), Candy Crush Saga, juegos de Roblox, etc.
 Los profesionales pueden utilizarlo como asistente de calidad y con fines de prueba porque es totalmente compatible con la línea de comandos en archivos por lotes, scripts de PowerShell, etc.
 
-
-<a name="Comparison"></a>
-## Comparación
-
-¿Qué pasa con otros auto-clickers y sus características?
-Aquí está la tabla que resume todas las características clave de los 3 programas más descargados.
-
-Característica | [Fast Mouse Clicker](https://sourceforge.net/projects/fastclicker/){:target="_blank"} | [Auto<wbr/>Clicker](https://sourceforge.net/projects/orphamielautoclicker/){:target="_blank"} | {{ site.t['app_name'][page.lang] }}
-------- | ------- | -------
-Proyecto de código abierto | No | **Sí** | **Sí**
-Actualizaciones periódicas y corrección de errores | No | No | **Sí**
-Tecla de activación arbitraria para hacer clic | **Sí** | **Sí** | **Sí**
-Botón del ratón como tecla de activación para hacer clic | **Sí** | No | **Sí**
-Teclas de disparo independientes en modo alternar | No | **Sí** | **Sí**
-Todos los parámetros de clic se guardan automáticamente | No | **Sí** | **Sí**
-Grupo de clics (grabar-reproducir las secuencias de clics) | No | **Sí** | **Sí**
-Soporte de línea de comandos en archivos por lotes | No | No | **Sí**
-Botón para abrir una carpeta con todos los archivos por lotes | No | No | **Sí**
-Botón para restablecer todos los parámetros de clic a los valores predeterminados | No | No | **Sí**
-Hacer clic al azar en un rectángulo específico | No | No | **Sí**
-Clic más rápido limitado por hardware a través de <code><a href="https://learn.microsoft.com/es-es/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a></code> en matriz | No | No | **Sí**
-Lado DLL/tiempo de ejecución independiente (se ejecuta en Windows básico) | No | No | **Sí**
-Casilla de verificación para mantener la ventana de la aplicación siempre Arriba | No | No | **Sí**
-
-{{ site.t['app_name'][page.lang] }} gana esta competencia porque su código es un desarrollo adicional de las otras 2 aplicaciones populares.
 
 <a name="Technology"></a>
 ## Tecnología

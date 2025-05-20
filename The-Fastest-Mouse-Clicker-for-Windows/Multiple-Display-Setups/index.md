@@ -17,6 +17,11 @@ description_rich: "The fastest auto-clicker for Windows PC. Multiple Displays: D
 
 > {{ site.t['updated_text'][page.lang] }} : {{ site.t['updated_month'][page.lang] }} {{ site.upd_day_year }}.
 
+Especial headache does encounter you when you are playing your favorite idle games like Minecraft or Roblox on a PC with multiple displays plugged in.
+Beware, most auto-clicker apps can't handle your several displays simultaneously, because simulation of the mouse clicks in such a situation
+needs a sophisticated computation of virtual screen coordinates for every single monitor connected to your PC.
+I have designed The Fastest Mouse Clicker for Windows with multiple displays in mind, because I have two displays on my PC from the very beginning.
+
 Mouse auto-clicker apps are powerful tools for automating repetitive clicking tasks, whether for gaming, productivity, or testing purposes. However, when working with multiple display setups, things can get complicated. Each monitor may have different resolutions, scaling settings, and X-Y pixel dimensions, which can affect how auto-clickers perform.
 
 <img src="/assets/images/Multiple-Display-Setup.png" alt="The Fastest Mouse Clicker for Windows: Multiple-Display-Setup" />

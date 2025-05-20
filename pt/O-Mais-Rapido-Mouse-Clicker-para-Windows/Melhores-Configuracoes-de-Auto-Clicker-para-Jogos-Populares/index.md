@@ -17,6 +17,10 @@ description_rich: "O auto-clicker mais rápido para PC com Windows. Melhores con
 
 > {{ site.t['updated_text'][page.lang] }} : {{ site.t['updated_month'][page.lang] }} {{ site.upd_day_year }}.
 
+Esse é o problema quando você é fã de diferentes jogos incrementais simultaneamente. Imagine que você já usou um aplicativo de clique automático do mouse para acelerar sua aventura.
+Mas um desenvolvedor de jogos não pode detectar e banir você por estar clicando muito rápido devido a trapaças no clique automático?
+Isso porque ajustar cuidadosamente as configurações do clique automático para cada jogo é uma tarefa de extrema importância.
+
 Otimizar as configurações do auto clicker pode impactar significativamente o desempenho do jogo. Definir o intervalo entre os cliques é crucial.
 Enquanto alguns jogos podem lidar com cliques rápidos (por exemplo, a cada 1-10 milissegundos ou 100-1000 cliques por segundo), outros podem atrasar ou ter detecções integradas contra tais velocidades.
 É aconselhável começar com uma configuração moderada, como 100 milissegundos ou 10 cliques por segundo, e ajustar com base na capacidade de resposta do jogo.

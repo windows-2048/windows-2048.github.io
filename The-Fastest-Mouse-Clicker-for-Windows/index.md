@@ -22,6 +22,10 @@ description_rich: 'The fastest auto-clicker for Windows PC. 100000 clicks per se
 <a name="QuickStart"></a>
 ## Quick Start
 
+If you are playing Minecraft, Roblox or any other idle game, without assistance of a mouse auto-clicker app, the problem appears:
+time needed to build your own universe in your favorite game is comparable to the time of existence of our Universe, metaphorically said.
+Here why The Fastest Mouse Clicker for Windows comes to the scene.
+
 ### Welcome to download and install my flagship product!
 
 <a href="{{ site.download_link_main }}" class="btn btn--stripe">Download {{ site.t['app_name'][page.lang] }} version {{ site.app_version }}</a>
@@ -80,7 +84,7 @@ Here is a short intro video that tells how to download and install {{ site.t['ap
 * [Disambiguation](/The-Fastest-Mouse-Clicker-for-Windows/Disambiguation/)
 * [Introduction](index.html#Introduction)
 * [Features](/The-Fastest-Mouse-Clicker-for-Windows/Features/)
-* [Comparison](index.html#Comparison)
+* [Comparison](/The-Fastest-Mouse-Clicker-for-Windows/Comparison/)
 * [Technology](index.html#Technology)
 * [Mouse Polling Rate](index.html#Mouse_Polling_Rate)
 * [Source Code](index.html#SourceCode)
@@ -179,31 +183,6 @@ There are a lot of use-cases of {{ site.t['app_name'][page.lang] }}.
 Amateurs can use it for cheating in various web sites or video games such as Counter-Strike: Global Offensive (CS:GO), Candy Crush Saga, Roblox games, etc.
 Professionals can use it for quality assistant and testing purposes because full support of command line in batch files, PowerShell scripts, etc.
 
-
-<a name="Comparison"></a>
-## Comparison
-
-What about other auto-clickers and their features?
-Here is the table that summarizes all the key features of 3 most downloaded programs.
-
-Feature | [Fast Mouse Clicker](https://sourceforge.net/projects/fastclicker/){:target="_blank"} | [Auto<wbr/>Clicker](https://sourceforge.net/projects/orphamielautoclicker/){:target="_blank"} | The Fastest Mouse Clicker for Windows
-------- | ------- | -------
-Open source project | No | **Yes** | **Yes**
-Regular updates and bug fixes | No | No | **Yes**
-Arbitrary trigger key for clicking | **Yes** | **Yes** | **Yes**
-Mouse button as trigger key for clicking | **Yes** | No | **Yes**
-Independent trigger keys in toggle mode | No | **Yes** | **Yes**
-All the clicking parameters auto-save | No | **Yes** | **Yes**
-Group clicking (record-play the sequences of clicks) | No | **Yes** | **Yes**
-Command line support in batch files | No | No | **Yes**
-Button to open a folder with all the batch files | No | No | **Yes**
-Button to reset all the clicking parameters to default values | No | No | **Yes**
-Random clicking in a specified rectangle | No | No | **Yes**
-Hardware-limited fastest clicking via arrayed <code><a href="https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a></code> | No | No | **Yes**
-Side DLL/runtime independent (runs on bare Windows) | No | No | **Yes**
-Checkbox to keep the app window always Top | No | No | **Yes**
-
-The Fastest Mouse Clicker for Windows wins this competition because its code is a further developing of the rest 2 popular apps.
 
 <a name="Technology"></a>
 ## Technology

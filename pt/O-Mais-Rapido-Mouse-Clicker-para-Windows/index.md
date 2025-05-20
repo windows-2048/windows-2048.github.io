@@ -22,6 +22,10 @@ description_rich: 'O auto-clicker mais rápido para PC com Windows. 100000 cliqu
 <a name="QuickStart"></a>
 ## Início Rápido
 
+Se você estiver jogando Minecraft, Roblox ou qualquer outro jogo incremental sem a ajuda de um aplicativo de clique automático de mouse, o problema surge:
+o tempo necessário para construir seu próprio universo no seu jogo favorito é comparável ao tempo de existência do nosso Universo, metaforicamente falando.
+É aqui que O Mais Rápido Mouse Clicker para Windows entra em cena.
+
 ### Bem-vindo ao download e instalar meu produto principal!
 
 <a href="{{ site.download_link_main }}" class="btn btn--stripe">Baixar {{ site.t['app_name'][page.lang] }} versão {{ site.app_version }}</a>
@@ -110,6 +114,7 @@ A experiência virtual também contribui para aumentar a confiança. Assim, quan
 
 * [Desambiguação](/pt/O-Mais-Rapido-Mouse-Clicker-para-Windows/Desambiguacao/)
 * [Característicos](/pt/O-Mais-Rapido-Mouse-Clicker-para-Windows/Caracteristicos/)
+* [Comparação](/pt/O-Mais-Rapido-Mouse-Clicker-para-Windows/Comparacao/)
 
 
 **Todas as versões futuras do Mouse Mais Rápido Clicker para Windows será cross-platform e feito com Qt.**
