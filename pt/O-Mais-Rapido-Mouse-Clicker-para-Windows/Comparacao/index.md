@@ -7,8 +7,8 @@ alternates:
   en: /The-Fastest-Mouse-Clicker-for-Windows/Comparison/
 
 title: "O Mais Rápido Mouse Clicker para Windows | Comparação"
-description: "The fastest auto-clicker for Windows PC. Batch-arrays in SendInput, command line support, random clicking, group clicking, free and open source at GitHub"
-description_rich: "The fastest auto-clicker for Windows PC. Batch-arrays in SendInput, command line support, random clicking, group clicking, free and open source at GitHub"
+description: "O auto-clicker mais rápido para PC com Windows. Matrizes em lote no SendInput, suporte à linha de comando, clique aleatório, clique em grupo, código aberto no GitHub"
+description_rich: "O auto-clicker mais rápido para PC com Windows. Matrizes em lote no SendInput, suporte à linha de comando, clique aleatório, clique em grupo, código aberto no GitHub"
 ---
 
 ## {{ page.title | default: site.t['title'][page.lang] }}
