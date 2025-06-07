@@ -6,7 +6,7 @@ alternates:
   es: /es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/Tecnologia/
   en: /The-Fastest-Mouse-Clicker-for-Windows/Technology/
 
-title: "The Fastest Mouse Clicker for Windows | Tecnologia"
+title: "O Mais Rápido Mouse Clicker para Windows | Tecnologia"
 description: "O auto-clicker mais rápido para PC com Windows. Este é o único auto-clicker que utiliza matrizes em chamadas de sistema SendInput para atingir a velocidade máxima de clique"
 description_rich: "O auto-clicker mais rápido para PC com Windows. Este é o único auto-clicker que utiliza matrizes em chamadas de sistema SendInput para atingir a velocidade máxima de clique"
 ---
