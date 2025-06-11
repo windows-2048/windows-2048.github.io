@@ -1,3 +1,55 @@
+.stars {
+    --star-size: 2em;
+    --star-color: #ccc;
+    --star-background: #fc0;
+    --percent: calc(var(--rating) / 5 * 100%);
+    display: inline-block;
+    font-size: var(--star-size);
+    font-family: serif;
+    line-height: 1;
+}
+
+.stars::before {
+    content: '★★★★★';
+    letter-spacing: 3px;
+    background: linear-gradient(90deg, var(--star-background) var(--percent), var(--star-color) var(--percent));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.stars-alt {
+    font-size: 10px;
+}
+
+#clickTest {
+  background-color: #eee;
+  border-radius: 0.25em;
+  border: none;
+  color: #333;
+  padding: 0.5em 1.5em;
+  cursor: pointer;
+  width: 100%;
+  height: 150px;
+}
+
+#repeatTest {
+  background-color: #f0f8ff;
+  color: #069;
+  border-radius: 0.25em;
+  border: 2px solid #069;
+  padding: 0.5em 1.5em;
+  cursor: pointer;
+  width: 50%;
+}
+
+#repeatTest:hover {
+  background-color: #036;
+  color: #fff;
+  border-color: #000;
+}
+
+
+
 .video-container {
     position: relative;
     padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
@@ -33,7 +85,7 @@ ul.lang {
 }
 
 ul.lang li {
-	margin: 0;
+    margin: 0;
 }
 
 a.athisname {
