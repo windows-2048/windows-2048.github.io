@@ -77,4 +77,38 @@ beginClickTest = function() {
 </p>
 
 
+#### Recordes
+
+<div class="video-container">
+    <iframe
+        src="https://www.youtube.com/embed/Vyrtd4s5E5s?rel=0&modestbranding=1"
+        title="I Became The Fastest Mouse Clicker in the World 2025"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+        loading="lazy" >
+    </iframe>
+</div>
+
+Eu me tornei o clicker de mouse mais rápido do mundo.
+O objetivo é conseguir o máximo de cliques de mouse possível
+em apenas 5 segundos.
+O teste começa automaticamente no seu primeiro clique ou toque
+e sim, você pode testar não apenas o mouse no PC, mas também o dedo no iPhone.
+E como me orgulho das minhas fibras musculares rápidas e da minha destreza,
+resolvi tentar.
+Imagine, me disseram que o recorde é de 100 cliques por segundo
+o que parece inalcançável, então comecei minha jornada.
+Eu estava indo melhor do que esperava, conseguindo 76 e 93
+nas minhas duas primeiras tentativas, mas ainda precisava de mais velocidade.
+Então, tentei uma nova técnica usando 3 dedos simultaneamente
+para aumentar meus cliques por segundo.
+Aí vem uma diferença drástica em comparação com Sambucha, o vencedor anterior.
+Ele voltou a usar 1 dedo, mas eu conseguia usar os 3.
+Depois de dezenas de tentativas de treinamento, cheguei a 273 cliques por segundo!
+
+#### Educação nos bastidores
+
+* [Exemplo de código JavaScript do lado do navegador para iniciantes: teste de velocidade do clique do mouse](https://www.reddit.com/r/programacao/comments/1lgpze5/exemplo_de_código_javascript_do_lado_do_navegador/){:target="_blank"}
+
 #### {{ site.t['copyright_text'][page.lang] }} [{{ site.t['author_name'][page.lang] }}]({{ site.prod-url }}{{ site.t['home'][page.lang] }})

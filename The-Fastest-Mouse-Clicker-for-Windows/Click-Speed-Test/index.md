@@ -76,5 +76,38 @@ beginClickTest = function() {
 <div id="clickStarsText" class="stars-alt">Your clicking rating: 0.0 of 5.</div>
 </p>
 
+#### Records
+
+<div class="video-container">
+    <iframe
+        src="https://www.youtube.com/embed/Vyrtd4s5E5s?rel=0&modestbranding=1"
+        title="I Became The Fastest Mouse Clicker in the World 2025"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+        loading="lazy" >
+    </iframe>
+</div>
+
+I became the fastest mouse clicker in the world.
+The goal is to get as many mouse clicks as you can
+within just 5 seconds.
+The test starts automatically on your first click or tap
+and yes you can test not only your mouse on PC but also your finger on iPhone.
+And since I pride myself in my fast Twitch muscle fibers and dexterity
+I figured I'd give it a try.
+Imagine, I was told the record is 100 clicks per second
+which seem unreachable so I've began my quest.
+I was doing better than I expected getting 76 and 93
+on my first two attempts but I still needed more speed.
+So I tried a new technique deploying 3 fingers simultaneously
+to increase my clicks per second.
+Here comes a dramatic difference compared to Sambucha, the previous winner.
+He returned to 1 finger but I could utilize all 3 ones.
+After tens of training attempts I've reached 273 clicks per second!
+
+#### Education behind the stage
+
+* [Browser-side JavaScript code example for beginners: the Click Speed Test for your mouse](https://www.reddit.com/r/learnjavascript/comments/1lj86qy/browserside_javascript_code_example_for_beginners/){:target="_blank"}
 
 #### {{ site.t['copyright_text'][page.lang] }} [{{ site.t['author_name'][page.lang] }}]({{ site.prod-url }}{{ site.t['home'][page.lang] }})
