@@ -42,6 +42,19 @@ Here why The Fastest Mouse Clicker for Windows comes to the scene.
 ![{{ site.t['app_name'][page.lang] }} version 2.6.2.0: "Single" application](screenshots_new/v2.6.2.0/TFMCfW_v2.6.2.0.png) | ![{{ site.t['app_name'][page.lang] }} version 2.6.2.0: "Group" application](screenshots_new/v2.6.2.0/TFMCfW_g_v2.6.2.0.png)
 ![{{ site.t['app_name'][page.lang] }} version 2.6.1.0: "Single" application on Windows 11](screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-sapp.jpg) | ![{{ site.t['app_name'][page.lang] }} version 2.6.1.0: "Group" application on Windows 11](screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-gapp.jpg)
 
+<div class="video-container">
+    <iframe
+        width="200"
+        height="auto"
+        src="https://www.youtube.com/embed/eJTDUooYrSs?rel=0&modestbranding=1"
+        title="What a secret do all Roblox users hide from you in 2025"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+        loading="lazy" >
+    </iframe>
+</div>
+
 #### ChangeLog
 
 * Added long-awaited tooltips for the trigger keys.
@@ -54,7 +67,7 @@ Here why The Fastest Mouse Clicker for Windows comes to the scene.
 Found a bug or want a new feature? Create the [issue]({{ site.source_issues_url }}){:target="_blank"}!
 
 <p>
-Here is a short intro video that tells how to download and install {{ site.t['app_name'][page.lang] }} in 2024-2025.
+Here is a brief intro video that tells how to download and install {{ site.t['app_name'][page.lang] }} in 2024-2025.
  <video style="outline:none; width:100%; height:100%;" controls preload="none" poster="/The-Fastest-Mouse-Clicker-for-Windows/videos/TFMCfW_intro_2024.jpg">
   <source src="/The-Fastest-Mouse-Clicker-for-Windows/videos/TFMCfW_intro_2024.mp4" type="video/mp4"/>
   Your browser does not support the video tag.

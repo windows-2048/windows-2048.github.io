@@ -109,6 +109,6 @@ Depois de dezenas de tentativas de treinamento, cheguei a 273 cliques por segund
 
 #### Educação nos bastidores
 
-* [Exemplo de código JavaScript do lado do navegador para iniciantes: teste de velocidade do clique do mouse](https://www.reddit.com/r/programacao/comments/1lgpze5/exemplo_de_código_javascript_do_lado_do_navegador/){:target="_blank"}
+* [Exemplo de código JavaScript do lado do navegador para iniciantes: teste de velocidade do clique do mouse](https://np.reddit.com/r/programacao/comments/1lgpze5/exemplo_de_código_javascript_do_lado_do_navegador/){:target="_blank"}
 
 #### {{ site.t['copyright_text'][page.lang] }} [{{ site.t['author_name'][page.lang] }}]({{ site.prod-url }}{{ site.t['home'][page.lang] }})

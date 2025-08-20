@@ -42,6 +42,19 @@ Aplicación "Única" | Aplicación "Grupo"
 ![{{ site.t['app_name'][page.lang] }} versión 2.6.2.0: Aplicación "Única"](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.2.0/TFMCfW_v2.6.2.0.png) | ![{{ site.t['app_name'][page.lang] }} versión 2.6.2.0: Aplicación "Grupo"](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.2.0/TFMCfW_g_v2.6.2.0.png)
 ![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Aplicación "Única" en Windows 11](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-sapp.jpg) | ![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Aplicación "Grupo" en Windows 11](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-gapp.jpg)
 
+<div class="video-container">
+    <iframe
+        width="200"
+        height="auto"
+        src="https://www.youtube.com/embed/R9lHQ0pW2A0?rel=0&modestbranding=1"
+        title="¡LOS PROS DE ROBLOX TE ESTÁN OCULTANDO ESTO! ¡El 99% de los jugadores TOP usan EN SECRETO!"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+        loading="lazy" >
+    </iframe>
+</div>
+
 #### RegistroDeCambios
 
 * Añadido largo esperado puntas de herramientas para las teclas de activación.

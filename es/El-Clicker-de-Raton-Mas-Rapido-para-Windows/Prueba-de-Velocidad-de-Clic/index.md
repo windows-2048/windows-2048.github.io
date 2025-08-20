@@ -101,6 +101,6 @@ Aquí hay una diferencia drástica en comparación con Sambucha, el ganador ante
 
 #### Aprendizaje tras bambalinas
 
-* [Ejemplo de código JavaScript del lado del navegador para principiantes: prueba de velocidad del clic del mouse](https://www.reddit.com/r/programacion/comments/1lgpns1/ejemplo_de_código_javascript_del_lado_del/){:target="_blank"}
+* [Ejemplo de código JavaScript del lado del navegador para principiantes: prueba de velocidad del clic del mouse](https://np.reddit.com/r/programacion/comments/1lgpns1/ejemplo_de_código_javascript_del_lado_del/){:target="_blank"}
 
 #### {{ site.t['copyright_text'][page.lang] }} [{{ site.t['author_name'][page.lang] }}]({{ site.prod-url }}{{ site.t['home'][page.lang] }})

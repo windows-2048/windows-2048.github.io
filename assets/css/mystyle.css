@@ -1,6 +1,11 @@
 .video-container {
-	display: block;
-	position: relative; 
+    display: block;
+    position: relative;
+    width: 95%;
+    height: auto;
+    margin-left: 2.5%;
+    margin-top: -10px;
+    margin-bottom: 10px;
   overflow: hidden;
 }
 
