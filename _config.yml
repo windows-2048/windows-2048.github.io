@@ -1,6 +1,8 @@
 theme: jekyll-theme-minimal
 encoding: UTF-8
 
+permalink: pretty
+
 burl: https://windows-2048.github.io
 bdate: 2025-08-20
 
