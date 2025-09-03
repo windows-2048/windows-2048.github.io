@@ -153,13 +153,6 @@ Usando las teclas del teclado (o los botones del mouse) como disparador, puede c
 Por supuesto, puede seleccionar teclas de activación de inicio y finalización arbitrarias.
 También tiene la opción de establecer una limitación del número de clics. El clicker automático del mouse se detiene automáticamente cuando se alcanza el número deseado de clics.
 
-Si desea realizar una prueba de velocidad de clic, vaya a la elegante [implementación](https://mouse-auto-clickers.online/){:target="_blank"} de código abierto que funciona directamente en su navegador web.
-La prueba de velocidad de clic es una prueba gratuita de clic por segundo, que mide la velocidad de clic del mouse en un período de tiempo determinado. Jugar a la prueba de velocidad de clic es fácil y divertido al mismo tiempo.
-La prueba es adecuada para todo tipo de software de clic automático, así como para pruebas directas en manos humanas en todos los grupos de edad, así que no se preocupe si es solo un estudiante de secundaria o una persona con un trabajo corporativo o un doctorado.
-Considera que la Prueba de velocidad de clic es una herramienta útil mientras busca formas de hacer clic repetidamente sin usar el mouse.
-Con {{ site.t['app_name'][page.lang] }} solo ingresa la velocidad a la que hacer clic y un botón del teclado, y luego, mientras mantiene presionado ese botón, el mouse hace clic automáticamente.
-Si prefiere evitar las "trampas", mantenga la velocidad de clic entre 10 y 20 clics por segundo.
-
 > ¡Se ha lanzado una nueva versión grande con CLIC DE POSICIÓN FIJA!
 
 {{ site.t['app_name'][page.lang] }} hace clic con el mouse automáticamente al emular los eventos de clic del mouse.
@@ -556,9 +549,13 @@ El botón <br/>\[Ayuda\] muestra esta ventana de ayuda.
 
 > Hay ciertas actividades de las que la gente se desharía lo antes posible, y es que suele tener algo que ver no con el nivel de dificultad sino con la naturaleza repetitiva de la tarea, que la hace totalmente insoportable. No sorprende entonces que se hayan desarrollado utilidades de software para ayudarlos a evitar este tipo de operaciones, con un ejemplo en este sentido es The Fastest Mouse Clicker para Windows.
 
-* [mouse-auto-clickers.online](https://mouse-auto-clickers.online/){:target="_blank"}, Un centro de información global dedicado a los clics automáticos del mouse para Windows, Linux, macOS, PC, iPhone y Android
+* [filerox](https://the-fastest-mouse-clicker-for-windows.en.filerox.com/){:target="_blank"}, Un sitio web creado para brindar los mejores servicios gratuitos a nuestros usuarios. Filerox.com se fundó por diversas razones
 
-> El Clicker de Ratón Más Rápido para Windows es una práctica herramienta de software diseñada para ayudarle a automatizar sus clics, eliminando así tareas repetitivas y ahorrando tiempo que de otro modo perdería realizándolas.
+> El Clicker de Ratón Más Rápido para Windows es un programa de la categoría Acción. Esta aplicación es una de las más populares entre sus usuarios por varias razones. Te ayuda a emular clics infinitos o tareas relacionadas con la acción. Si buscas una solución o una aplicación de acción, el Clicker de Ratón Más Rápido para Windows puede serte de gran ayuda.
+
+* [autohotkey](https://www.autohotkey.com/boards/viewtopic.php?style=1&t=74519){:target="_blank"}, Ayudémonos unos a otros
+
+> Este clicker automático de ratón, gratuito y de código abierto, estándar en la industria, emula los clics de Windows con una rapidez increíble mediante matrices de entre 1 y 1000 eventos de ratón en la API Win32 SendInput(), lo que permite generar hasta 100 000 clics por segundo. Ofrece teclas de activación independientes (o botones del ratón), línea de comandos para archivos por lotes, guardado automático al salir, clics aleatorios y la ventana de la aplicación siempre en primer plano. Este programa compacto e independiente está compilado y enlazado estáticamente mediante el compilador gnu/gcc y es compatible con Windows 7 a 10 y Linux mediante el emulador Wine. Este clicker es ideal para juegos incrementales: Cooking, Soda, Minecraft, etc.
 
 * [Uptodown](https://the-fastest-mouse-clicker-for-windows.en.uptodown.com/windows/download){:target="_blank"}, Download Discover Share
 

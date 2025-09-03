@@ -109,5 +109,6 @@ After tens of training attempts I've reached 273 clicks per second!
 #### Education behind the stage
 
 * [Browser-side JavaScript code example for beginners: the Click Speed Test for your mouse](https://np.reddit.com/r/learnjavascript/comments/1lj86qy/browserside_javascript_code_example_for_beginners/){:target="_blank"}
+* [Mouse Click Speed Test completely without Ads](https://www.minecraftforum.net/forums/off-topic/general-gaming/3220136-mouse-click-speed-test-completely-without-ads){:target="_blank"}
 
 #### {{ site.t['copyright_text'][page.lang] }} [{{ site.t['author_name'][page.lang] }}]({{ site.prod-url }}{{ site.t['home'][page.lang] }})
