@@ -99,7 +99,7 @@ Aquí hay un breve video de introducción que explica cómo descargar e instalar
 * [Características](/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/Caracteristicas/)
 * [Comparación](/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/Comparacion/)
 * [Tecnología](/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/Tecnologia/)
-* [Tasa de Sondeo del Ratón](index.html#Mouse_Polling_Rate)
+* [Tasa de Sondeo del Ratón](/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/Tasa-de-Sondeo-del-Raton/)
 * [Código Fuente](index.html#SourceCode)
 * [El Clicker de Ratón Más Rápido v3.0.0.0 (edición Qt multiplataforma)](index.html#TheFastestMouseClickerQt)
 * [Ayuda Cómo Usar](index.html#HelpHowToUse)
@@ -187,39 +187,6 @@ También muestra una guía básica de inicio rápido para usar clics automático
 Hay muchos casos de uso de {{ site.t['app_name'][page.lang] }}.
 Los aficionados pueden usarlo para hacer trampa en varios sitios web o videojuegos como Counter-Strike: Global Offensive (CS:GO), Candy Crush Saga, juegos de Roblox, etc.
 Los profesionales pueden utilizarlo como asistente de calidad y con fines de prueba porque es totalmente compatible con la línea de comandos en archivos por lotes, scripts de PowerShell, etc.
-
-
-<a name="Mouse_Polling_Rate"></a>
-## Tasa de Sondeo del Ratón
-
-Además de las técnicas de emulación de eventos del mouse, es importante conocer la llamada tasa de sondeo del mouse.
-La tasa de sondeo del mouse es la frecuencia con la que el mouse le indica a la computadora su ubicación en la pantalla.
-Por ejemplo, un mouse con su tasa de sondeo establecida en 125 Hz actualizará su ubicación en la pantalla 125 veces por segundo.
-Cuanto mayor sea la tasa de sondeo, más "en tiempo real" será el movimiento del cursor que verá en la pantalla.
-Dependiendo del fabricante del mouse, la tasa de sondeo de su mouse puede variar desde unos 100 Hz hasta 1000 Hz y más.
-
-Por lo que ha aprendido hasta ahora sobre las tasas de sondeo, es fácil ver por qué una tasa de sondeo más alta beneficiaría a un mouse para juegos.
-Pero tenga en cuenta que la diferencia entre 125 Hz y 500 Hz es mucho más significativa que entre 500 Hz y 1000 Hz.
-En este último caso, obtiene el beneficio de solo 1 ms. Por lo tanto, no hay motivo para comprar un ratón caro con una tasa de sondeo mucho mayor que 500 Hz.
-Además, se ha descubierto que las altas tasas de sondeo de 1000 Hz o más tienden a generar una mayor carga en la CPU.
-
-Aquí dejo unos pensamientos intrigantes sobre las tasas de sondeo del mouse y el software de clic automático, provenientes de uno de los usuarios fanáticos de {{ site.t['app_name'][page.lang] }}.
-
-Hola Masha, gracias por la respuesta, vi la descarga en Majorgeeks, pero creo que la descargué de tu sitio para asegurarme de que tenía la última versión, así es como también obtuve tu dirección de correo electrónico. De todos modos, la "tasa de sondeo" es básicamente qué tan rápido su mouse envía señales a su PC de su ubicación actual, generalmente se mide en Hz, mi software Logitech tiene opciones para 125 Hz, 250 Hz, 500 Hz y 1000 Hz, al igual que la mayoría de los otros programas de juegos de mouse y hay algunas utilidades que también pueden cambiar la tasa de sondeo, 1000 Hz ha sido el límite durante mucho tiempo, pero ahora compañías como Razer, tienen un mouse con una tasa de sondeo de 8000 Hz, algunos otros 2000 Hz .. Solo estoy buscando algo que logre más de 1000 Hz. Básicamente, cuanto mayor sea la tasa de sondeo, menor será el "retraso del mouse" durante el juego. También hago cosas como establecer el nivel de prioridad del proceso para el proceso del controlador/software de mi mouse en "por encima de lo normal" o "alto" para obtener una mayor capacidad de respuesta.
-
-Descargué un par de otros programas de mouse como el suyo, uno que probé hasta ahora es "Speed ​​Auto Clicker" ... está bien, hace lo que quiero en cuanto a "velocidad de clic", pero no me gusta la asignación de botones opciones, solo puede asignar teclas de acceso rápido a los "botones del teclado", tengo un mouse con 10 botones, quiero la opción sobre la marcha (en mi mouse). Intenté comunicarme con él, el correo electrónico no se pudo entregar y el programa no se ha actualizado en un tiempo, por lo que su desarrollo probablemente haya terminado.
-
-Voy a probar el tuyo en breve, también probé el otro que descargué, o digamos que lo abrí, se llama AutoFire y es un poco extraño... no estoy seguro de que haga lo que quiero en los juegos que juego. Además... Espero que ninguno de estos sea detectado como trampa... Tengo un registro perfecto con Valve Software / Steam, tenía mi cuenta. durante 19 años, ¡no quiero perderlo!
-
-Esperemos que su programa haga lo que quiero... lo que "realmente quiero" es una utilidad que simplemente haga que "un clic del mouse" sea igual a un número más alto, como "3 clics del mouse, o 5, 10, etc.". por ejemplo, cómo puede configurar su rueda de desplazamiento para desplazarse 1 línea a la vez, o 2 líneas, o 3 líneas a la vez. Lo mismo, solo quiero esa opción para el clicker de mi mouse (clic izquierdo).
-
-Ninguno de los que descargué tiene las opciones de tasa de sondeo, tengo 2 utilidades que ajustan las tasas de sondeo, pero son de 2010 y 2011, no estoy seguro de si funcionarán con los sistemas operativos modernos, además no superan los 1000 Hz y mi Logitech G- El software Hub me permite configurar @ 1000 Hz, ¡pero quiero más! Estaba pensando en ver si puedo editar la utilidad de tasa de sondeo de 2010, es una utilidad pequeña y sencilla y espero poder editar los valores. No soy desarrollador, pero jugué con él y edité y modifiqué con éxito programas/controladores, cuando WinXP Pro x64 bit salió por primera vez, lo estaba usando, de hecho lo probé durante 14 meses antes de su lanzamiento también. pero XP Pro x64 fue el "primer sistema operativo de 64 bits" que salió a la venta, en forma de OEM, pero cualquiera podía comprarlo, obtuve el mío gratis para probarlo, pero la compatibilidad con los controladores era extremadamente limitada y tenía una máquina de juego de gama alta, la mayoría de mi hardware y complementos tenían soporte de controlador del fabricante, como nVidia lanzó controladores de 64 bits, otros tenían soporte nativo del sistema operativo, pero mi tarjeta de audio favorita de Creative no funcionaba y odiaba el audio integrado en ese entonces, tomó yo alrededor de 4 días, pero pude modificar algunos de los archivos .inf y .sys y conseguí que el "audio" funcionara, ninguna de las otras funciones funcionó y no tenía ecualizador, etc..
-
-Pero conseguí que el sonido funcionara. Ojalá me metiera más en esto, soy bastante bueno con las computadoras, especialmente en el lado del hardware, las he estado construyendo desde 1996, mi equipo actual que construí me costó $ 3,800.00 para construir, pero parte de ese costo fue inflado precios debido a la escasez de tarjetas gráficas, pagué $ 1,000.00 por una tarjeta que normalmente se vendería al por menor a $ 399.99. Pero creo que el resto tenía un precio justo, tengo un procesador Ryzen 5900x de 12 núcleos, 64 gb de Corsair RGB 3600 mhz ddr4, 1 tb Samsung 980 Pro NVMe SSD, Geforce 3060 Ti OCX, placa base ASUS TUF Gaming x570 Plus WiFi, etc. .. pero soy bueno descubriendo cosas en las PC en el lado del software, como eliminar manualmente troyanos obstinados, malware, ransomeware, etc..
-
-De todos modos, basta de balbuceos, te dejaré saber lo que pienso y si hace lo que quería o no... ¡gracias por tu respuesta!
-
-G. Kelly Irish
 
 
 <a name="SourceCode"></a>
