@@ -46,8 +46,8 @@ Aplicación "Única" | Aplicación "Grupo"
     <iframe
         width="200"
         height="auto"
-        src="https://www.youtube.com/embed/R9lHQ0pW2A0?rel=0&modestbranding=1"
-        title="¡LOS PROS DE ROBLOX TE ESTÁN OCULTANDO ESTO! ¡El 99% de los jugadores TOP usan EN SECRETO!"
+        src="https://www.youtube.com/embed/fMQn-1DrkZI?rel=0&modestbranding=1"
+        title="Apuestas en Roblox con clicker automático: desde geoduck hasta jackpot y gemelos"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen
@@ -100,8 +100,7 @@ Aquí hay un breve video de introducción que explica cómo descargar e instalar
 * [Comparación](/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/Comparacion/)
 * [Tecnología](/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/Tecnologia/)
 * [Tasa de Sondeo del Ratón](/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/Tasa-de-Sondeo-del-Raton/)
-* [Código Fuente](index.html#SourceCode)
-* [El Clicker de Ratón Más Rápido v3.0.0.0 (edición Qt multiplataforma)](index.html#TheFastestMouseClickerQt)
+* [Código Fuente y El Clicker de Ratón Más Rápido v3.0.0.0](/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/Codigo-Fuente/)
 * [Ayuda Cómo Usar](index.html#HelpHowToUse)
 * [Capturas de Pantalla](index.html#Screenshots)
 * [Socios](index.html#Partners)
@@ -187,187 +186,6 @@ También muestra una guía básica de inicio rápido para usar clics automático
 Hay muchos casos de uso de {{ site.t['app_name'][page.lang] }}.
 Los aficionados pueden usarlo para hacer trampa en varios sitios web o videojuegos como Counter-Strike: Global Offensive (CS:GO), Candy Crush Saga, juegos de Roblox, etc.
 Los profesionales pueden utilizarlo como asistente de calidad y con fines de prueba porque es totalmente compatible con la línea de comandos en archivos por lotes, scripts de PowerShell, etc.
-
-
-<a name="SourceCode"></a>
-## Código Fuente
-
-El código fuente completo con comentarios se envía con el instalador de Windows o se puede ver en
-[Github](https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows){:target="_blank"}
-y [Gitlab](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows){:target="_blank"}.
-
-<a name="TheFastestMouseClickerQt"></a>
-## El Clicker de Ratón Más Rápido v3.0.0.0 (edición Qt multiplataforma)
-
-**Todas las versiones futuras de El Clicker de Ratón Más Rápido para Windows serán multiplataforma y se realizarán con Qt.**
-
-En primer lugar, compilé una compilación minimalista, estática/de tiempo de ejecución estático de 64 bits de Qt v5.15.5 (LTS) creada para Windows 7 a 11 con el compilador MSVC 2019.
-
-Configurar opciones:
-
-```
-C:\qt-src-5.15.5\configure -static -static-runtime -qt-zlib -qt-libjpeg -qt-libpng -qt-freetype -qt-pcre -qt-harfbuzz -no-sse4.1 -no-sse4.2 -no-avx2 -no-avx512 -no-pch -no-ssl -no-openssl -no-opengl -qpa windows -confirm-license -opensource -release -make libs -make tools -prefix c:/qt-5.15.5-static
-```
-
-Descargar [qt-5.15.5-static.zip](https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/qt-5.15.5-static.zip).
-
-La migración a la edición Qt multiplataforma de {{ site.t['app_name'][page.lang] }} está en progreso sucesivo. La nueva aplicación obtendrá la versión 3.0.0.0 y se llamará
-"El clicker de mouse más rápido para \<OS\> (edición Qt multiplataforma)", donde \<OS\> es "Windows", "Linux", "MacOS (M1)".
-El maquillaje QtDesigner \*.ui está listo hoy. Me burlo de que mires lo agradable y hermoso que aparecerá The Fastest Mouse Clicker v3.0.0.0
-en la pantalla de tu PC. El soporte nativo completo de pantallas 4K y Retina está aquí. Como siempre, la aplicación está vinculada estáticamente y no
-requiere DLL de terceros o componente de sistema operativo. Mientras tanto, entre el linaje de Windows, todos los sistemas desde Windows&nbsp;7 a Windows&nbsp;11 son compatibles.
-Sin embargo, tenga en cuenta que las compilaciones de SO de 32 bits (normalmente para Windows) han pasado a la historia. La nueva aplicación será solo de 64 bits para todas las plataformas. ¡Apoyar!
-
-![Teaser developer's screenshot for The Fastest Mouse Clicker v3.0.0.0 (cross-platform Qt edition)](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v3.0.0.0/TheFastestMouseClickerQt.png)
-
-Un gran progreso está experimentando en este momento. Se han investigado todas las cosas sobre cómo funciona una aplicación multiplataforma.
-Se ha realizado la refactorización del código inicial. Se encuentra que la biblioteca [libuiohook](https://github.com/kwhat/libuiohook){:target="_blank"} tiene un diseño bastante claro.
-
-![Trailer developer's screenshot for The Fastest Mouse Clicker v3.0.0.0 (cross-platform Qt edition)](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v3.0.0.0/TheFastestMouseClicker.png)
-
-### Gran actualización 01 de Marzo de 2023
-
-El Clicker de Ratón Más Rápido v3.0.0.0 (la edición Qt) usará [biblioteca libuiohook multiplataforma](https://github.com/kwhat/libuiohook/){:target="_blank"}
-para manejar los eventos del teclado y el mouse en todas las pantallas del sistema. Su interfaz de usuario gráfica se rediseñará por completo para funcionar de forma totalmente automática.
-grabación y reproducción de todos los eventos del mouse y del teclado. Incluso puedes editar la secuencia grabada en profundidad y modificar su velocidad de reproducción.
-Además, puede aleatorizar cada clic del mouse o presionar el teclado. Los eventos de la rueda del mouse también serán compatibles.
-
-La idea para grabar es:
-
-* Para ejecutar la función de envío de libuiohook en un subproceso Qt separado:
-
-<pre><code title="libuiohook dispatch function running in a separate thread">
-void dispatch_proc(uiohook_event* const event)
-{
-    switch (event->type)
-    {
-    ...
-    case EVENT_MOUSE_PRESSED:
-    case EVENT_MOUSE_RELEASED:
-    case EVENT_MOUSE_CLICKED:
-    case EVENT_MOUSE_MOVED:
-    case EVENT_MOUSE_DRAGGED:
-        g_tfmc->postMyCustomEvent(event->data.mouse.x, event->data.mouse.y);
-        break;
-    ...
-    }
-}
-
-class HelloThread : public QThread
-{
-private:
-    void run()
-    {
-        ...
-        // Set the event callback for uiohook events.
-        hook_set_dispatch_proc(&dispatch_proc);
-
-        // Start the hook and block.
-        // NOTE If EVENT_HOOK_ENABLED was delivered, the status will always succeed.
-        int status = hook_run();
-    }
-};
-</code></pre>
-
-* Defina un evento Qt personalizado para transferir datos de eventos libuiohook entre subprocesos Qt (trabajador y UI):
-
-<pre><code title="Custom Qt event to transfer libuiohook event data between Qt threads (worker and UI)">
-// Define your custom event identifier
-const QEvent::Type MY_CUSTOM_EVENT = static_cast<QEvent::Type>(QEvent::User + 1);
-
-// Define your custom event subclass
-class MyCustomEvent : public QEvent
-{
-public:
-    MyCustomEvent(const int customData1, const int customData2);
-    int getCustomData1() const;
-    int getCustomData2() const;
-    ...
-};
-</code></pre>
-
-* Es útil definir postMyCustomEvent() como un método público de la clase de interfaz de usuario principal, luego implementar customEvent() propio virtual:
-
-<pre><code title="Define postMyCustomEvent() as a public method of main UI class, then implement virtual own customEvent()">
-class TheFastestMouseClicker : public QMainWindow
-{
-public:
-    TheFastestMouseClicker();
-
-    Ui_MainWindow ui;
-
-    void postMyCustomEvent(const int customData1, const int customData2)
-    {
-        // This method (postMyCustomEvent) can be called from any thread
-        QApplication::postEvent(this, new MyCustomEvent(customData1, customData2));
-    }
-
-protected:
-
-    void customEvent(QEvent* event)
-    {
-        // When we get here, we've crossed the thread boundary and are now
-        // executing in the Qt object's thread
-        if (event->type() == MY_CUSTOM_EVENT)
-        {
-            handleMyCustomEvent(static_cast<MyCustomEvent*>(event));
-        }
-        // use more else ifs to handle other custom events
-    }
-
-    void handleMyCustomEvent(const MyCustomEvent* event)
-    {
-        // Now you can safely do something with your Qt objects.
-        // Access your custom data using event->getCustomData1() etc.
-        ui.leMousePosX->setText(QString("%1").arg(event->getCustomData1()));
-        ui.leMousePosY->setText(QString("%1").arg(event->getCustomData2()));
-    }
-    ...
-};
-</code></pre>
-
-La idea para la reproducción es:
-
-* Implemente QApplication::notify() propio virtual como una forma útil de manejar eventos Qt adecuados en un solo lugar sin señales ni ranuras:
-
-<pre><code title="Implement virtual own QApplication::notify() as a useful way to handle proper Qt events in one place">
-class Application : public QApplication
-{
-public:
-    ...
-protected:
-    bool notify(QObject* dest, QEvent* ev)
-    {
-        if ((g_tfmc != nullptr) && (dest == g_tfmc->ui.pbStart) && (ev->type() == QEvent::MouseButtonRelease))
-        {
-            // Allocate memory for the virtual events only once.
-            uiohook_event*  event = (uiohook_event*)malloc(sizeof(uiohook_event));
-            if (event == NULL) {
-                return QApplication::notify(dest, ev);
-            }
-
-            // Playback code is here.
-            for (int i = 0; i < 275; i++) {
-                event->type = EVENT_MOUSE_MOVED;
-                event->data.mouse.button = MOUSE_NOBUTTON;
-                event->data.mouse.x = i;
-                event->data.mouse.y = i;
-                hook_post_event(event);
-            }
-
-            return QApplication::notify(dest, ev);
-        }
-        return QApplication::notify(dest, ev);
-    }
-    ...
-};
-</code></pre>
-
-* La idea de editar la secuencia grabada es un enfoque estándar basado en [QListWidget](https://doc.qt.io/qt-5/qlistwidget.html){:target="_blank"}.
-
-Captura de pantalla resultante de MS Visual Studio 2019 que une Qt y libuiohook:
-
-![Captura de pantalla resultante de MS Visual Studio 2019 que une Qt y libuiohook](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v3.0.0.0/qt_libuiohook.png)
 
 
 <a name="HelpHowToUse"></a>
@@ -597,6 +415,22 @@ Hice ese trabajo esencialmente y solucioné ese problema ajustando los tamaños 
 
 Oh no :) Acaba de empezar. No dude en hacer su pregunta por correo electrónico. Consulte el capítulo Contactos a continuación.
 
+### ¿Qué secreto te ocultan los mejores usuarios de Roblox en 2025?
+
+Aquí está la respuesta:
+
+<div class="video-container">
+    <iframe
+        width="200"
+        height="auto"
+        src="https://www.youtube.com/embed/R9lHQ0pW2A0?rel=0&modestbranding=1"
+        title="¡LOS PROS DE ROBLOX TE ESTÁN OCULTANDO ESTO! ¡El 99% de los jugadores TOP usan EN SECRETO!"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+        loading="lazy" >
+    </iframe>
+</div>
 
 <a name="Contacts"></a>
 ## Contactos
