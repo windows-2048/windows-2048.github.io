@@ -101,7 +101,7 @@ Aquí hay un breve video de introducción que explica cómo descargar e instalar
 * [Tecnología](/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/Tecnologia/)
 * [Tasa de Sondeo del Ratón](/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/Tasa-de-Sondeo-del-Raton/)
 * [Código Fuente y El Clicker de Ratón Más Rápido v3.0.0.0](/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/Codigo-Fuente/)
-* [Ayuda Cómo Usar](index.html#HelpHowToUse)
+* [Ayuda Cómo Usar](/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/Ayuda-Como-Usar/)
 * [Capturas de Pantalla](index.html#Screenshots)
 * [Socios](index.html#Partners)
 * [Opiniones en Video de Nuestros Usuarios](index.html#Reviews_from_our_users)
@@ -186,58 +186,6 @@ También muestra una guía básica de inicio rápido para usar clics automático
 Hay muchos casos de uso de {{ site.t['app_name'][page.lang] }}.
 Los aficionados pueden usarlo para hacer trampa en varios sitios web o videojuegos como Counter-Strike: Global Offensive (CS:GO), Candy Crush Saga, juegos de Roblox, etc.
 Los profesionales pueden utilizarlo como asistente de calidad y con fines de prueba porque es totalmente compatible con la línea de comandos en archivos por lotes, scripts de PowerShell, etc.
-
-
-<a name="HelpHowToUse"></a>
-## Ayuda Cómo Usar
-
-PUEDE INICIAR EL AUTO-CLICK EN CUALQUIER MOMENTO PRESIONANDO LA &lt;tecla de activación&gt; (13 = Entrar). Leer toda la Ayuda es opcional.
-
-LOS CAMPOS NO SE PUEDEN MODIFICAR.
-
-&lt;estado de clic&gt; o &lt;estado de clic aleatorio&gt;, el campo de texto superior, está "inactivo" o "haciendo clic".
-  Se muestra como &lt;estado de clic aleatorio&gt; solo cuando todos los tamaños de rectángulo para hacer clic aleatoriamente dentro de él se especifican correctamente en la línea de comando.
-  Simplemente presione el botón \[Carpeta por lotes\] y vea los comentarios en el archivo run_clicker_with_random_clicking.bat.
-
-&lt;número de clics&gt;, el campo de texto superior, indica el número total de clics realizados.
-
-LOS CAMPOS QUE PUEDE MODIFICAR (LLAMADOS PARÁMETROS DE CLIC: TAMBIÉN SE PUEDEN CONFIGURAR DESDE LA LÍNEA DE COMANDO, VEA A CONTINUACIÓN).
-
-&lt;clics por segundo&gt;, el campo de texto central, es la frecuencia de los clics medida en clics por segundo.
-  Esta frecuencia puede llegar a los cien mil (100000) clics por segundo.
-  Se admiten frecuencias FRACCIONALES. Por ejemplo, 0,5 corresponde a 1 clic cada 2 segundos, 0,25 a 1 clic cada 4 segundos, etc.
-
-&lt;teclas de activación de inicio/finalización&gt;, debajo de eso, se encuentran las teclas del teclado para activar los eventos del mouse. Simplemente haga clic en ellos y presione una tecla arbitraria (o presione un botón del mouse).
-  Esa tecla activará los clics del mouse cuando permanezca presionada. Si solo presiona y suelta la tecla, solo se deben hacer unos pocos clics.
-  Este comportamiento corresponde al &lt;modo de tecla de activación&gt; = 'presione', vea cómo cambia en el valor 'alternar' a continuación.
-  El número predeterminado que se muestra en el botón, 13, es el código de la tecla 'Entrar' (por ejemplo, 32 es el código de la tecla 'Espacio', 112 es el código de la tecla 'F1', etc.
-  Para ver todos los códigos clave, consulte [Documentos de Windows](https://learn.microsoft.com/es-es/windows/win32/inputdev/virtual-key-codes){:target="_blank"}.
-
-&lt;detenerse en&gt;, el campo de texto inferior, es el número de clics antes de que el clic se detenga automáticamente.
-  0 es el valor predeterminado y significa infinito, es decir, hacer clic nunca se detendrá.
-
-&lt;modo de tecla de activación&gt; es un grupo de botones de radio, puede seleccionar el modo de clic 'presionar' o 'alternar'.
-  En el modo 'presionar' (predeterminado), los eventos del mouse se emiten solo cuando se mantiene presionada la tecla de activación correspondiente.
-  En el modo 'toogle', los eventos del ratón se emiten entre pulsaciones cortas subsiguientes a la &lt;tecla de activación de inicio&gt; y &lt;tecla de activación final&gt;.
-
-&lt;botón del ratón para hacer clic&gt; es un grupo de botones de radio también, puede seleccionar el botón del mouse 'izquierdo', 'central' o 'derecho' que generará los clics.
-
-Nota 1: No puede hacer que el mismo botón del mouse sea el disparador y el clicker.
-<br/>Nota 2: no puede cambiar la &lt;tecla de activación&gt; si elige el botón izquierdo del ratón; debe presionar el botón \[Reset to defaults\].
-<br/>Nota 3: La &lt;tecla de activación&gt; todavía funciona cuando este programa está minimizado. Debe cerrar el programa para detener una &lt;tecla de activación&gt; de hacer clic.
-
-*NUEVO* Todos los parámetros de clic se guardan automáticamente entre los tiempos de ejecución de la aplicación.
-
-BOTONES Y CARACTERÍSTICAS ADICIONALES.
-
-El botón \[¡DETENER!\] deja de hacer clic obligatoriamente.
-El botón <br/>\[Ayuda\] muestra esta ventana de ayuda.
-<br/>*NUEVO* El botón \[Restablecer valores predeterminados\] restablece todos los parámetros de clic a sus valores predeterminados.
-<br/>*NUEVO* El botón \[Carpeta por lotes\] abre la carpeta en el Explorador de archivos donde normalmente residen todos los archivos por lotes.
-<br/>*NUEVO* Para obtener ayuda sobre los argumentos de la línea de comando, simplemente presione el botón \[Carpeta por lotes\] y vea los comentarios en los archivos \*.bat que encontrará allí.
-<br/>*NUEVO* Teclas independientes para &lt;modo de tecla de activación&gt; = 'alternar': si &lt;iniciar tecla de activación&gt; comienza el clic, luego &lt;finalizar tecla de activación&gt; lo detiene
-<br/>*NUEVO* &lt;Ventana siempre superior&gt; Casilla de verificación: si está marcada, mantiene la ventana principal de la aplicación en la parte superior de las demás.
-<br/>*NUEVO* El botón 'Ejecutar aplicación grupal': graba/reproduce las secuencias de clics del mouse.
 
 
 <a name="Screenshots"></a>

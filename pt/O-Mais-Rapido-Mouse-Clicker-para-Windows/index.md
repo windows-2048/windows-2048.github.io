@@ -118,6 +118,7 @@ A experiência virtual também contribui para aumentar a confiança. Assim, quan
 * [Tecnologia](/pt/O-Mais-Rapido-Mouse-Clicker-para-Windows/Tecnologia/)
 * [Taxa de Votação do Mouse](/pt/O-Mais-Rapido-Mouse-Clicker-para-Windows/Taxa-de-Votacao-do-Mouse/)
 * [Código Fonte e O Mais Rápido Mouse Clicker v3.0.0.0](/pt/O-Mais-Rapido-Mouse-Clicker-para-Windows/Codigo-Fonte/)
+* [Ajuda Como Usar](/pt/O-Mais-Rapido-Mouse-Clicker-para-Windows/Ajuda-Como-Usar/)
 
 
 **Todas as versões futuras do Mouse Mais Rápido Clicker para Windows será cross-platform e feito com Qt.**
