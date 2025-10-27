@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 encoding: UTF-8
 
 burl: https://windows-2048.github.io
-bdate: 2025-10-01
+bdate: 2025-10-27
 
 real_www: windows-2048.github.io
 
@@ -10,16 +10,18 @@ prod-url: https://windows-2048.github.io
 
 github_star_counter: 179
 github_fork_counter: 33
-total_download_counter: 57942225
+total_download_counter: 59795320
 total_rating_counter: 4.7
-upd_day_year: 01 2025
+upd_day_year: 27 2025
 
 download_link_main: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/The-Fastest-Mouse-Clicker-for-Windows/Jan_31/Install_TFMCfW_rar_sfx_v2.6.2.0.exe
+download_link_main_classic: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/The-Fastest-Mouse-Clicker-for-Windows/Installer_TheFastestMouseClickerClassic_v2.1.6.0.msi
 download_link_mirror: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/The-Fastest-Mouse-Clicker-for-Windows/Jan_31/Install_TFMCfW_rar_sfx_v2.6.2.0.exe
 download_exe_name: Install_TFMCfW_rar_sfx_v2.6.2.0.exe
 download_exe_sha256: 3a9b07cb01c1f51e9f10aadd1ae74a5fbd6373407a15ed3a2d6874823d263621
 app_version: 2.6.2.0
-date_published: 2025-01-31
+app_version_classic: 2.1.6.0
+date_published: 2025-10-27
 source_issues_url: https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows/issues/
 
 defaults:
@@ -61,6 +63,10 @@ t:
         en: The Fastest Mouse Clicker for Windows
         es: El Clicker de Ratón Más Rápido para Windows
         pt: O Mais Rápido Mouse Clicker para Windows
+    app_name_classic:
+        en: The Fastest Mouse Clicker for Windows Classic
+        es: El Clicker de Ratón Más Rápido para Windows Clásico
+        pt: O Mais Rápido Mouse Clicker para Windows Clássico
     home:
         en: "/"
         es: "/es/"

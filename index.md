@@ -39,8 +39,10 @@ Windows installers are made for your convenience by open source tool [Inno Setup
 ### Welcome to download and install my flagship product!
 
 <a href="{{ site.download_link_main }}" class="btn btn--stripe">Download {{ site.t['app_name'][page.lang] }} version {{ site.app_version }}</a>
+<a href="{{ site.download_link_main_classic }}" class="btn btn--stripe">Download {{ site.t['app_name_classic'][page.lang] }} version {{ site.app_version_classic }}</a>
+<div style="margin-top: -20px;margin-bottom: 20px;"><small>Without <a href="https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows/issues/20" target="_blank">GitHub issue #20</a>: Keyboard & Mouse locked and hardly able to control when pressing TOGGLE stop key.</small></div>
 <div style="background-color: #690; color: #fff; padding: 10px; margin-top: -10px;">
-    Mark this application as <strong style="color: #fff;">#clean</strong> in your Windows Defender, Windows Smart Screen, other antivirus software.
+    Mark all these applications as <strong style="color: #fff;">#clean</strong> in your Windows Defender, Windows Smart Screen, other antivirus software.
 </div>
 
 

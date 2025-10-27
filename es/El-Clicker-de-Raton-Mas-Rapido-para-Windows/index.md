@@ -28,11 +28,12 @@ Por eso entra en escena El Clicker de Ratón Más Rápido para Windows.
 
 ### ¡Bienvenido a descargar e instalar mi producto estrella!
 
-<a href="{{ site.download_link_main }}" class="btn btn--stripe">Descargar {{ site.t['app_name'][page.lang] }} versión {{ site.app_version }}</a>
+<a href="{{ site.download_link_main }}" class="btn btn--stripe">Download {{ site.t['app_name'][page.lang] }} version {{ site.app_version }}</a>
+<a href="{{ site.download_link_main_classic }}" class="btn btn--stripe">Download {{ site.t['app_name_classic'][page.lang] }} version {{ site.app_version_classic }}</a>
+<div style="margin-top: -20px;margin-bottom: 20px;"><small>Sin <a href="https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows/issues/20" target="_blank">Problema de GitHub #20</a>: el teclado y el mouse están bloqueados y apenas se pueden controlar al presionar la tecla de detención TOGGLE.</small></div>
 <div style="background-color: #690; color: #fff; padding: 10px; margin-top: -10px;">
-    Marque este aplicación como <strong style="color: #fff;">#limpio</strong> en su Windows Defender, Windows Smart Screen y otro software antivirus.
+    Marcar todas estas aplicaciones como <strong style="color: #fff;">#limpias</strong> en su Windows Defender, Windows Smart Screen y otro software antivirus.
 </div>
-
 
 <a name="ChangeLog"></a>
 ### Novedades - La última versión&nbsp;{{site.app_version}}

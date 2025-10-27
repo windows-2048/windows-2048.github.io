@@ -28,11 +28,12 @@ o tempo necessário para construir seu próprio universo no seu jogo favorito é
 
 ### Bem-vindo ao download e instalar meu produto principal!
 
-<a href="{{ site.download_link_main }}" class="btn btn--stripe">Baixar {{ site.t['app_name'][page.lang] }} versão {{ site.app_version }}</a>
+<a href="{{ site.download_link_main }}" class="btn btn--stripe">Download {{ site.t['app_name'][page.lang] }} version {{ site.app_version }}</a>
+<a href="{{ site.download_link_main_classic }}" class="btn btn--stripe">Download {{ site.t['app_name_classic'][page.lang] }} version {{ site.app_version_classic }}</a>
+<div style="margin-top: -20px;margin-bottom: 20px;"><small>Sem o <a href="https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows/issues/20" target="_blank">problema #20 do GitHub</a>: teclado e mouse travados e dificilmente controláveis ​​ao pressionar a tecla TOGGLE stop.</small></div>
 <div style="background-color: #690; color: #fff; padding: 10px; margin-top: -10px;">
-    Marque este aplicação como <strong style="color: #fff;">#limpo</strong> no seu Windows Defender, Windows Smart Screen e outros softwares antivírus.
+    Marque todos esses aplicativos como <strong style="color: #fff;">#limpos</strong> no seu Windows Defender, Windows Smart Screen e outros softwares antivírus.
 </div>
-
 
 Aplicação "Única" | Aplicação "de Grupo"
 ----- | -----
