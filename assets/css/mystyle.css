@@ -187,7 +187,14 @@ a.athisname:hover {
   border-radius: 36px;
 }
 
-
+.btn-img {
+    width: 100%;
+    height: auto;
+}
+.btn-img-half {
+    width: 40%;
+    height: auto;
+}
 
 .highlight table td {
     padding: 5px;
@@ -532,6 +539,10 @@ header {
         border: none;
         border-top: 1px dotted #999;
         border-bottom: 1px dotted #999;
+}
+header_image {
+    width: 270px;
+    height: auto;
 }
 div.header {
         background-color: #efd;

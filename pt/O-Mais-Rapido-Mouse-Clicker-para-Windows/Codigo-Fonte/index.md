@@ -17,7 +17,7 @@ description_rich: "O auto-clicker mais rápido para PC com Windows. Este aplicat
 
 > {{ site.t['updated_text'][page.lang] }} : {{ site.t['updated_month'][page.lang] }} {{ site.upd_day_year }}.
 
-O código-fonte completo com comentários é fornecido com o instalador do Windows ou pode ser assistido no
+O código-fonte completo com comentários pode ser assistido no
 [Github](https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows){:target="_blank"}
 e no [Gitlab](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows){:target="_blank"}.
 

@@ -28,42 +28,12 @@ Por eso entra en escena El Clicker de Ratón Más Rápido para Windows.
 
 ### ¡Bienvenido a descargar e instalar mi producto estrella!
 
-<a href="{{ site.download_link_main }}" class="btn btn--stripe">Download {{ site.t['app_name'][page.lang] }} version {{ site.app_version }}</a>
-<a href="{{ site.download_link_main_classic }}" class="btn btn--stripe">Download {{ site.t['app_name_classic'][page.lang] }} version {{ site.app_version_classic }}</a>
-<div style="margin-top: -20px;margin-bottom: 20px;"><small>Sin <a href="https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows/issues/20" target="_blank">Problema de GitHub #20</a>: el teclado y el mouse están bloqueados y apenas se pueden controlar al presionar la tecla de detención TOGGLE.</small></div>
-<div style="background-color: #690; color: #fff; padding: 10px; margin-top: -10px;">
-    Marcar todas estas aplicaciones como <strong style="color: #fff;">#limpias</strong> en su Windows Defender, Windows Smart Screen y otro software antivirus.
-</div>
 
-<a name="ChangeLog"></a>
-### Novedades - La última versión&nbsp;{{site.app_version}}
+{% include buttons-custom.html %}
 
-Aplicación "Única" | Aplicación "Grupo"
------ | -----
-![{{ site.t['app_name'][page.lang] }} versión 2.6.2.0: Aplicación "Única"](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.2.0/TFMCfW_v2.6.2.0.png) | ![{{ site.t['app_name'][page.lang] }} versión 2.6.2.0: Aplicación "Grupo"](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.2.0/TFMCfW_g_v2.6.2.0.png)
-![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Aplicación "Única" en Windows 11](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-sapp.jpg) | ![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Aplicación "Grupo" en Windows 11](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-gapp.jpg)
 
-<div class="video-container">
-    <iframe
-        width="200"
-        height="auto"
-        src="https://www.youtube.com/embed/fMQn-1DrkZI?rel=0&modestbranding=1"
-        title="Apuestas en Roblox con clicker automático: desde geoduck hasta jackpot y gemelos"
-        frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen
-        loading="lazy" >
-    </iframe>
-</div>
+{% include changelog-custom-{{ page.lang }}.html %}
 
-#### RegistroDeCambios
-
-* Añadido largo esperado puntas de herramientas para las teclas de activación.
-* Indicador de posición actual del ratón obtiene color verde claro.
-* Larga espera nueva función CLIC DE POSICIÓN FIJA.
-* Se corrigieron los textos GUI borrosos en pantallas 4K.
-* Se corrigió la pregunta incorrecta sobre el cierre de la aplicación anterior durante la instalación.
-* Algunas correcciones de errores menores.
 
 ¿Encontraste un error o quieres una nueva función? ¡Cree el [problema]({{ site.source_issues_url }}){:target="_blank"}!
 
@@ -365,6 +335,19 @@ Hice ese trabajo esencialmente y solucioné ese problema ajustando los tamaños 
 Oh no :) Acaba de empezar. No dude en hacer su pregunta por correo electrónico. Consulte el capítulo Contactos a continuación.
 
 ### ¿Qué secreto te ocultan los mejores usuarios de Roblox en 2025?
+
+<div class="video-container">
+    <iframe
+        width="200"
+        height="auto"
+        src="https://www.youtube.com/embed/fMQn-1DrkZI?rel=0&modestbranding=1"
+        title="Apuestas en Roblox con clicker automático: desde geoduck hasta jackpot y gemelos"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+        loading="lazy" >
+    </iframe>
+</div>
 
 Aquí está la respuesta:
 

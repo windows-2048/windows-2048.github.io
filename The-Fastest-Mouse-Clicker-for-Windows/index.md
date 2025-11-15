@@ -28,43 +28,12 @@ Here why The Fastest Mouse Clicker for Windows comes to the scene.
 
 ### Welcome to download and install my flagship product!
 
-<a href="{{ site.download_link_main }}" class="btn btn--stripe">Download {{ site.t['app_name'][page.lang] }} version {{ site.app_version }}</a>
-<a href="{{ site.download_link_main_classic }}" class="btn btn--stripe">Download {{ site.t['app_name_classic'][page.lang] }} version {{ site.app_version_classic }}</a>
-<div style="margin-top: -20px;margin-bottom: 20px;"><small>Without <a href="https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows/issues/20" target="_blank">GitHub issue #20</a>: Keyboard & Mouse locked and hardly able to control when pressing TOGGLE stop key.</small></div>
-<div style="background-color: #690; color: #fff; padding: 10px; margin-top: -10px;">
-    Mark all these applications as <strong style="color: #fff;">#clean</strong> in your Windows Defender, Windows Smart Screen, other antivirus software.
-</div>
+
+{% include buttons-custom.html %}
 
 
-<a name="ChangeLog"></a>
-### What's New - The latest version&nbsp;{{ site.app_version }}
+{% include changelog-custom-{{ page.lang }}.html %}
 
-"Single" application | "Group" application
------ | -----
-![{{ site.t['app_name'][page.lang] }} version 2.6.2.0: "Single" application](screenshots_new/v2.6.2.0/TFMCfW_v2.6.2.0.png) | ![{{ site.t['app_name'][page.lang] }} version 2.6.2.0: "Group" application](screenshots_new/v2.6.2.0/TFMCfW_g_v2.6.2.0.png)
-![{{ site.t['app_name'][page.lang] }} version 2.6.1.0: "Single" application on Windows 11](screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-sapp.jpg) | ![{{ site.t['app_name'][page.lang] }} version 2.6.1.0: "Group" application on Windows 11](screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-gapp.jpg)
-
-<div class="video-container">
-    <iframe
-        width="200"
-        height="auto"
-        src="https://www.youtube.com/embed/X6tFX40n4dk?rel=0&modestbranding=1"
-        title="Roblox Gambling With Auto Clicker: From Geoduck To Jackpot And Twins"
-        frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen
-        loading="lazy" >
-    </iframe>
-</div>
-
-#### ChangeLog
-
-* Added long-awaited tooltips for the trigger keys.
-* Live current mouse position indicator gets light green color.
-* Long waiting new feature FIXED POSITION CLICKING.
-* Fixed blurred GUI texts on 4K screens.
-* Fixed wrong question about close old application during installation.
-* Few minor bug fixes.
 
 Found a bug or want a new feature? Create the [issue]({{ site.source_issues_url }}){:target="_blank"}!
 
@@ -367,6 +336,19 @@ I did that work essentially and have fixed that issue by adjusting font sizes on
 Oh no :) It has been just started. Feel free to ask your question via email. See the Contacts chapter below.
 
 ### What a secret do top-notch Roblox users hide from you in 2025
+
+<div class="video-container">
+    <iframe
+        width="200"
+        height="auto"
+        src="https://www.youtube.com/embed/X6tFX40n4dk?rel=0&modestbranding=1"
+        title="Roblox Gambling With Auto Clicker: From Geoduck To Jackpot And Twins"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+        loading="lazy" >
+    </iframe>
+</div>
 
 [Here](https://www.robloxforum.com/threads/what-a-secret-do-all-roblox-users-hide-from-you-in-2025.110763){:target="_blank"} is the answer.
 

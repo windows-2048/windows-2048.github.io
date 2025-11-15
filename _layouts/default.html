@@ -22,13 +22,13 @@
 {% endfor %}
 <meta property="og:url" content="{{ site.prod-url }}{{ site.base-url }}{{ page.url }}" />
 <meta property="og:site_name" content="{{ page.title | default: site.t['title'][page.lang] }}" />
-<meta property="og:image" content="{{ site.prod-url }}/The-Fastest-Mouse-Clicker-for-Windows/og_thumb_1200x630.png" />
-<meta property="twitter:image" content="{{ site.prod-url }}/The-Fastest-Mouse-Clicker-for-Windows/og_thumb_1200x630.png" />
+<meta property="og:image" content="{{ site.prod-url }}/assets/images/og_thumb_1200x630_v3-{{ page.lang }}.png" />
+<meta property="twitter:image" content="{{ site.prod-url }}/assets/images/og_thumb_1200x630_v3-{{ page.lang }}.png" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:url" content="{{ site.prod-url }}{{ site.base-url }}{{ page.url }}" />
 <meta property="twitter:title" content="{{ page.title | default: site.t['title'][page.lang] }}" />
 <meta property="twitter:description" content="{{ page.description | default: site.t['description'][page.lang] }}" />
-<meta property="twitter:image" content="{{ site.prod-url }}/The-Fastest-Mouse-Clicker-for-Windows/og_thumb_1200x630.png" />
+<meta property="twitter:image" content="{{ site.prod-url }}/assets/images/og_thumb_1200x630_v3-{{ page.lang }}.png" />
 <script type="application/ld+json">
 {
 "@context":"https://schema.org",
@@ -43,7 +43,7 @@
 "name":"{{ site.t['app_name'][page.lang] }}",
 "url":"{{ site.prod-url }}{{ site.t['home_app'][page.lang] }}",
 "description":"{{ page.description | default: site.t['description'][page.lang] }}",
-"image": "{{ site.prod-url }}/The-Fastest-Mouse-Clicker-for-Windows/og_thumb_1200x630.png",
+"image": "{{ site.prod-url }}/assets/images/og_thumb_1200x630_v3-{{ page.lang }}.png",
 "operatingSystem":"Windows",
 "softwareVersion":"{{ site.app_version }}",
 "datePublished":"{{ site.date_published }}",
@@ -74,32 +74,13 @@
 "screenshot":[
 {
 "@type": "ImageObject",
-"url":"{{ site.prod-url }}/The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.2.0/TFMCfW_v2.6.2.0.png"
+"url":"{{ site.prod-url }}/assets/images/tfmcfw_v3.png"
 },
 {
 "@type": "ImageObject",
-"url":"{{ site.prod-url }}/The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.2.0/TFMCfW_g_v2.6.2.0.png"
-},
-{
-"@type": "ImageObject",
-"url":"{{ site.prod-url }}/The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_s1_1322x986.jpg"
-},
-{
-"@type": "ImageObject",
-"url":"{{ site.prod-url }}/The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_s1h_1322x986.jpg"
-},
-{
-"@type": "ImageObject",
-"url":"{{ site.prod-url }}/The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_s1w_1322x986.jpg"
-},
-{
-"@type": "ImageObject",
-"url":"{{ site.prod-url }}/The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_s2_1322x986.jpg"
-},
-{
-"@type": "ImageObject",
-"url":"{{ site.prod-url }}/The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_a1_1322x986.jpg"
-} ]
+"url":"{{ site.prod-url }}/assets/images/tfmcfw_classic64.png"
+}
+]
 }
 }
 </script>
@@ -230,6 +211,8 @@
     </header>
 
     <section>
+
+        <img class="header_image" src="{{ site.prod-url }}/assets/images/og_thumb_1200x630_v3_banner-{{ page.lang }}.png" alt="{{ page.title | default: site.t['title'][page.lang] }}" />
 
         <div class="header">
 

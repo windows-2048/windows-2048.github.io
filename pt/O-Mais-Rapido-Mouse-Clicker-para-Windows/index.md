@@ -28,29 +28,12 @@ o tempo necessário para construir seu próprio universo no seu jogo favorito é
 
 ### Bem-vindo ao download e instalar meu produto principal!
 
-<a href="{{ site.download_link_main }}" class="btn btn--stripe">Download {{ site.t['app_name'][page.lang] }} version {{ site.app_version }}</a>
-<a href="{{ site.download_link_main_classic }}" class="btn btn--stripe">Download {{ site.t['app_name_classic'][page.lang] }} version {{ site.app_version_classic }}</a>
-<div style="margin-top: -20px;margin-bottom: 20px;"><small>Sem o <a href="https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows/issues/20" target="_blank">problema #20 do GitHub</a>: teclado e mouse travados e dificilmente controláveis ​​ao pressionar a tecla TOGGLE stop.</small></div>
-<div style="background-color: #690; color: #fff; padding: 10px; margin-top: -10px;">
-    Marque todos esses aplicativos como <strong style="color: #fff;">#limpos</strong> no seu Windows Defender, Windows Smart Screen e outros softwares antivírus.
-</div>
 
-Aplicação "Única" | Aplicação "de Grupo"
------ | -----
-![{{ site.t['app_name'][page.lang] }} Versão 2.6.2.0: Aplicação "Única"](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.2.0/TFMCfW_v2.6.2.0.png) | ![{{ site.t['app_name'][page.lang] }} Versão 2.6.2.0: Aplicação "de Grupo"](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.2.0/TFMCfW_g_v2.6.2.0.png)
-![{{ site.t['app_name'][page.lang] }} Versão 2.6.1.0: Aplicação "de Grupo" em Windows 11](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-sapp.jpg) | ![{{ site.t['app_name'][page.lang] }} Versão 2.6.1.0: Aplicação "de Grupo" em Windows 11](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-gapp.jpg)
+{% include buttons-custom.html %}
 
-<a name="ChangeLog"></a>
-### O que há de novo? A versão mais recente&nbsp;{{ site.app_version }}
 
-#### AlterarORegisto
+{% include changelog-custom-{{ page.lang }}.html %}
 
-* Adicionado pontas de ferramenta esperada longas para as chaves do gatilho.
-* Indicador de posição do mouse atual ao vivo recebe cor verde clara.
-* Longa espera novo recurso FIXADO POSIÇÃO CLICANDO.
-* Corrigido textos GUI borrados em telas 4K.
-* Corrigido pergunta errada sobre o aplicativo antigo próximo durante a instalação.
-* Poucas correções de bugs menores.
 
 <p>
 Aqui está um vídeo intro curto que diz como baixar e instalar {{ site.t['app_name'][page.lang] }} em 2024-2025.

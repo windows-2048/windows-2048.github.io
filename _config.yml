@@ -2,26 +2,25 @@ theme: jekyll-theme-minimal
 encoding: UTF-8
 
 burl: https://windows-2048.github.io
-bdate: 2025-10-27
+bdate: 2025-11-15
 
 real_www: windows-2048.github.io
 
 prod-url: https://windows-2048.github.io
 
-github_star_counter: 179
-github_fork_counter: 33
-total_download_counter: 59795320
+github_star_counter: 180
+github_fork_counter: 34
+total_download_counter: 61062790
 total_rating_counter: 4.7
-upd_day_year: 27 2025
+upd_day_year: 15 2025
 
-download_link_main: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/The-Fastest-Mouse-Clicker-for-Windows/Jan_31/Install_TFMCfW_rar_sfx_v2.6.2.0.exe
-download_link_main_classic: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/The-Fastest-Mouse-Clicker-for-Windows/Installer_TheFastestMouseClickerClassic_v2.1.6.0.msi
-download_link_mirror: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/The-Fastest-Mouse-Clicker-for-Windows/Jan_31/Install_TFMCfW_rar_sfx_v2.6.2.0.exe
-download_exe_name: Install_TFMCfW_rar_sfx_v2.6.2.0.exe
-download_exe_sha256: 3a9b07cb01c1f51e9f10aadd1ae74a5fbd6373407a15ed3a2d6874823d263621
-app_version: 2.6.2.0
+download_link_main: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/The-Fastest-Mouse-Clicker-for-Windows/Installer_TheFastestMouseClickerv3_v3.0.0.0.msi
+download_link_main_classic: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/The-Fastest-Mouse-Clicker-for-Windows/Installer_TheFastestMouseClickerClassic64_v2.1.6.0.msi
+download_link_mirror: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/The-Fastest-Mouse-Clicker-for-Windows/Installer_TheFastestMouseClickerv3_v3.0.0.0.msi
+
+app_version: 3.0.0.0
 app_version_classic: 2.1.6.0
-date_published: 2025-10-27
+date_published: 2025-11-15
 source_issues_url: https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows/issues/
 
 defaults:
@@ -67,6 +66,14 @@ t:
         en: The Fastest Mouse Clicker for Windows Classic
         es: El Clicker de Ratón Más Rápido para Windows Clásico
         pt: O Mais Rápido Mouse Clicker para Windows Clássico
+    download_html_main:
+        en: '<div style="margin-top: -20px;margin-bottom: 20px;"><small>A brand new cross-platform app written from scratch utilizing <a href="https://doc.qt.io/archives/qt-5.15/classes.html" target="_blank">Qt</a>, <a href="https://github.com/kwhat/libuiohook" target="_blank">libuiohook</a> technologies. Versions for Linux, macOS are coming soon...</small></div>'
+        es: '<div style="margin-top: -20px;margin-bottom: 20px;"><small>Una aplicación multiplataforma completamente nueva, escrita desde cero utilizando las tecnologías <a href="https://doc.qt.io/archives/qt-5.15/classes.html" target="_blank">Qt</a> y <a href="https://github.com/kwhat/libuiohook" target="_blank">libuiohook</a>. Próximamente estarán disponibles las versiones para Linux y macOS...</small></div>'
+        pt: '<div style="margin-top: -20px;margin-bottom: 20px;"><small>Um aplicativo multiplataforma totalmente novo, escrito do zero utilizando as tecnologias <a href="https://doc.qt.io/archives/qt-5.15/classes.html" target="_blank">Qt</a> e <a href="https://github.com/kwhat/libuiohook" target="_blank">libuiohook</a>. Versões para Linux e macOS estarão disponíveis em breve...</small></div>'
+    download_html_main_classic:
+        en: '<div style="margin-top: -20px;margin-bottom: 20px;"><small>A classic Windows app without <a href="https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows/issues/20" target="_blank">GitHub issue #20</a>: Keyboard & Mouse locked and hardly able to control when pressing TOGGLE stop key.</small></div>'
+        es: '<div style="margin-top: -20px;margin-bottom: 20px;"><small>Una aplicación clásica de Windows sin <a href="https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows/issues/20" target="_blank">GitHub Problema #20</a>: El teclado y el ratón se bloquean y apenas se pueden controlar al pulsar la tecla de parada TOGGLE.</small></div>'
+        pt: '<div style="margin-top: -20px;margin-bottom: 20px;"><small>Um aplicativo clássico do Windows sem o <a href="https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows/issues/20" target="_blank">problema #20 do GitHub</a>: Teclado e mouse bloqueados e praticamente impossíveis de controlar ao pressionar a tecla de parada TOGGLE.</small></div>'
     home:
         en: "/"
         es: "/es/"
@@ -120,9 +127,9 @@ t:
         es: Actualizado
         pt: Atualizado
     updated_month:
-        en: Oct
-        es: Octubre
-        pt: Outubro
+        en: Nov
+        es: Noviembre
+        pt: Novembro
     lang_countries:
         en:
             -
