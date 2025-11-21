@@ -124,6 +124,7 @@ a.athisname:hover {
   }
 }
 .btn {
+    width: 85%;
   overflow: visible;
   margin: 0;
   padding: 0;
@@ -640,6 +641,9 @@ body {
 }
 
 @media print, screen and (max-width: 960px) {
+.btn {
+    width: 72.5%;
+}
     div.wrapper {
         width: auto;
         margin: 0;

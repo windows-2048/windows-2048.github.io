@@ -36,10 +36,10 @@ Os instaladores do Windows são feitos para sua conveniência por ferramenta ope
 
 * [2048 Profissional de jogo para Windows (em Inglês)](https://github.com/windows-2048/2048-Game-Professional-for-Windows){:target="_blank"}
 
-### Bem-vindo ao download e instalar meu produto principal!
+**Bem-vindo ao download e instalar meu produto principal!**
 
 
-{% include buttons-custom.html %}
+{% include buttons-custom-{{ page.lang }}.html %}
 
 
 {% include changelog-custom-{{ page.lang }}.html %}

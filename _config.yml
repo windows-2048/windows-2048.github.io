@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 encoding: UTF-8
 
 burl: https://windows-2048.github.io
-bdate: 2025-11-15
+bdate: 2025-11-21
 
 real_www: windows-2048.github.io
 
@@ -10,9 +10,9 @@ prod-url: https://windows-2048.github.io
 
 github_star_counter: 180
 github_fork_counter: 34
-total_download_counter: 61062790
+total_download_counter: 61649093
 total_rating_counter: 4.7
-upd_day_year: 15 2025
+upd_day_year: 21 2025
 
 download_link_main: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/The-Fastest-Mouse-Clicker-for-Windows/Installer_TheFastestMouseClickerv3_v3.0.0.0.msi
 download_link_main_classic: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/The-Fastest-Mouse-Clicker-for-Windows/Installer_TheFastestMouseClickerClassic64_v2.1.6.0.msi
@@ -59,9 +59,9 @@ t:
         es: Mapa del sitio
         pt: Mapa do site
     app_name:
-        en: The Fastest Mouse Clicker for Windows
-        es: El Clicker de Ratón Más Rápido para Windows
-        pt: O Mais Rápido Mouse Clicker para Windows
+        en: The Fastest Mouse Clicker for Windows version 3
+        es: El Clicker de Ratón Más Rápido para Windows versión 3
+        pt: O Mais Rápido Mouse Clicker para Windows versão 3
     app_name_classic:
         en: The Fastest Mouse Clicker for Windows Classic
         es: El Clicker de Ratón Más Rápido para Windows Clásico

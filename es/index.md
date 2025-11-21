@@ -36,10 +36,10 @@ Los instaladores de Windows se crean para su comodidad mediante la herramienta d
 
 * [2048 Juego Professional para Windows (en Inglés)](https://github.com/windows-2048/2048-Game-Professional-for-Windows){:target="_blank"}
 
-### ¡Bienvenido a descargar e instalar mi producto estrella!
+**¡Bienvenido a descargar e instalar mi producto estrella!**
 
 
-{% include buttons-custom.html %}
+{% include buttons-custom-{{ page.lang }}.html %}
 
 
 {% include changelog-custom-{{ page.lang }}.html %}

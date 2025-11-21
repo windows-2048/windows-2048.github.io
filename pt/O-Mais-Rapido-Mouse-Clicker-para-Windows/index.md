@@ -26,10 +26,10 @@ Se você estiver jogando Minecraft, Roblox ou qualquer outro jogo incremental se
 o tempo necessário para construir seu próprio universo no seu jogo favorito é comparável ao tempo de existência do nosso Universo, metaforicamente falando.
 É aqui que O Mais Rápido Mouse Clicker para Windows entra em cena.
 
-### Bem-vindo ao download e instalar meu produto principal!
+**Bem-vindo ao download e instalar meu produto principal!**
 
 
-{% include buttons-custom.html %}
+{% include buttons-custom-{{ page.lang }}.html %}
 
 
 {% include changelog-custom-{{ page.lang }}.html %}
@@ -103,6 +103,7 @@ A experiência virtual também contribui para aumentar a confiança. Assim, quan
 * [Taxa de Votação do Mouse](/pt/O-Mais-Rapido-Mouse-Clicker-para-Windows/Taxa-de-Votacao-do-Mouse/)
 * [Código Fonte e O Mais Rápido Mouse Clicker v3.0.0.0](/pt/O-Mais-Rapido-Mouse-Clicker-para-Windows/Codigo-Fonte/)
 * [Ajuda Como Usar](/pt/O-Mais-Rapido-Mouse-Clicker-para-Windows/Ajuda-Como-Usar/)
+* [Capturas de tela](/pt/O-Mais-Rapido-Mouse-Clicker-para-Windows/Screenshots/)
 
 
 **Todas as versões futuras do Mouse Mais Rápido Clicker para Windows será cross-platform e feito com Qt.**

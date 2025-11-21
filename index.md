@@ -36,10 +36,10 @@ Windows installers are made for your convenience by open source tool [Inno Setup
 
 * [2048 Game Professional for Windows](https://github.com/windows-2048/2048-Game-Professional-for-Windows){:target="_blank"}
 
-### Welcome to download and install my flagship product!
+**Welcome to download and install my flagship product!**
 
 
-{% include buttons-custom.html %}
+{% include buttons-custom-{{ page.lang }}.html %}
 
 
 {% include changelog-custom-{{ page.lang }}.html %}

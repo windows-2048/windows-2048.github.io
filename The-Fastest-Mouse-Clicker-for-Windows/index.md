@@ -26,10 +26,10 @@ If you are playing Minecraft, Roblox or any other idle game, without assistance 
 time needed to build your own universe in your favorite game is comparable to the time of existence of our Universe, metaphorically said.
 Here why The Fastest Mouse Clicker for Windows comes to the scene.
 
-### Welcome to download and install my flagship product!
+**Welcome to download and install my flagship product!**
 
 
-{% include buttons-custom.html %}
+{% include buttons-custom-{{ page.lang }}.html %}
 
 
 {% include changelog-custom-{{ page.lang }}.html %}
@@ -37,14 +37,6 @@ Here why The Fastest Mouse Clicker for Windows comes to the scene.
 
 Found a bug or want a new feature? Create the [issue]({{ site.source_issues_url }}){:target="_blank"}!
 
-<p>
-Here is a brief intro video that tells how to download and install {{ site.t['app_name'][page.lang] }} in 2024-2025.
- <video style="outline:none; width:100%; height:100%;" controls preload="none" poster="/The-Fastest-Mouse-Clicker-for-Windows/videos/TFMCfW_intro_2024.jpg">
-  <source src="/The-Fastest-Mouse-Clicker-for-Windows/videos/TFMCfW_intro_2024.mp4" type="video/mp4"/>
-  Your browser does not support the video tag.
-</video>
-<a href="https://youtu.be/BwB65SpH3-I" target="_blank">Watch intro to {{ site.t['app_name'][page.lang] }} in Youtube.</a>
-</p>
 
 ### Warning
 
@@ -73,7 +65,7 @@ Here is a brief intro video that tells how to download and install {{ site.t['ap
 * [Mouse Polling Rate](/The-Fastest-Mouse-Clicker-for-Windows/Mouse-Polling-Rate/)
 * [Source Code and The Fastest Mouse Clicker v3.0.0.0](/The-Fastest-Mouse-Clicker-for-Windows/Source-Code/)
 * [Help How To Use](/The-Fastest-Mouse-Clicker-for-Windows/Help-How-To-Use/)
-* [Screenshots](index.html#Screenshots)
+* [Screenshots](/The-Fastest-Mouse-Clicker-for-Windows/Screenshots/)
 * [Partners](index.html#Partners)
 * [Video Reviews From Our Users](index.html#Reviews_from_our_users)
 * [Frequently Asked Questions (FAQ)](index.html#FAQ)
@@ -159,63 +151,6 @@ There are a lot of use-cases of {{ site.t['app_name'][page.lang] }}.
 Amateurs can use it for cheating in various web sites or video games such as Counter-Strike: Global Offensive (CS:GO), Candy Crush Saga, Roblox games, etc.
 Professionals can use it for quality assistant and testing purposes because full support of command line in batch files, PowerShell scripts, etc.
 
-
-<a name="Screenshots"></a>
-## Screenshots
-
-### Screenshots for the latest version 2.6.1.0 are here!
-
-* The Fastest Mouse Clicker for Windows version 2.6.1.0 - Brand new Windows 11 22H2 screenshot.
-
-![The Fastest Mouse Clicker for Windows version 2.6.1.0 - Brand new Windows 11 22H2 screenshot.](screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-sapp.jpg)
-
-* The Fastest Mouse Clicker for Windows version 2.6.1.0 - Brand new Windows 11 22H2 screenshot (group application).
-
-![The Fastest Mouse Clicker for Windows version 2.6.1.0 - Brand new Windows 11 22H2 screenshot (group application).](screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-gapp.jpg)
-
-* The Fastest Mouse Clicker for Windows version 2.6.1.0 - Brand new Windows 11 22H2 screenshot (install step 1).
-
-![The Fastest Mouse Clicker for Windows version 2.6.1.0 - Brand new Windows 11 22H2 screenshot (install step 1).](screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-install.jpg)
-
-* The Fastest Mouse Clicker for Windows version 2.6.1.0 - Brand new Windows 11 22H2 screenshot (install step 2).
-
-![The Fastest Mouse Clicker for Windows version 2.6.1.0 - Brand new Windows 11 22H2 screenshot (install step 2).](screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-install-2.jpg)
-
-* The Fastest Mouse Clicker for Windows version 2.6.1.0 - Brand new Windows 11 22H2 screenshot (install step 3).
-
-![The Fastest Mouse Clicker for Windows version 2.6.1.0 - Brand new Windows 11 22H2 screenshot (install step 3).](screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-install-3.jpg)
-
-* The Fastest Mouse Clicker for Windows version 2.6.1.0 - Brand new Windows 11 22H2 screenshot (install step 4).
-
-![The Fastest Mouse Clicker for Windows version 2.6.1.0 - Brand new Windows 11 22H2 screenshot (install step 4).](screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-install-4.jpg)
-
-* The Fastest Mouse Clicker for Windows version 2.6.1.0 - Brand new Windows 11 22H2 screenshot (install step 5).
-
-![The Fastest Mouse Clicker for Windows version 2.6.1.0 - Brand new Windows 11 22H2 screenshot (install step 5).](screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-install-5.jpg)
-
-* The Fastest Mouse Clicker for Windows version 2.6.1.0: introduce the "FIXED POSITION CLICKING" feature.
-
-![The Fastest Mouse Clicker for Windows version 2.6.1.0: introduce the "FIXED POSITION CLICKING" feature](screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_s1_1322x986.jpg)
-
-* The Fastest Mouse Clicker for Windows version 2.6.1.0: the brand new Group App in details.
-
-![The Fastest Mouse Clicker for Windows version 2.6.1.0: the brand new Group App in details](screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_s1h_1322x986.jpg)
-
-* The Fastest Mouse Clicker for Windows version 2.6.1.0: running under Wine 4.0.2/Linux(CentOS 6).
-
-![The Fastest Mouse Clicker for Windows version 2.6.1.0: running under Wine 4.0.2/Linux(CentOS 6)](screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_s1w_1322x986.jpg)
-
-* The Fastest Mouse Clicker for Windows version pre-2.5.x.x family: what's old but important.
-
-![The Fastest Mouse Clicker for Windows version pre-2.5.x.x family: what's old but important](screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_s2_1322x986.jpg)
-
-* The Fastest Mouse Clicker for Windows version 2.6.1.0: completely hand-made art by the clicker application.
-
-![The Fastest Mouse Clicker for Windows version 2.6.1.0: completely hand-made art by the clicker application](screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_a1_1322x986.jpg)
-
-* The Fastest Mouse Clicker for Windows version 2.6.1.0 - Main app with batch folder that reveals "secret" features.
-
-![The Fastest Mouse Clicker for Windows version 2.6.1.0 - Main app with batch folder that reveals "secret" features](screenshots_new/v2.6.1.0/tfmcfw-v2.6.1.0-batch-folder.jpg)
 
 <a name="Partners"></a>
 ## Partners

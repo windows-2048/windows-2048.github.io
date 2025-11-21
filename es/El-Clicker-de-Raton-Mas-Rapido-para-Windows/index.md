@@ -26,10 +26,10 @@ Si juegas a Minecraft, Roblox o cualquier otro juego inactivo sin la ayuda de un
 el tiempo necesario para construir tu propio universo en tu juego favorito es comparable a la existencia de nuestro universo, metafóricamente.
 Por eso entra en escena El Clicker de Ratón Más Rápido para Windows.
 
-### ¡Bienvenido a descargar e instalar mi producto estrella!
+**¡Bienvenido a descargar e instalar mi producto estrella!**
 
 
-{% include buttons-custom.html %}
+{% include buttons-custom-{{ page.lang }}.html %}
 
 
 {% include changelog-custom-{{ page.lang }}.html %}
@@ -73,7 +73,7 @@ Aquí hay un breve video de introducción que explica cómo descargar e instalar
 * [Tasa de Sondeo del Ratón](/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/Tasa-de-Sondeo-del-Raton/)
 * [Código Fuente y El Clicker de Ratón Más Rápido v3.0.0.0](/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/Codigo-Fuente/)
 * [Ayuda Cómo Usar](/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/Ayuda-Como-Usar/)
-* [Capturas de Pantalla](index.html#Screenshots)
+* [Capturas de Pantalla](/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/Screenshots/)
 * [Socios](index.html#Partners)
 * [Opiniones en Video de Nuestros Usuarios](index.html#Reviews_from_our_users)
 * [Preguntas Frecuentes (FAQ)](index.html#FAQ)
@@ -158,63 +158,6 @@ Hay muchos casos de uso de {{ site.t['app_name'][page.lang] }}.
 Los aficionados pueden usarlo para hacer trampa en varios sitios web o videojuegos como Counter-Strike: Global Offensive (CS:GO), Candy Crush Saga, juegos de Roblox, etc.
 Los profesionales pueden utilizarlo como asistente de calidad y con fines de prueba porque es totalmente compatible con la línea de comandos en archivos por lotes, scripts de PowerShell, etc.
 
-
-<a name="Screenshots"></a>
-## Capturas de Pantalla
-
-### ¡Las capturas de pantalla de la última versión 2.6.1.0 están aquí!
-
-* {{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Nueva captura de pantalla de Windows 11 22H2.
-
-![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Nueva captura de pantalla de Windows 11 22H2](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-sapp.jpg)
-
-* {{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Nueva captura de pantalla de Windows 11 22H2 (solicitud de grupo).
-
-![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Nueva captura de pantalla de Windows 11 22H2 (solicitud de grupo)](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-gapp.jpg)
-
-* {{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Nueva captura de pantalla de Windows 11 22H2 (instalar paso 1).
-
-![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Nueva captura de pantalla de Windows 11 22H2 (instalar paso 1)](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-install.jpg)
-
-* {{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Nueva captura de pantalla de Windows 11 22H2 (instalar paso 2).
-
-![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Nueva captura de pantalla de Windows 11 22H2 (instalar paso 2)](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-install-2.jpg)
-
-* {{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Nueva captura de pantalla de Windows 11 22H2 (instalar paso 3).
-
-![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Nueva captura de pantalla de Windows 11 22H2 (instalar paso 3)](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-install-3.jpg)
-
-* {{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Nueva captura de pantalla de Windows 11 22H2 (instalar paso 4).
-
-![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Nueva captura de pantalla de Windows 11 22H2 (instalar paso 4)](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-install-4.jpg)
-
-* {{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Nueva captura de pantalla de Windows 11 22H2 (instalar paso 5).
-
-![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: Nueva captura de pantalla de Windows 11 22H2 (instalar paso 5)](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/tfmcfw-win11-22h2-install-5.jpg)
-
-* {{ site.t['app_name'][page.lang] }} versión 2.6.1.0: presenta la función "CLIC EN POSICIÓN FIJA".
-
-![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: presenta la función "CLIC EN POSICIÓN FIJA"](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_s1_1322x986.jpg)
-
-* {{ site.t['app_name'][page.lang] }} versión 2.6.1.0: la nueva aplicación de grupo en detalles.
-
-![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: la nueva aplicación de grupo en detalles](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_s1h_1322x986.jpg)
-
-* {{ site.t['app_name'][page.lang] }} versión 2.6.1.0: ejecutándose bajo Wine 4.0.2/Linux (CentOS 6).
-
-![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: ejecutándose bajo Wine 4.0.2/Linux (CentOS 6)](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_s1w_1322x986.jpg)
-
-* {{ site.t['app_name'][page.lang] }} versión anterior a la familia 2.5.x.x: lo que es antiguo pero importante.
-
-![{{ site.t['app_name'][page.lang] }} versión anterior a la familia 2.5.x.x: lo que es antiguo pero importante](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_s2_1322x986.jpg)
-
-* {{ site.t['app_name'][page.lang] }} versión 2.6.1.0: arte completamente hecho a mano por la aplicación clicker.
-
-![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: arte completamente hecho a mano por la aplicación clicker](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/TFMCfW_v2.6.1.0_a1_1322x986.jpg)
-
-* {{ site.t['app_name'][page.lang] }} versión 2.6.1.0: aplicación principal con carpeta por lotes que revela funciones "secretas".
-
-![{{ site.t['app_name'][page.lang] }} versión 2.6.1.0: aplicación principal con carpeta por lotes que revela funciones "secretas"](../../The-Fastest-Mouse-Clicker-for-Windows/screenshots_new/v2.6.1.0/tfmcfw-v2.6.1.0-batch-folder.jpg)
 
 <a name="Partners"></a>
 ## Socios
