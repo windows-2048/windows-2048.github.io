@@ -17,7 +17,7 @@ description_rich: 'O auto-clicker mais rápido para PC com Windows. 100000 cliqu
 
 > {{ site.t['updated_text'][page.lang] }} : {{ site.t['updated_month'][page.lang] }} {{ site.upd_day_year }}.
 
-#### 2025 é o 9o aniversário do projeto
+#### 2025 é o 9 aniversário do projeto
 
 <a name="QuickStart"></a>
 ## Início Rápido
@@ -34,15 +34,6 @@ o tempo necessário para construir seu próprio universo no seu jogo favorito é
 
 {% include changelog-custom-{{ page.lang }}.html %}
 
-
-<p>
-Aqui está um vídeo intro curto que diz como baixar e instalar {{ site.t['app_name'][page.lang] }} em 2024-2025.
- <video style="outline:none; width:100%; height:100%;" controls preload="none" poster="/The-Fastest-Mouse-Clicker-for-Windows/videos/TFMCfW_intro_2024.jpg">
-  <source src="/The-Fastest-Mouse-Clicker-for-Windows/videos/TFMCfW_intro_2024.mp4" type="video/mp4"/>
-  Seu navegador não suporta a tag de vídeo.
-</video>
-<a href="https://youtu.be/BwB65SpH3-I" target="_blank">Assista intro a {{ site.t['app_name'][page.lang] }} em Youtube.</a>
-</p>
 
 ### Aplicativos de Auto Clicker de Mouse em Portugal e Brasil: Diferenças em Relação aos Estados Unidos
 
@@ -94,30 +85,33 @@ A experiência virtual também contribui para aumentar a confiança. Assim, quan
 
 ----
 
-## Índice
+<a name="Introduction"></a>
+## Introdução
 
-* [Desambiguação](/pt/O-Mais-Rapido-Mouse-Clicker-para-Windows/Desambiguacao/)
-* [Característicos](/pt/O-Mais-Rapido-Mouse-Clicker-para-Windows/Caracteristicos/)
-* [Comparação](/pt/O-Mais-Rapido-Mouse-Clicker-para-Windows/Comparacao/)
-* [Tecnologia](/pt/O-Mais-Rapido-Mouse-Clicker-para-Windows/Tecnologia/)
-* [Taxa de Votação do Mouse](/pt/O-Mais-Rapido-Mouse-Clicker-para-Windows/Taxa-de-Votacao-do-Mouse/)
-* [Código Fonte e O Mais Rápido Mouse Clicker v3.0.0.0](/pt/O-Mais-Rapido-Mouse-Clicker-para-Windows/Codigo-Fonte/)
-* [Ajuda Como Usar](/pt/O-Mais-Rapido-Mouse-Clicker-para-Windows/Ajuda-Como-Usar/)
-* [Capturas de tela](/pt/O-Mais-Rapido-Mouse-Clicker-para-Windows/Screenshots/)
+Este é o site oficial para baixar diversas versões de {{ site.t['app_name'][page.lang] }}.
+Apresentamos o aplicativo de cliques de mouse mais rápido que você já viu!
 
+Cansado de aplicativos de cliques de mouse lentos e sem resposta que simplesmente não funcionam? Não procure mais! Nosso novo e revolucionário aplicativo de cliques de mouse para Windows chegou para mudar o jogo.
 
-**Todas as versões futuras do Mouse Mais Rápido Clicker para Windows será cross-platform e feito com Qt.**
+Temos orgulho de utilizar o poder oculto da API Win32 SendInput(), que diferencia nosso aplicativo de todos os concorrentes. Essa tecnologia exclusiva nos permite garantir que nosso aplicativo seja o mais rápido e eficiente disponível no mercado.
 
-Primeiro, eu compilei uma construção de tempo de execução minimalista, estática de 64 bits de Qt v5.15.5 (LTS) feita para Windows 7 a 11 sob o compilador MSVC 2019.
+Aumente sua produtividade e experiência de jogo com estes recursos incríveis:
 
-Definir opções:
+* Velocidade incomparável: Diga adeus a travamentos e atrasos. Nossa integração superior com a API Win32 SendInput() proporciona os cliques de mouse mais suaves e rápidos que você já experimentou.
 
-```
-C:\qt-src-5.15.5\configure -static -static-runtime -qt-zlib -qt-libjpeg -qt-libpng -qt-freetype -qt-pcre -qt-harfbuzz -no-sse4.1 -no-sse4.2 -no-avx2 -no-avx512 -no-pch -no-ssl -no-openssl -no-opengl -qpa windows -confirm-license -opensource -release -make libs -make tools -prefix c:/qt-5.15.5-static
-```
+* Configurações personalizáveis: Ajuste suas taxas e intervalos de cliques às suas necessidades específicas, salve predefinições e alterne entre elas com facilidade.
 
-Faça o download [qt-5.15.5-static.zip](https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/qt-5.15.5-static.zip).
+* Interface fácil de usar: Navegue pelo aplicativo sem esforço com nosso design elegante e intuitivo.
 
+* Perfeito para jogadores e profissionais: Seja para jogos MMORPG, tarefas com tempo limitado ou entrada de dados, nosso aplicativo de clique do mouse melhora seu desempenho e reduz o esforço das suas mãos.
+
+* Atualizações regulares: Buscamos constantemente aprimorar e fornecer os recursos mais recentes — nosso aplicativo evolui com você.
+
+* Aprovado por milhares: Junte-se à nossa crescente comunidade de usuários satisfeitos que já experimentaram o poder do aplicativo de clique do mouse mais rápido para Windows.
+
+Existem muitos casos de uso para {{ site.t['app_name'][page.lang] }}.
+Amadores podem usá-lo para trapacear em diversos sites ou videogames, como Counter-Strike: Global Offensive (CS:GO), Candy Crush Saga, jogos do Roblox, etc.
+Profissionais podem usá-lo para auxiliar na qualidade e para fins de teste, devido ao suporte completo à linha de comando em arquivos em lote, scripts do PowerShell, etc.
 
 <a name="Contacts"></a>
 ## Contatos

@@ -17,7 +17,7 @@ description_rich: 'El autoclic más rápido para PC con Windows. 100000 clics po
 
 > {{ site.t['updated_text'][page.lang] }} : {{ site.t['updated_month'][page.lang] }} {{ site.upd_day_year }}.
 
-#### 2025 es el 9º aniversario del proyecto
+#### 2025 es el 9 aniversario del proyecto
 
 <a name="QuickStart"></a>
 ## Inicio Rápido
@@ -37,14 +37,6 @@ Por eso entra en escena El Clicker de Ratón Más Rápido para Windows.
 
 ¿Encontraste un error o quieres una nueva función? ¡Cree el [problema]({{ site.source_issues_url }}){:target="_blank"}!
 
-<p>
-Aquí hay un breve video de introducción que explica cómo descargar e instalar {{ site.t['app_name'][page.lang] }} en 2024-2025.
- <video style="outline:none; width:100%; height:100%;" controls preload="none" poster="/The-Fastest-Mouse-Clicker-for-Windows/videos/TFMCfW_intro_2024.jpg">
-  <source src="/The-Fastest-Mouse-Clicker-for-Windows/videos/TFMCfW_intro_2024.mp4" type="video/mp4"/>
-  Su navegador no soporta la etiqueta de video.
-</video>
-<a href="https://youtu.be/BwB65SpH3-I" target="_blank">Mire la introducción a {{ site.t['app_name'][page.lang] }} en Youtube.</a>
-</p>
 
 ### Advertencia
 
@@ -62,22 +54,6 @@ Aquí hay un breve video de introducción que explica cómo descargar e instalar
 </div>
 
 ----
-
-## Tabla de contenido
-
-* [Desambiguación](/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/Desambiguacion/)
-* [Introducción](index.html#Introduction)
-* [Características](/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/Caracteristicas/)
-* [Comparación](/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/Comparacion/)
-* [Tecnología](/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/Tecnologia/)
-* [Tasa de Sondeo del Ratón](/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/Tasa-de-Sondeo-del-Raton/)
-* [Código Fuente y El Clicker de Ratón Más Rápido v3.0.0.0](/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/Codigo-Fuente/)
-* [Ayuda Cómo Usar](/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/Ayuda-Como-Usar/)
-* [Capturas de Pantalla](/es/El-Clicker-de-Raton-Mas-Rapido-para-Windows/Screenshots/)
-* [Socios](index.html#Partners)
-* [Opiniones en Video de Nuestros Usuarios](index.html#Reviews_from_our_users)
-* [Preguntas Frecuentes (FAQ)](index.html#FAQ)
-* [Contactos](index.html#Contacts)
 
 <a name="Introduction"></a>
 ## Introducción
@@ -103,114 +79,9 @@ Entonces, ¿por qué esperar? Aumente su productividad y experiencia de juego co
 
 * Con la confianza de miles: Únase a nuestra creciente comunidad de usuarios satisfechos que han experimentado el poder de la aplicación de clic de mouse más rápida para Windows.
 
-¿Que estas esperando? Experimente clics ultrarrápidos y mejore su experiencia digital como nunca antes. Descarga e instala la aplicación definitiva hoy, ¡porque te mereces lo mejor!
-
-
-Todas las versiones se envían con huellas dactilares SHA256 para garantizar que descargue el software original.
-
-El clicker automático de mouse de código abierto gratuito estándar de la industria emula los clics de Windows EXTREMADAMENTE RÁPIDAMENTE a través de matrices de 1-1000 eventos de mouse en Win32 <code><a href="https://learn.microsoft.com/es-es/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a></code>, haciendo hasta 100 000 clics por segundo. Nuevo soporte para hacer clic en grupo, línea de comandos para archivos por lotes, guardado automático al salir, clics aleatorios, la ventana de la aplicación siempre se admite. Este programa autónomo compacto está compilado y vinculado estáticamente por el compilador gnu/gcc y es compatible con todos los Windows 7 a 10 y Linux a través del emulador Wine. Este clicker es el mejor para juegos incrementales: Cooking, Soda, Minecraft, etc.
-
-El programa está escrito en Vanilla C++ con API Win32 nativa y vinculado estáticamente, por lo que se convierte en un ejecutable supercompacto sin dependencias externas y puede ejecutarse en una instalación simple de Windows.
-
-Gratis y rápido, de código abierto, con todas las funciones, auto clicker de mouse con enlace estático para Windows escrito en Vanilla C++. Utiliza Win32 en matriz limitada por hardware <code><a href="https://learn.microsoft.com/es-es/windows/win32/api/winuser/nf-winuser-sendinput" target="_blank">SendInput()</a></code> llamadas para alcanzar hasta 100000 clics/s. Admite línea de comandos, clics aleatorios y grabación de reproducción de secuencias de clics.
-
-Esta es una herramienta profesional tanto para el flujo de trabajo de asistencia de calidad como para hacer trampa en videojuegos.
-Usando las teclas del teclado (o los botones del mouse) como disparador, puede colocar el mouse y luego presionar una tecla para hacer clic hasta 100000 veces por segundo.
-10 veces más rápido que el proyecto abandonado en [sourceforge.net](https://sourceforge.net/projects/fastclicker/){:target="_blank"}.
-{{ site.t['app_name'][page.lang] }} le permite configurar una clave de activación para cambiar el clic automático. Hay dos modos de activación:
-"presionar": la aplicación repetirá el clic mientras se presione la tecla de activación, y
-"alternar": una pulsación de la tecla Iniciar activación activa el clic automático hasta que una pulsación de la tecla Finalizar activación lo desactiva.
-Por supuesto, puede seleccionar teclas de activación de inicio y finalización arbitrarias.
-También tiene la opción de establecer una limitación del número de clics. El clicker automático del mouse se detiene automáticamente cuando se alcanza el número deseado de clics.
-
-> ¡Se ha lanzado una nueva versión grande con CLIC DE POSICIÓN FIJA!
-
-{{ site.t['app_name'][page.lang] }} hace clic con el mouse automáticamente al emular los eventos de clic del mouse.
-La aplicación tiene una función de clic aleatorio en un cuadro, si lo desea por alguna razón.
-Planeo implementar un intervalo de tiempo variable entre los clics y permitirle elegir un rango de intervalo aleatorio.
-Las teclas de acceso rápido que activan los clics del mouse serán compatibles con casi todos los modificadores de teclas, como SHIFT, CONTROL y ALT, por lo que le permiten tener activadores SHIFT+\<Key\>, CONTROL+\<Key\> y ALT+\<Key\>.
-{{ site.t['app_name'][page.lang] }} ahora es adecuado para hacer clic automáticamente en Minecraft y Roblox, gracias a la solicitud del usuario de Xisuma.
-Además, el programa se puede utilizar como reproductor automático para el juego ClickerHeroes.
-Puede hacer clic automáticamente, activar habilidades, comprar héroes y mejoras, y ascender y empezar de nuevo.
-Todo lo que necesita es grabar y reproducir la secuencia de clics adecuada (ver más abajo).
-
-Puede hacer clic automáticamente en las imágenes, completar automáticamente los formularios web, enviar automáticamente varios tipos de solicitudes con este clic automático.
-Por ejemplo, {{ site.t['app_name'][page.lang] }} se puede usar para secuencias de comandos en Steam Summer Monster Minigame.
-Otro ejemplo, este programa puede ser un bot para sitios web de PTC como shorte.st, linkbucks, admy.link, etc. que salta automáticamente los anuncios.
-Group Clicker es parte de {{ site.t['app_name'][page.lang] }}. Para ejecutar esta extensión, simplemente haga clic en el botón "Ejecutar aplicación de grupo" en la ventana principal de {{ site.t['app_name'][page.lang] }}.
-Para volver a la aplicación anterior, haga clic en el botón "Ejecutar aplicación única".
-Group Clicker lo ayuda a mantener una hoja de archivo de datos separada desde la cual Group Clicker puede obtener datos y usarlos fila por fila.
-También planeo implementar un programa almacenado en un archivo de texto sin formato que le permita hacer clic automáticamente en una página web/URL en un día y hora en particular.
-Puede agregar sus propias funciones abriendo el archivo de la solución en Visual Studio y modificando el código fuente.
-El instalador de Windows abre las carpetas correspondientes de forma predeterminada.
-
-<p>
-Aquí hay un breve video de introducción que explica cómo descargar e instalar {{ site.t['app_name'][page.lang] }}.
-También muestra una guía básica de inicio rápido para usar clics automáticos.
- <video style="outline:none; width:100%; height:100%;" controls preload="none" poster="../../The-Fastest-Mouse-Clicker-for-Windows/videos/TFMCfW_intro.jpg">
-  <source src="../../The-Fastest-Mouse-Clicker-for-Windows/videos/TFMCfW_intro.mp4" type="video/mp4"/>
-  Su navegador no soporta la etiqueta de vídeo.
-</video>
-<a href="https://www.youtube.com/watch?v=gCpALY1WqmE" target="_blank">Mira la introducción a {{ site.t['app_name'][page.lang] }} en Youtube.</a>
-</p>
-
 Hay muchos casos de uso de {{ site.t['app_name'][page.lang] }}.
 Los aficionados pueden usarlo para hacer trampa en varios sitios web o videojuegos como Counter-Strike: Global Offensive (CS:GO), Candy Crush Saga, juegos de Roblox, etc.
 Los profesionales pueden utilizarlo como asistente de calidad y con fines de prueba porque es totalmente compatible con la línea de comandos en archivos por lotes, scripts de PowerShell, etc.
-
-
-<a name="Partners"></a>
-## Socios
-
-¿Qué dicen nuestros socios sobre The Fastest Mouse Clicker para Windows? Aquí están sus reseñas sobre mi legendaria herramienta de software.
-
-* [Bytesin](https://www.bytesin.com/software/The-Fastest-Mouse-Clicker-for-Windows/){:target="_blank"}, Your Daily Dose of Bytes
-
-> Fastest Mouse Clicker para Windows es una práctica herramienta de software diseñada para ayudarlo a automatizar sus clics, eliminando así las tareas manuales repetitivas y ahorrando el tiempo que de otro modo se dedicaría a realizarlas.
-
-* [Chocolatey](https://chocolatey.org/packages/fastest-mouse-clicker){:target="_blank"}, The Package Manager for Windows
-
-> Para instalar The Fastest Mouse Clicker para Windows, ejecute el siguiente comando desde la línea de comandos o desde PowerShell: choco install Fastest-Mouse-Clicker.
-
-* [Github](https://github.com/windows-2048/The-Fastest-Mouse-Clicker-for-Windows){:target="_blank"}, Built for Developers
-
-> ¡En 2023, mi proyecto estrella celebra el 7º aniversario! Puede descargar e instalar el relanzamiento del aniversario en GitHub.
-
-* [Gitlab](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows){:target="_blank"}, Simplify Your Workflows
-
-> Todas las versiones futuras de The Fastest Mouse Clicker para Windows serán multiplataforma y se realizarán con Qt.
-
-* [Lamerkomp](https://lamerkomp.ru/load/sistemnye_utility/avtoklikery/the_fastest_mouse_clicker_for_windows/56-1-0-6328){:target="_blank"}, Download Freeware without Registration
-
-> La interfaz del autoclicker es simple, pero se recomienda leer la Ayuda antes de usarla. Puede seleccionar el botón del mouse para clics automáticos (izquierdo, derecho o medio), especificar la frecuencia y el número total de clics.
-
-* [Majorgeeks](http://m.majorgeeks.com/files/details/the_fastest_mouse_clicker_for_windows.html){:target="_blank"}, It's Geekalicious
-
-> Fastest Mouse Clicker para Windows permite realizar tareas repetitivas con la posibilidad de personalización a través de la GUI o la línea de comandos. Esta pequeña utilidad tiene una de las mejores tasas de clics, con tasas que superan los 100k clics por segundo.
-
-* [OSDN](https://osdn.net/projects/fastest-clicker/){:target="_blank"}, Develop and Download Open Source Software
-
-> En pocas palabras, la aplicación está lista para hacer clic automáticamente INMEDIATAMENTE, una vez que la ejecuta y presiona la tecla de activación que por defecto escanea el código 13, es decir, la tecla es ENTER (RETURN).
-
-* [Softpedia](https://www.softpedia.com/get/System/OS-Enhancements/The-Fastest-Mouse-Clicker-for-Windows.shtml){:target="_blank"}, Free Downloads Encyclopedia
-
-> Hay ciertas actividades de las que la gente se desharía lo antes posible, y es que suele tener algo que ver no con el nivel de dificultad sino con la naturaleza repetitiva de la tarea, que la hace totalmente insoportable. No sorprende entonces que se hayan desarrollado utilidades de software para ayudarlos a evitar este tipo de operaciones, con un ejemplo en este sentido es The Fastest Mouse Clicker para Windows.
-
-* [filerox](https://the-fastest-mouse-clicker-for-windows.en.filerox.com/){:target="_blank"}, Un sitio web creado para brindar los mejores servicios gratuitos a nuestros usuarios. Filerox.com se fundó por diversas razones
-
-> El Clicker de Ratón Más Rápido para Windows es un programa de la categoría Acción. Esta aplicación es una de las más populares entre sus usuarios por varias razones. Te ayuda a emular clics infinitos o tareas relacionadas con la acción. Si buscas una solución o una aplicación de acción, el Clicker de Ratón Más Rápido para Windows puede serte de gran ayuda.
-
-* [autohotkey](https://www.autohotkey.com/boards/viewtopic.php?style=1&t=74519){:target="_blank"}, Ayudémonos unos a otros
-
-> Este clicker automático de ratón, gratuito y de código abierto, estándar en la industria, emula los clics de Windows con una rapidez increíble mediante matrices de entre 1 y 1000 eventos de ratón en la API Win32 SendInput(), lo que permite generar hasta 100 000 clics por segundo. Ofrece teclas de activación independientes (o botones del ratón), línea de comandos para archivos por lotes, guardado automático al salir, clics aleatorios y la ventana de la aplicación siempre en primer plano. Este programa compacto e independiente está compilado y enlazado estáticamente mediante el compilador gnu/gcc y es compatible con Windows 7 a 10 y Linux mediante el emulador Wine. Este clicker es ideal para juegos incrementales: Cooking, Soda, Minecraft, etc.
-
-* [Uptodown](https://the-fastest-mouse-clicker-for-windows.en.uptodown.com/windows/download){:target="_blank"}, Download Discover Share
-
-> Fastest Mouse Clicker para Windows es exactamente lo que sugiere su nombre: un programa emula muchos clics automáticamente. Con este programa puedes emular más de cien mil clics en un segundo. Y por supuesto, puedes elegir cualquiera de los botones de tu ratón.
-
-* [Softlay](https://www.softlay.com/downloads/the-fastest-mouse-clicker){:target="_blank"}, Emulate Endless Clicks
-
-> Fastest Mouse Clicker para Windows está específicamente diseñado para permitir a los usuarios hacer clic más de cien mil veces en un segundo. Este útil clicker automático del mouse para Windows elimina la necesidad de hacer clic una y otra vez. Bastante útil en los juegos, esta utilidad gratuita de software de clic automático es muy fácil de personalizar y tiene el conjunto adecuado de herramientas para automatizar tareas repetitivas para su PC con Windows.
 
 <a name="Reviews_from_our_users"></a>
 ## Opiniones en Video de Nuestros Usuarios

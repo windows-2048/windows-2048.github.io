@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 encoding: UTF-8
 
 burl: https://windows-2048.github.io
-bdate: 2025-11-21
+bdate: 2025-12-07
 
 real_www: windows-2048.github.io
 
@@ -10,9 +10,9 @@ prod-url: https://windows-2048.github.io
 
 github_star_counter: 180
 github_fork_counter: 34
-total_download_counter: 61649093
+total_download_counter: 62947416
 total_rating_counter: 4.7
-upd_day_year: 21 2025
+upd_day_year: 07 2025
 
 download_link_main: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/The-Fastest-Mouse-Clicker-for-Windows/Installer_TheFastestMouseClickerv3_v3.0.0.0.msi
 download_link_main_classic: https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/The-Fastest-Mouse-Clicker-for-Windows/Installer_TheFastestMouseClickerClassic64_v2.1.6.0.msi
@@ -127,9 +127,9 @@ t:
         es: Actualizado
         pt: Atualizado
     updated_month:
-        en: Nov
-        es: Noviembre
-        pt: Novembro
+        en: Dec
+        es: Diciembre
+        pt: Dezembro
     lang_countries:
         en:
             -
